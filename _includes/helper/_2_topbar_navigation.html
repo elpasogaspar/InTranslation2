@@ -21,29 +21,35 @@
 
     <li id="tnav-search" class="tnav-item"><a href="{{ "/search/" | absolute_url }}">{% include svg/search.svg %}</a></li>
 
-  <!-- {% if page.layout != 'index' %}
-  {% assign posts=site.posts | where:"language-ref", page.language-ref | sort: 'language' %}
-      {% if posts.size == 0 %}
-          {% assign posts=site.pages | where:"language-ref", page.language-ref | sort: 'language' %}
-      {% endif %}
-      {% if posts.size > 1 %}
-          {% for post in posts %}
-          <li class="tnav-item"><a href="{{ post.url | relative_url }}" class="{{ post.language }}" title="View in {{post.language}}">{{ post.language }}
-            {% if post.language == "es" %} {% elsif post.language == "se" %}
-            {% endif %}</a></li>
-          {% endfor %}
-      {% endif %}
-{% endif %} -->
 
 
-    <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }} '#sec-1' ">Programa</a></li>
+
+    <li id="tnav-men" class="tnav-item"><a href="{{'#sec-1' | absolute_url }}">Programa</a></li>
     <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }}">Participantes</a></li>    
     <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }}">Textos</a></li>
     <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }}">Sedes</a></li>
-    <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }}">Organizadores</a></li>
-    <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }}">Créditos</a></li>    
+    <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }}">About</a></li>
+    <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }}">Publicación</a></li>    
 
-    <li id="tnav-menu" class="tnav-item"><a href="{{ item.url | absolute_url }}">SE</a></li>  
+
+  {% if page.layout != 'index' %}
+    {% assign posts=site.posts | where:"language-ref", page.language-ref | sort: 'language' %}
+        {% if posts.size == 0 %}
+            {% assign posts=site.pages | where:"language-ref", page.language-ref | sort: 'language' %}
+        {% endif %}
+        {% if posts.size > 1 %}
+            {% for post in posts %}
+              {% if post.language != page.language %}
+              <li class="tnav-item">
+                <a href="{{ post.url | relative_url }}" class="{{ post.language }}" title="View in {{post.language}}">{{ post.language | upcase }}</a>
+              </li>
+              {% endif %}
+            {% endfor %}
+        {% endif %}
+  {% endif %}
+
+
+    <!-- <li id="tnav-menu" class="tnav-item"><a href="{{ item.url | absolute_url }}">SE</a></li>   -->
 
     <!-- <li id="tnav-menu" class="tnav-item tnav-has-children tnav-allow-hover"><a href="#">
       

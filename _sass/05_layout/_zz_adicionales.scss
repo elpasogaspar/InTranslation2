@@ -6,7 +6,11 @@
   margin-top: 0em;
   margin-bottom: 3em;
 }
-
+ p {
+   max-width: 45em;
+   margin-left: auto!important;
+   margin-right: auto!important;
+}
 
 $intrans-color:    #ffb71c;
 
@@ -206,7 +210,8 @@ section.textos {
 
                         // ORGANIZADORES
 .organizadores,
-.creditos {
+.creditos,
+.about {
   .foto-cont2 {max-width: 150px;}
 }
 

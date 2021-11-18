@@ -3,7 +3,7 @@
 header_image: 'IT_Logo-2.svg'
 # header_caption: 'Spanish literature – Stockholm 2-4 december 2021'
 # fullwidth: true
-# permalink: / -->
+permalink: / 
 language: es
 language-ref: presentacion
 ---
@@ -322,16 +322,11 @@ language-ref: presentacion
 
 
 <section class="organizadores" id="sec-5">
-    <h1>Organizadores</h1>
+    <h1>Sobre In Translation / Créditos</h1>
     <p>In Translation <em>(Spanish literature – Stockholm 2-4 december 2021)</em>, es un proyecto desarrollado y dirigido por Gaspar Cano en colaboración con Daniel Gustafsson.</p>
     <p>Gaspar Cano es filólogo y periodista <em>freelance</em>; exdirector y fundador del Instituto Cervantes de Estocolmo, dirigió el Instituto Cervantes de Berlín durante los años de 2007 al 2012.</p>
     <p>Daniel Gustafsson es director ejecutivo de Översättarcentrum, Estocolmo. Escritor y traductor, antiguo responsable de literatura del Svenska Institutet, instituto nacional de cultura de Suecia.</p>
-</section><!--organizadores-->
 
-
-
-<section class="creditos" id="sec-6">
-    <h1>Créditos</h1>
     <h3>Con la participación de</h3>
     <div class="participante">
         <div class="nombre2"><h2 >Översättarcentrum</h2></div>    
@@ -432,7 +427,13 @@ language-ref: presentacion
     </div>
 </div>
 <hr class="separador"/>
+</section><!--organizadores-->
 
+
+
+<section class="publicacion" id="sec-6">
+    <h1>Publicación</h1>
+    <p>En esta sección se ofrecerán transcripciones, videos y audios de las distintas actividades celebaradas.</p>
 
 </section><!--creditos-->
 
