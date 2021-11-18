@@ -33,7 +33,7 @@ slogan        : 'Spanish literature IT: Sp. Lit.'
 
 # Build settings
 url           : 'https://pablonolla.github.io'
-baseurl       : '/inTranslation2'
+baseurl       : '/InTranslation2/'
 markdown      : kramdown
 highlighter   : rouge
 permalink     : /:categories/:title/
