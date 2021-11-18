@@ -1,0 +1,74 @@
+<nav id="tnav" class="tnav-horizontal">
+  <ul class="tnav-list">
+    <li id="tnav-logo" class="tnav-item tnav-has-children tnav-allow-hover no-dropdown-arrow">
+      <a href="#" accesskey="1">
+        <img src="{{'/images/IT_Logo-1.png' | relative_url }}" (>
+      </a>
+    </li>
+
+<!-- {% comment %}
+#   This is just an example of a dropdown menu of the navigation.
+#   Delete comments to use it.
+#
+    <li class="tnav-item tnav-hide tnav-has-children tnav-allow-hover"><a href="#">Dropdown</a>
+      <ul class="tnav-children">
+        <li class="tnav-item"><a href="#">Dropdown Item 1</a></li>
+        <li class="tnav-item"><a href="#">Dropdown Item 2</a></li>
+        <li class="tnav-item"><a href="#">Dropdown Item 3</a></li>
+      </ul>
+    </li>
+{% endcomment %} -->
+
+    <li id="tnav-search" class="tnav-item"><a href="{{ "/search/" | absolute_url }}">{% include svg/search.svg %}</a></li>
+
+  <!-- {% if page.layout != 'index' %}
+  {% assign posts=site.posts | where:"language-ref", page.language-ref | sort: 'language' %}
+      {% if posts.size == 0 %}
+          {% assign posts=site.pages | where:"language-ref", page.language-ref | sort: 'language' %}
+      {% endif %}
+      {% if posts.size > 1 %}
+          {% for post in posts %}
+          <li class="tnav-item"><a href="{{ post.url | relative_url }}" class="{{ post.language }}" title="View in {{post.language}}">{{ post.language }}
+            {% if post.language == "es" %} {% elsif post.language == "se" %}
+            {% endif %}</a></li>
+          {% endfor %}
+      {% endif %}
+{% endif %} -->
+
+
+    <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }} '#sec-1' ">Programa</a></li>
+    <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }}">Participantes</a></li>    
+    <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }}">Textos</a></li>
+    <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }}">Sedes</a></li>
+    <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }}">Organizadores</a></li>
+    <li id="tnav-men" class="tnav-item"><a href="{{ item.url | absolute_url }}">Créditos</a></li>    
+
+    <li id="tnav-menu" class="tnav-item"><a href="{{ item.url | absolute_url }}">SE</a></li>  
+
+    <!-- <li id="tnav-menu" class="tnav-item tnav-has-children tnav-allow-hover"><a href="#">
+      
+      {% if page.language == "es" %} Contenido 
+        {% else %} Inehåll
+      {% endif%}
+
+    </a>
+      <ul class="tnav-children">
+
+        {% if page.language == "se" %}
+            {% assign menulist =  site.data.menu.se %}
+            {% else %} 
+                {% assign menulist =  site.data.menu.es %}
+        {% endif %}     
+
+            {% for item in menulist %}
+              <li class="tnav-item tnav-hid"><a href="{{ item.url | absolute_url }}">{{ item.name }}</a></li> 
+            {% endfor %}
+      </ul>
+    </li>  -->
+
+  </ul>
+
+
+
+</nav>
+
