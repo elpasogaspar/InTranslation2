@@ -32,7 +32,9 @@ jQuery(document).ready(function($) {
                 $to_expand = $this.next(".js-to_expand"),
                 $expandmore_text = $this.html();
 
-            $this.html('<button type="button" class="' + $hideshow_prefix_classes + 'expandmore__button js-expandmore-button"' + ( not_all_expands ? 'data-not-all-expands="true"' : '' ) + '><span class="' + $hideshow_prefix_classes + 'expandmore__symbol" aria-hidden="true"></span>' + '<span class="text-h1">' + $expandmore_text + '</span></button>');
+            $this.html('<button type="button" class="' + $hideshow_prefix_classes + 'expandmore__button js-expandmore-button"' + ( not_all_expands ? 'data-not-all-expands="true"' : '' ) + '><span class="' + $hideshow_prefix_classes + 'expandmore__symbol" aria-hidden="true"><img src="/images/Flecha.svg"  /></span>' + '<span class="text-h1">' + $expandmore_text + '</span></button>');
+            // $this.html('<button type="button" class="' + $hideshow_prefix_classes + 'expandmore__button js-expandmore-button"' + ( not_all_expands ? 'data-not-all-expands="true"' : '' ) + '><span class="' + $hideshow_prefix_classes + 'expandmore__symbol" aria-hidden="true"></span>' + '<span class="text-h1">' + $expandmore_text + '</span></button>');
+
             var $button = $this.children('.js-expandmore-button');
 
             $to_expand.addClass($hideshow_prefix_classes + 'expandmore__to_expand').stop().delay(delay).queue(function() {

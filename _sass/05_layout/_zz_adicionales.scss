@@ -7,6 +7,7 @@ $intrans-color:    #ffb71c;
 .main-content {
   margin-top: 0em;
   margin-bottom: 3em;
+  max-width: 50em!important;
 }
 
 @media screen and (min-width: 40em) {
@@ -21,11 +22,11 @@ section {padding-top: 20vh;}
 
 section:last-of-type {margin-bottom: 20vh;}
 
- p {
-   max-width: 45em;
-   margin-left: auto!important;
-   margin-right: auto!important;
-}
+//  p {
+//    max-width: 45em;
+//    margin-left: auto!important;
+//    margin-right: auto!important;
+// }
 
 
 
@@ -91,9 +92,8 @@ hr {
   .jornada {
       margin-top: 2em;
       border-bottom: 1px solid black;
-      padding-bottom: 1.5em;
+      padding-bottom: .5em;
       * {margin: 0;}
-      border-bottom: 1px solid black;
 
       h2.fecha {
           letter-spacing: 4px;
@@ -110,9 +110,9 @@ hr {
           ul.ponentes {list-style: none;}
       }
       p {margin: 0;}             
-  }
+  }//fin de la jornada
 
-}
+}//fin l programa
 
 
                         // PARTICIPANTES
@@ -137,44 +137,74 @@ div.participante {
           .foto-cont2 {
               // max-width: 60vw;
               height: auto;
-              width:300px;
-              img {height: auto;  object-fit: cover;}
+              // width:300px;
+              img {height: auto;  object-fit: cover; max-width: 300px;}
               figcaption {
-                color:grey;
-                font-size: .6em;
+                position:absolute; 
+                z-index:-3;
+                left:0em; top:25px; opacity:0.9;
+                color:rgb(197, 236, 19);
+                font-size: 1.6em;
                 text-align: left;
-                margin-top: -2.5em;
-                margin-left: .3em;
+                // margin-top: -2.5em;
+                // margin-left: .3em;
               }
-          }                
-}                        
-      @media (min-width: 1025px) {
-        div.participante {
-          margin: 0em auto;
-          padding: 1em 0;
-          display: grid;
-          grid-template-columns: minmax(auto, 300px) 1fr;
-          grid-template-rows: auto 1fr;
-          grid-column-gap: 35px;
-              .nombre2 {grid-column: 2 / 3;  h2 {margin-top: -5px; margin-bottom: 1em;}}
-              .foto-cont2 {grid-row: 1 / 3; 
-                  img {object-fit: cover; 
-                    // max-height: 10em;
-                    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-                    filter: grayscale(100%);
-                  }
-              }
-              .text2 {grid-column: 2 / 3; 
-                p {margin: 0;}
+          }                         
+}  
+section.sedes, section.about {
+  div.participante {
+    .foto-cont2 {
+      img {max-width: 150px;}
+    }
+  }  
+}                       
+@media (min-width: 1025px) {
+  div.participante {
+    margin: 0em auto;
+    padding: 1em 0;
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    grid-template-rows: auto 1fr;
+    grid-column-gap: 35px;
+        .nombre2 {grid-column: 2 / 3;  h2 {margin-top: -5px; margin-bottom: 1em;}}
+        .foto-cont2 {grid-row: 1 / 3; 
+            img {object-fit: cover; max-width:100%;
+              // -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+              // filter: grayscale(100%);
+            }
+        }
+        .text2 {grid-column: 2 / 3; 
+          p {margin: 0;}
 
-              }
         }
-      }
-      @media (max-width: 1025px) {
-        div.participante {
-          grid-template-columns: minmax(auto, 250px)  1fr;
-        }
-      }  
+  }
+  section.sedes, section.about {
+    div.participante {
+      grid-template-columns: 150px 1fr;
+    }  
+  }  
+}
+@media (min-width: 1225px) {
+  div.participante {
+    grid-template-columns: minmax(auto, 350px)  1fr;
+  }
+  section.sedes, section.about {
+    div.participante {
+      grid-template-columns: 200px 1fr;
+    }  
+  } 
+}  
+
+
+
+// @media (max-width: 1025px) {
+
+//   section.about div.participante {
+//         grid-template-columns: 150px 1fr!important;
+//         .foto-cont2 img {max-width: 150px;}
+//       }
+// }
+
 
 // Las páginas propias de cada participante
 .participante-bio {
@@ -194,12 +224,11 @@ section.textos {
     div.texto {
       margin-top: 3em;
       border-bottom: 1px solid black;
-      padding-bottom: .5em;
-      * {margin: 0;}
+          h2 {margin-bottom: 0;}  
       }
-        div[class^="texto"]:first-child {margin-top: 2em;}
+    div[class^="texto"]:first-child {margin-top: 2em;}
 
-        div.js-to_expand {margin-bottom: 2em;}
+    div.js-to_expand {margin-bottom: 4em;}
   }
 
 
@@ -210,17 +239,17 @@ section.textos {
 .sedes {
     .foto-cont2 {
       padding-top: 5px;
-      max-width: 150px;
+      // max-width: 150px;
     }
     .nombre2 {display: none;}
 }
 
 
-                        // ORGANIZADORES
+                        // ABOUT
 .organizadores,
 .creditos,
 .about {
-  .foto-cont2 {max-width: 150px;}
+  // .foto-cont2 {max-width: 150px;}
 }
 
 
@@ -299,6 +328,8 @@ a:hover {
   background-color: mix(#fff, black, 90%);
 }
 
+
+
 .upper {text-transform: uppercase;}
 
 
@@ -354,15 +385,37 @@ a:hover {
                 order: 2;
                 padding-left: 25px;
               }
+              .expandmore__symbol > img {
+                  width: 100px;
+                }
               
               .expandmore__symbol::after {
-                content : '\0002C5';
-                width: 60px;
+                // content : '\2329';
+                // font-size: 3em;
+                // width: 60px;
+                // transform: rotate(0.25turn);
+                // transform: rotateX(90deg)!important;
               }
+              // .expandmore__symbol::after {
+              //     content: '';
+              //     background: url("/images/Flecha.svg");
+              //     background-position: center center;
+              //     background-size: cover;
+              //     height: 5em;
+              //     margin: -10px;
+              //     width: 200px;
+              //     position:relative;
+              //     right: 100px;
+              //     border-top-right-radius: 4px;
+              //     border-bottom-right-radius: 4px;
+              //     z-index: 0;
+              // }
+
+
+
               .expandmore__button[aria-expanded=true] > .expandmore__symbol::after {
-                content : '\0002C4';
+                // content : '\232A';
               }
-              
 
               /* This is the opened state */
               .animated-expandmore__to_expand {
@@ -383,6 +436,24 @@ a:hover {
               visibility: hidden;
               transition-delay: 2s, 0s, 0s;
               }
+
+              button.mini-combo-expandmore__button {
+                background: none;
+                font-size: inherit;
+                color: inherit;
+                font-weight: inherit;
+                border: none;
+                cursor: pointer;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+
+                width: 100%;
+                height: 2em;
+                margin:auto;
+                border: 2px solid red;
+              }
+
 
 
 
