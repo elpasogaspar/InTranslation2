@@ -174,7 +174,7 @@ language-ref: presentacion
 <h1 id="">Participantes</h1>
 
 <div class="participante">
-    <figure class="foto-cont2"><img class="" src="{{'/images/OGV.jpg' | relative_url }}" alt="ella" />
+    <figure class="foto-cont2"><img class="" src="{{'/images/Olvido_Garcia_Valdes.jpg' | relative_url }}" alt="ella" />
         <!-- <figcaption>© Su Alonso & Inés Marful</figcaption> -->
     </figure>
     <div class="nombre2"><h2 >Olvido García Valdés</h2></div>    
@@ -208,7 +208,14 @@ language-ref: presentacion
 <hr class="separador"/>
 
 <div class="participante">
-    <div class="foto-cont2"><img class="fot" src="{{'/images/EllaSherBW.webp' | relative_url }}" alt="ella" /></div>
+    <div class="foto-cont2"><img class="fot" src="{{'/images/Jordi_Gracia.jpg' | relative_url }}" alt="ella" /></div>
+    <div class="nombre2"><h2>Marika Gedin</h2></div>
+    <div class="text2 esp" lang="es">
+        <p>Traductora loren ipsum. <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">Leer más</a></span></p>
+    </div>
+</div>
+<div class="participante">
+    <div class="foto-cont2"><img class="fot" src="{{'/images/Ella_Sher.jpeg' | relative_url }}" alt="ella" /></div>
     <div class="nombre2"><h2>Ella Sher</h2></div>
     <div class="text2 esp" lang="es">
         <p>Agente literaria establecida en Barcelona y nombre fundamental en la circulación de la literatura española producida por autores emergentes menores de cuarenta años. Cristina Morales, Jon Bilbao, Juan Gómez Bárcena, María Folguera o Sergio del Molino se cuentan entre sus representados. <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">(Leer más)</a></span></p></div>
@@ -216,14 +223,14 @@ language-ref: presentacion
 
 <hr class="separador"/>
 
+
 <h3 class="fecha js-expandmore" data-hideshow-prefix-class="mini-combo">Ver más participantes</h3>
 <div class="js-to_expand">
     <div class="participante">
         <div class="foto-cont2"><img class="fot" src="{{'/images/Jordi_Gracia.jpg' | relative_url }}" alt="ella" /></div>
         <div class="nombre2"><h2>Marika Gedin</h2></div>
         <div class="text2 esp" lang="es">
-            <p>Traductora loren ipsum. <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">Leer más</a></span></p>
-        </div>
+            <p>Crítico literario, catedrático de literatura española Universidad de Barcelona y subdirector de opinión del periódico El País. <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">(Leer más)</a></span></p>       </div>
     </div>
 
 </div><!--js-to_expand-->
@@ -445,7 +452,7 @@ language-ref: presentacion
 
     <div resto-creditos>
         <p>Diseño: <a href="http://www.tsulibros.com/" target="_blank">This Side Up</a></p>
-        <p>Publicación web: Spanda Editorial</p>
+        <p>Publicación web: <a href="https://spandaeditorial.com" target="_blank">Spanda Editorial</a></p>
         <p>© de la foto de Olvido García Valdés: Su Alonso & Inés Marful</p>
         <p>© de la foto de Cristina Morales: Javier López Mansilla</p>
     </div>

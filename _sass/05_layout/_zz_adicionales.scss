@@ -222,7 +222,6 @@ section.textos {
     }
 
     div.texto {
-      margin-top: 3em;
       border-bottom: 1px solid black;
           h2 {margin-bottom: 0;}  
       }
@@ -327,8 +326,12 @@ a:link {
 a:hover {
   background-color: mix(#fff, black, 90%);
 }
-
-
+a:visited {
+  border-bottom: none;
+}
+a:active {
+  color: black!important;
+}
 
 .upper {text-transform: uppercase;}
 
