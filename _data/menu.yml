@@ -1,8 +1,8 @@
 es:
-    - name: "Presentación"
-      url: "/"
+    # - name: "Presentación"
+    #   url: "/"
 
-    - name: "Programa"
+    - name: "Programas"
       url: "#sec-1"
 
     - name: "Participantes"
@@ -26,25 +26,27 @@ es:
 
 
 se: 
-    - name: "Presentation"
-      url: "se/"
+    # - name: "Presentation"
+    #   url: "se/"
 
     - name: "Program"
-      url: "se/#sec-1"
+      url: "se/presentation/#sec-1"
 
     - name: "Deltagarna"
-      url: "se/#sec-2"
+      url: "se/presentation/#sec-2"
 
     - name: "Texter"
-      url: "se/#sec-3"
+      url: "se/presentation/#sec-3"
 
     - name: "Platser"
-      url: "se/#sec-4"
+      url: "se/presentation/#sec-4"
+
+    - name: "Publication"
+      url: "se/presentation/#sec-5"        
 
     - name: "Om oss"
-      url: "se/#sec-5"  
+      url: "se/presentation/#sec-6"  
 
-    - name: "Dokumentation"
-      url: "se/#sec-6"        
+
 
 

@@ -6,7 +6,7 @@
       </a>
     </li>
 
-<!-- {% comment %}
+{% comment %}
 #   This is just an example of a dropdown menu of the navigation.
 #   Delete comments to use it.
 #
@@ -17,19 +17,28 @@
         <li class="tnav-item"><a href="#">Dropdown Item 3</a></li>
       </ul>
     </li>
-{% endcomment %} -->
+{% endcomment %}
 
     <li id="tnav-search" class="tnav-item"><a href="{{ "/search/" | absolute_url }}">{% include svg/search.svg %}</a></li>
 
 
+{% if page.language == "se" %}
+{% assign menulist =  site.data.menu.se %}
+{% else %} 
+    {% assign menulist =  site.data.menu.es %}
+{% endif %}     
+{% for item in menulist %}
+ <li class="tnav-item"><a href="{{ item.url | absolute_url }}">{{ item.name }}</a></li>
+{% endfor %}
 
 
-    <li id="tnav-men" class="tnav-item"><a href="{{ '#sec-1' | absolute_url }}">Programa</a></li>
-    <li id="tnav-men" class="tnav-item"><a href="{{ '#sec-2' | absolute_url }}">Participantes</a></li>    
-    <li id="tnav-men" class="tnav-item"><a href="{{ '#sec-3' | absolute_url }}">Textos</a></li>
-    <li id="tnav-men" class="tnav-item"><a href="{{ '#sec-4' | absolute_url }}">Sedes</a></li>
-    <li id="tnav-men" class="tnav-item"><a href="{{ '#sec-6' | absolute_url }}">Publicación</a></li>        
-    <li id="tnav-men" class="tnav-item"><a href="{{ '#sec-5' | absolute_url }}">About</a></li>
+
+    <!-- <li id="tnav-menu" class="tnav-item"><a href="{{ '#sec-1' | absolute_url }}">Programa</a></li>
+    <li id="tnav-menu" class="tnav-item"><a href="{{ '#sec-2' | absolute_url }}">Participantes</a></li>    
+    <li id="tnav-menu" class="tnav-item"><a href="{{ '#sec-3' | absolute_url }}">Textos</a></li>
+    <li id="tnav-menu" class="tnav-item"><a href="{{ '#sec-4' | absolute_url }}">Sedes</a></li>
+    <li id="tnav-menu" class="tnav-item"><a href="{{ '#sec-6' | absolute_url }}">Publicación</a></li>        
+    <li id="tnav-menu" class="tnav-item"><a href="{{ '#sec-5' | absolute_url }}">About</a></li> -->
 
 
 
@@ -49,29 +58,6 @@
         {% endif %}
   {% endif %}
 
-
-    <!-- <li id="tnav-menu" class="tnav-item"><a href="{{ item.url | absolute_url }}">SE</a></li>   -->
-
-    <!-- <li id="tnav-menu" class="tnav-item tnav-has-children tnav-allow-hover"><a href="#">
-      
-      {% if page.language == "es" %} Contenido 
-        {% else %} Inehåll
-      {% endif%}
-
-    </a>
-      <ul class="tnav-children">
-
-        {% if page.language == "se" %}
-            {% assign menulist =  site.data.menu.se %}
-            {% else %} 
-                {% assign menulist =  site.data.menu.es %}
-        {% endif %}     
-
-            {% for item in menulist %}
-              <li class="tnav-item tnav-hid"><a href="{{ item.url | absolute_url }}">{{ item.name }}</a></li> 
-            {% endfor %}
-      </ul>
-    </li>  -->
 
   </ul>
 

@@ -3,7 +3,7 @@
 header_image: 'IT_Logo-2.svg'
 # header_caption: 'Spanish literature – Stockholm 2-4 december 2021'
 # fullwidth: true
-# permalink: /
+permalink: /se/presentation
 language: se
 language-ref: presentacion
 ---
@@ -359,7 +359,7 @@ language-ref: presentacion
 
 
 <section class="sedes" id="sec-4">
-    <h1>Sedes</h1>
+    <h1>Platser</h1>
     <div class="participante" id="sede1">
         <div class="nombre2"><h2 >Författarförbundet</h2></div>    
         <div class="foto-cont2"><img class="" src="{{'/images/logo.png' | relative_url }}" height="301" width="388" alt="ella" /></div>
