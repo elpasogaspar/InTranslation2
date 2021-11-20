@@ -14,11 +14,13 @@ es:
     - name: "Sedes"
       url: "#sec-4"
 
-    - name: "About"
-      url: "#sec-5" 
-
     - name: "Publicación"
-      url: "#sec-6"    
+      url: "#sec-5"  
+
+    - name: "About"
+      url: "#sec-6" 
+
+  
 
 
 

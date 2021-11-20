@@ -125,7 +125,7 @@ language-ref: presentacion
         <h2 class="fecha js-expandmore"><span class="upper">3 de diciembre</span>
             <br /><span class="titulo-prog">Evento público</span>
             <br /><span class="lugar">Lugar: Instituto Cervantes, Bryggargatan 12, Estocolmo</span>
-            <br /><span class="horario">Horario: 18.00 - 19.30</span>
+            <br /><span class="horario">Horario: 18.00 – 19.30</span>
         </h2>
         <div class="js-to_expand">
             <div class="evento">
@@ -222,11 +222,8 @@ language-ref: presentacion
             <span class="dots"></span>
         </p>
         <div class="more" style="display: none;">
-            <p>Estudió derecho y ejerció la abogacía durante 18 años.</p>
-            <p>En 1998 ganó el premio Lumen por su primera novela, NOCHES DE SAN JUAN, a la que siguieron PRIMER VUELO (novela, 2001, El Aleph); EL VIAJE DE LAS PALABRAS (novela, 2003, Plaza &amp; Janés); PERSEGUIDORAS (novela, 2007, Alfaguara); CORAZÓN DE NAPALM (Seix Barral), por la que obtuvo el premio Biblioteca Breve en 2009 .</p>
-            <p>Su novela, LA HIJA DEL ESTE, (Seix Barral 2012) ha sido reeditada nueve veces, ha ganado en España el Premio Ciutat de Barcelona y el prestigioso Premio de la Crítica; en Italia ha sido galardonada con el Premio de la Cultura Mediterránea y en Francia con Le Prix Bouchon de Cultures.</p>
-            <p>Ha sido publicada en Italia por Sellerio (LA FIGLIA), con 6 reediciones hasta la fecha; en Holanda, por Signatuur (ANA MLADIC), en Francia por Gallimard (LA FILLE DE L’EST) y en Portugal por Teodolito (A FILLA DO LESTE). También ha sido traducida al croata, al rumano y al árabe.</p>
-            <p>En octubre de 2015 publicó la novela VALOR, (Seix Barral), traducida al italiano, y el 5 de abril de 2018 ha publicado la novela EL ASESINO TÍMIDO, (Seix Barral), por la que le ha sido concedido el premio literario Sor Juana Inés de la Cruz 2018; traducida al italiano, al portugués, al croata, al rumano y al polaco.</p>
+            <p>Cristina Morales (Granada, 1985) es autora de las novelas <em>Lectura fácil</em> (Anagrama, Premio Nacional de Narrativa 2019 y Premio Herralde de Novela 2018), <em>Terroristas modernos</em> (Candaya, 2017), <em>Últimas tardes con Teresa de Jesús</em> (Lumen 2015, Anagrama 2020) y <em>Los combatientes</em> (Caballo de Troya 2013, Anagrama 2020), galardonada con el Premio INJUVE de Narrativa 2012; así como del libro de relatos <em>La merienda de las niñas</em> (Cuadernos del Vigía, 2008). Sus cuentos han aparecido en numerosas antologías y revistas literarias. Como dramaturga ha trabajado, entre otras, para Sol Picó, Sara Molina, el Teatro Nacional de Cataluña y el Teatro del Barrio. En 2021 le fue concedida la Beca de la Real Academia de España en Roma, en 2017 la Beca de Escritura Montserrat Roig, en 2015 la de la Fundación Han Nefkens y en 2007 la de la Fundación Antonio Gala para Jóvenes Creadores. En 2021 fue seleccionada por la revista Granta entre los 25 mejores escritores en español menores de 35 años.</p>
+            <p>Licenciada en Derecho y en Ciencias Políticas y especialista en Relaciones Internacionales, es bailarina y coreógrafa de <a href="http://www.iniciativasexualfemenina.es/"><em>Iniciativa Sexual Femenina</em></a>, productora ejecutiva de la banda de punk <a href="https://www.facebook.com/pages/category/Musician-Band/At-asko-1152363591571935/"><em>At-Asko</em></a> y archivera y difusora de mugrelindas con el colectivo <a href="https://www.instagram.com/bachini.bachini/?hl=es"><em>BachiniBachini.</em></a></p>
         </div>
         <button class="myBtn" onclick="readMore('cristina')">Leer más...</button>        
     </div>
@@ -291,7 +288,7 @@ language-ref: presentacion
     <h1>Textos</h1>
     <p>Selección de textos de nuestros participantes y colaboradores en torno a la traducción, la literatura...</p> 
 
-    <div class="texto" >
+    <div class="texto" id="texto-olvido">
             <h2 class="titulo js-expandmore">De la imposible tarea de traducir poesía
                 <br /> <span class="autor">Olvido García Valdés</span> 
                 <!-- <span class="material-icons md-36">expand_more</span> -->
@@ -301,7 +298,19 @@ language-ref: presentacion
                 </div>
     </div>
 
-    <div class="texto">
+
+    <div class="texto" id="texto-clara">
+        <h2 class="titulo js-expandmore">... när det gäller mina översättare
+            <br /> <span class="autor">Clara Usón</span> 
+        </h2>
+            <div class="js-to_expand">
+                <p class="pendiente">Falta el texto de Clara Usón en español? Sí está en sueco.</p>
+               
+            </div>
+    </div>
+
+
+    <div class="texto" id="texto-ella">
         <h2 class="titulo js-expandmore">Translation is...
             <br /> <span class="autor">Ella Sherr</span>
         </h2>
@@ -316,7 +325,28 @@ language-ref: presentacion
         </div>
     </div>
 
-    <div class="texto">
+
+    <div class="texto" id="texto-cristina">
+        <h2 class="titulo js-expandmore">En reflektion om översättning
+            <br /><span class="autor">Cristina Morales</span>
+        </h2>
+        <div class="js-to_expand">
+            <p class="pendiente">Falta texto</p>
+        </div> 
+    </div>   
+  
+
+    <div class="texto" id="texto-marika">
+        <h2 class="titulo js-expandmore">Att börja översätta en roman
+            <br /><span class="autor">Marika Gedin</span>
+        </h2>
+        <div class="js-to_expand">
+            <p class="pendiente">Falta la traducción.</p>
+        </div> 
+    </div>
+
+
+    <div class="texto" id="texto-gaspar">
         <h2 class="titulo js-expandmore">La pulsión traductora
             <br /><span class="autor">Gaspar Cano</span>
             <!-- <span class="material-icons md-36">expand_more</span> -->
@@ -332,7 +362,7 @@ language-ref: presentacion
 <section class="sedes" id="sec-4">
     <h1>Sedes</h1>
     <div class="participante" id="sede1">
-        <div class="nombre2"><h2 >Författarförbundet</h2></div>    
+        <div class="nombre2"><h2>Författarförbundet</h2></div>    
         <div class="foto-cont2"><img class="" src="{{'/images/logo.png' | relative_url }}" height="301" width="388" alt="ella" /></div>
         <div class="text2 esp" lang="es">
             <p><a href="https://goo.gl/maps/f1wossHMcz5BsbUY9" target="_blank">Drottninggatan 88 B<br />
@@ -378,14 +408,14 @@ language-ref: presentacion
 </section><!--sedes-->
 
 
-<section class="publicacion" id="sec-6">
+<section class="publicacion" id="sec-5">
     <h1>Publicación</h1>
-    <p>En esta sección se ofrecerán transcripciones, videos y audios de las distintas actividades celebaradas.</p>
+    <p>En esta sección se ofrecerán transcripciones, videos y audios de las distintas actividades celebradas.</p>
 
 </section><!--publicacion-->
 
 
-<section class="about" id="sec-5">
+<section class="about" id="sec-6">
     <h1>Sobre In Translation / Créditos</h1>
     <p>In Translation <em>(Spanish literature – Stockholm 2-4 december 2021)</em>, es un proyecto desarrollado y dirigido por Gaspar Cano en colaboración con Daniel Gustafsson.</p>
     <p>Gaspar Cano es filólogo y periodista <em>freelance</em>; exdirector y fundador del Instituto Cervantes de Estocolmo, dirigió el Instituto Cervantes de Berlín durante los años de 2007 al 2012.</p>
@@ -412,12 +442,8 @@ language-ref: presentacion
         <div class="foto-cont2"><img class="" src="{{'/images/ACE_V.png' | relative_url }}"  alt="ella" /></div>        
         <div class="nombre2"><h2 >Acción Cultural Española </h2></div>    
         <div class="text2 esp" lang="es">
-            <p>Kontact: Daniel Gustafsson<br />
-                Adress: <a href="https://goo.gl/maps/xD2jLgkZ7hTD5L1C8" target="_blank">Södermannagatan 38, 116 40 Stockholm</a><br />
-                Telefon uppdragsförmedling <a href="tel:+43 108-556 048 41">08-556 048 41</a><br />
-                e-post: <a mailto="uppdrag@oversattarcentrum.se">uppdrag@oversattarcentrum.se</a><br />
-                e-post kansli: <a mailto="info@oversattarcentrum.se">info@oversattarcentrum.se</a><br />
-                web site: <a href="http://www.oversattarcentrum.se/" target="_blank">www.oversattarcentrum.se</a>
+            <p>Contacto: Raquel Mesa 
+            <br />web site: <a href="https://www.accioncultural.es/" target="_blank">www.accioncultural.es</a>
             </p>      
         </div>
     </div>  
@@ -493,11 +519,12 @@ language-ref: presentacion
     </div>
     <hr class="separador"/>
 
-    <div resto-creditos>
-        <p>Diseño: <a href="http://www.tsulibros.com/" target="_blank">This Side Up</a></p>
-        <p>Publicación web: <a href="https://spandaeditorial.com" target="_blank">Spanda Editorial</a></p>
+    <div class="resto-creditos">
+        <p>© de los textos: sus autores</p>        
         <p>© de la foto de Olvido García Valdés: Su Alonso & Inés Marful</p>
         <p>© de la foto de Cristina Morales: Javier López Mansilla</p>
+        <p>Diseño: <a href="http://www.tsulibros.com/" target="_blank">This Side Up</a></p>
+        <p>Publicación web: <a href="https://spandaeditorial.com" target="_blank">Spanda Editorial</a></p>
     </div>
 </section><!--about-->
 

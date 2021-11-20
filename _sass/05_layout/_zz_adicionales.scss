@@ -1,6 +1,9 @@
 $intrans-color:    #ffb71c;
 $grey-links: #8B8B8B;
 
+.pendiente {color: $intrans-color;}
+.traductor {text-align: right;}
+.cierre {margin:0; text-align: center;}
 .separador {display: none;}
 
 #content {
@@ -221,7 +224,6 @@ section.textos {
       font-style: italic;
         span.autor {font-style: normal;}
     }
-
     div.texto {
       border-bottom: 1px solid black;
           h2 {margin-bottom: 0;}  
@@ -237,11 +239,9 @@ section.textos {
 
                             // SEDES
 .sedes {
-    .foto-cont2 {
-      padding-top: 5px;
-      // max-width: 150px;
-    }
-    .nombre2 {display: none;}
+    .foto-cont2 {padding-top: 5px;}
+    .nombre2 h2 {margin-bottom: 0!important;}
+    .text2 p {margin: 0!important;}
 }
 
 
@@ -249,7 +249,17 @@ section.textos {
 .organizadores,
 .creditos,
 .about {
-  // .foto-cont2 {max-width: 150px;}
+  .foto-cont2 {padding-top: 0px;}
+  .nombre2 h2 {margin-bottom: 0!important;}
+  .text2 p {margin: 0!important;}
+
+  .resto-creditos {
+    margin-top: 4em;
+      p {
+        font-size: 90%;
+        margin:0;
+      }
+  }
 }
 
 
@@ -518,15 +528,13 @@ a:active {
 
 
 
-// Leer más - menos
-.dots {
-  // display: none;
-}
-// .more {display: none;}
+                // readMore
+.dots {}
 
 .more {
   display: none;
-  transition: max-height 0.2s ease-out;
+  -webkit-transition: display .15s cubic-bezier(.33,.66,.66,1);
+  transition: display 1s ease-out;
 }
 
 .myBtn {
@@ -541,6 +549,7 @@ font-size: 90%;
 
 
 
+                 // Collapsible max-height:0 => max-height:scrollHeight+px   
 .collapsible {
   display: flex;
   align-items: center;
@@ -556,8 +565,6 @@ font-size: 90%;
   margin-left: 25px;
     img {padding-top: 25px;}
 }
-
-
 
 .active, .collapsible:hover {
   // background-color: rgb(223, 36, 36);
