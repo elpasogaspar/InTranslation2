@@ -173,67 +173,110 @@ language-ref: presentacion
 <section class="participantes" id="sec-2">
 <h1 id="">Participantes</h1>
 
-<div class="participante">
-    <figure class="foto-cont2"><img class="" src="{{'/images/Olvido_Garcia_Valdes.jpg' | relative_url }}" alt="ella" />
-        <!-- <figcaption>© Su Alonso & Inés Marful</figcaption> -->
-    </figure>
+
+<div class="participante card" data-part="olvido">
+    <div class="foto-cont2"><img class="fot" src="{{'/images/Olvido_Garcia_Valdes.jpg' | relative_url }}" alt="ella" />
+    </div>
     <div class="nombre2"><h2 >Olvido García Valdés</h2></div>    
     <div class="text2 esp" lang="es">
-        <p>Premio Nacional de Poesía en 2007 por <em>Y todos estábamos vivos</em> y Premio Iberoamericano de Poesía Pablo Neruda 2021, presentará la edición sueca de la premiada <em>Y todos estábamos vivos</em>.  <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">Leer más</a></span></p>      
+        <p>Premio Nacional de Poesía en 2007 por <em>Y todos estábamos vivos</em> y Premio Iberoamericano de Poesía Pablo Neruda 2021, presentará la edición sueca de la premiada <em>Y todos estábamos vivos</em>. 
+            <span class="dots"></span>
+        </p>  
+        <div class="more" style="display: none;">
+            <p>Licenciada en Filología Románica y en Filosofía. Profesionalmente, ha sido Catedrática de Lengua Castellana y Literatura. Fue también Directora del Instituto Cervantes de Toulouse y Directora General del Libro y Fomento de la Lectura. En la actualidad reside en Toledo.</p>
+            <p>Entre otros, ha recibido el Premio Iberoamericano de Poesía Pablo Neruda 2021, el Premio de las Letras de Asturias 2016, y el Premio Nacional de Poesía 2007 por su libro <em>Y todos estábamos vivos</em> (Tusquets, Barcelona, 2006, 2007). En <em>Esa polilla que delante de mí revolotea. Poesía reunida (1982-2008)</em> (Galaxia Gutenberg, Barcelona, 2008, 2016) se recoge su obra poética entre esas fechas. Posteriormente ha publicado <em>Lo solo del animal</em> (Tusquets, Barcelona, 2012) y, recientemente, <em>confía en la gracia</em> (Tusquets, Barcelona, 2020) y d<em>entro del animal la voz. Antología 1982-2012</em> (Editorial Cátedra, colección Letras Hispánicas, Madrid, 2020). Libros suyos han sido traducidos al francés, inglés, italiano, polaco y sueco; igualmente sus poemas han aparecido en alemán, portugués, rumano, griego, serbio, árabe y chino.</p>
+            <p>Es asimismo autora del ensayo biográfico <em>Teresa de Jesús</em>, de textos para catálogos de artes plásticas (Zush, Kiefer, Vicente Rojo, Tàpies, Juan Soriano, Bienal de Venecia 2001, Broto...) y de numerosos ensayos de reflexión literaria. Ha traducido <em>La religión de mi tiempo</em> y <em>Larga carretera de arena</em> de Pier Paolo Pasolini, y (en colaboración) la antología de Anna Ajmátova y Marina Tsvetáieva <em>El canto y la ceniza</em>, así como <em>El resto del viaje y otros poemas</em>, de Bernard Noël. Ha codirigido la revista <em>Los Infolios</em>, y fue miembro fundador de <em>El signo del gorrión</em> (1992–2002). Ha dirigido o coordinado diversos cursos, seminarios y ciclos de poesía contemporánea.</p>
+        </div>
+        <button class="myBtn" onclick="readMore('olvido')" >Leer más...</button>
     </div>
 </div>
 
 <hr class="separador"/>
 
-<div class="participante">
+<div class="participante card" data-part="clara">
     <div class="foto-cont2"><img class="fot" src="{{'/images/Clara_Uson.jpg' | relative_url }}" alt="ella" /></div>
     <div class="nombre2"><h2>Clara Usón</h2></div>
     <div class="text2 esp" lang="es">
-        <p>Premio Nacional de la crítica por <em>La hija del este</em>, que presentará en Estocolmo en su edición sueca. <span class="leer-mas2"><a href="{{ '/bio_clara_uson/' | absolute_url }}">Leer más</a></span></p>
+        <p>Premio Nacional de la crítica por <em>La hija del este</em>, que presentará en Estocolmo en su edición sueca. 
+            <span class="dots"></span>
+        </p>
+        <div class="more" >
+            <p>Estudió derecho y ejerció la abogacía durante 18 años.</p>
+            <p>En 1998 ganó el premio Lumen por su primera novela, NOCHES DE SAN JUAN, a la que siguieron PRIMER VUELO (novela, 2001, El Aleph); EL VIAJE DE LAS PALABRAS (novela, 2003, Plaza &amp; Janés); PERSEGUIDORAS (novela, 2007, Alfaguara); CORAZÓN DE NAPALM (Seix Barral), por la que obtuvo el premio Biblioteca Breve en 2009 .</p>
+            <p>Su novela, LA HIJA DEL ESTE, (Seix Barral 2012) ha sido reeditada nueve veces, ha ganado en España el Premio Ciutat de Barcelona y el prestigioso Premio de la Crítica; en Italia ha sido galardonada con el Premio de la Cultura Mediterránea y en Francia con Le Prix Bouchon de Cultures.</p>
+            <p>Ha sido publicada en Italia por Sellerio (LA FIGLIA), con 6 reediciones hasta la fecha; en Holanda, por Signatuur (ANA MLADIC), en Francia por Gallimard (LA FILLE DE L’EST) y en Portugal por Teodolito (A FILLA DO LESTE). También ha sido traducida al croata, al rumano y al árabe.</p>
+            <p>En octubre de 2015 publicó la novela VALOR, (Seix Barral), traducida al italiano, y el 5 de abril de 2018 ha publicado la novela EL ASESINO TÍMIDO, (Seix Barral), por la que le ha sido concedido el premio literario Sor Juana Inés de la Cruz 2018; traducida al italiano, al portugués, al croata, al rumano y al polaco.</p>
+        </div>
+        <button class="myBtn" onclick="readMore('clara')">Leer más...</button>
     </div>
 </div>
 
 <hr class="separador"/>
 
-<div class="participante">
-    <figure class="foto-cont2"><img class="fot" src="{{'/images/Cristina_Morales.jpg' | relative_url }}" alt="ella" /> 
-        <!-- <figcaption>© Javier López Mansilla</figcaption> -->
-    </figure>
+<div class="participante card" data-part="cristina">
+    <div class="foto-cont2"><img class="fot" src="{{'/images/Cristina_Morales.jpg' | relative_url }}" alt="ella" /> 
+    </div>
     <div class="nombre2"><h2>Cristina Morales</h2></div>
     <div class="text2 esp" lang="es">
-        <p>Premio Nacional de Literatura 2019 por su obra <em>Lectura fácil</em>. <span class="leer-mas2"><a href="{{ '/bio_cristina_m/' | absolute_url }}">Leer más</a></span></p>
+        <p>Premio Nacional de Literatura 2019 por su obra <em>Lectura fácil</em>.
+            <span class="dots"></span>
+        </p>
+        <div class="more" style="display: none;">
+            <p>Estudió derecho y ejerció la abogacía durante 18 años.</p>
+            <p>En 1998 ganó el premio Lumen por su primera novela, NOCHES DE SAN JUAN, a la que siguieron PRIMER VUELO (novela, 2001, El Aleph); EL VIAJE DE LAS PALABRAS (novela, 2003, Plaza &amp; Janés); PERSEGUIDORAS (novela, 2007, Alfaguara); CORAZÓN DE NAPALM (Seix Barral), por la que obtuvo el premio Biblioteca Breve en 2009 .</p>
+            <p>Su novela, LA HIJA DEL ESTE, (Seix Barral 2012) ha sido reeditada nueve veces, ha ganado en España el Premio Ciutat de Barcelona y el prestigioso Premio de la Crítica; en Italia ha sido galardonada con el Premio de la Cultura Mediterránea y en Francia con Le Prix Bouchon de Cultures.</p>
+            <p>Ha sido publicada en Italia por Sellerio (LA FIGLIA), con 6 reediciones hasta la fecha; en Holanda, por Signatuur (ANA MLADIC), en Francia por Gallimard (LA FILLE DE L’EST) y en Portugal por Teodolito (A FILLA DO LESTE). También ha sido traducida al croata, al rumano y al árabe.</p>
+            <p>En octubre de 2015 publicó la novela VALOR, (Seix Barral), traducida al italiano, y el 5 de abril de 2018 ha publicado la novela EL ASESINO TÍMIDO, (Seix Barral), por la que le ha sido concedido el premio literario Sor Juana Inés de la Cruz 2018; traducida al italiano, al portugués, al croata, al rumano y al polaco.</p>
+        </div>
+        <button class="myBtn" onclick="readMore('cristina')">Leer más...</button>        
     </div>
 </div>
 
 <hr class="separador"/>
 
-<div class="participante">
+<div class="participante"  data-part="jordi">
     <div class="foto-cont2"><img class="fot" src="{{'/images/Jordi_Gracia.jpg' | relative_url }}" alt="ella" /></div>
-    <div class="nombre2"><h2>Marika Gedin</h2></div>
+    <div class="nombre2"><h2>Jordi Gracia García</h2></div>
     <div class="text2 esp" lang="es">
-        <p>Traductora loren ipsum. <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">Leer más</a></span></p>
+        <p>Crítico literario, catedrático de literatura española Universidad de Barcelona y subdirector de opinión del periódico El País.</p>
     </div>
 </div>
-<div class="participante">
-    <div class="foto-cont2"><img class="fot" src="{{'/images/Ella_Sher.jpeg' | relative_url }}" alt="ella" /></div>
+
+<div class="participante"  data-part="ella">
+    <div class="foto-cont2"><img class="fot" src="{{'/images/Ella_Sher.jpeg' | relative_url }}" width="300" alt="ella" /></div>
     <div class="nombre2"><h2>Ella Sher</h2></div>
     <div class="text2 esp" lang="es">
-        <p>Agente literaria establecida en Barcelona y nombre fundamental en la circulación de la literatura española producida por autores emergentes menores de cuarenta años. Cristina Morales, Jon Bilbao, Juan Gómez Bárcena, María Folguera o Sergio del Molino se cuentan entre sus representados. <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">(Leer más)</a></span></p></div>
+        <p>Agente literaria establecida en Barcelona y nombre fundamental en la circulación de la literatura española producida por autores emergentes menores de cuarenta años. Cristina Morales, Jon Bilbao, Juan Gómez Bárcena, María Folguera o Sergio del Molino se cuentan entre sus representados. </p>
+    </div>
 </div>
 
 <hr class="separador"/>
 
+<!-- &#8615; -->
 
-<h3 class="fecha js-expandmore" data-hideshow-prefix-class="mini-combo">Ver más participantes</h3>
-<div class="js-to_expand">
+
+            <div class="collapsible" id="collapse-1">
+                <h3>Ver más participantes</h3>
+                <div class="flechita">
+                    <img src="/images/Flecha-down.svg" />
+                </div>
+                <div class="flechita">
+                    <img src="/images/Flecha-up.svg" />
+                </div>
+            </div>
+
+<div class="content-collapse">
     <div class="participante">
-        <div class="foto-cont2"><img class="fot" src="{{'/images/Jordi_Gracia.jpg' | relative_url }}" alt="ella" /></div>
+        <div class="foto-cont2"><img class="fot" src="{{'/images/Mika.jpg' | relative_url }}" alt="ella" /></div>
         <div class="nombre2"><h2>Marika Gedin</h2></div>
         <div class="text2 esp" lang="es">
             <p>Crítico literario, catedrático de literatura española Universidad de Barcelona y subdirector de opinión del periódico El País. <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">(Leer más)</a></span></p>       </div>
     </div>
+</div>    
 
-</div><!--js-to_expand-->
+
+
+
 
 <!-- <div class="js-to_expand">
     <p>El lugar de la traducción es el de la doblez. Entre quien escribe y quien lee vive quien traduce. No escribe, no solo lee: otra cosa distinta, otro lugar. En el lugar de la doblez es donde más se aprende. Quien escribe no sabe exactamente cómo hace eso que hace; quien lee no alcanza tampoco tal grado de conciencia; pero a menudo quien traduce sí. Algunas veces cree, como quien se enamora, estar dentro de una mente distinta: huesecillos, espirales, mecanismos anómalos y perfectos, que funcionan de esa extraña manera tan poderosa. Como quien se enamora, en los ojos del otro persigue signos, huellas, un pensar, una risa, un quiebro, algo oscuro. Ruedas engrasadas, muescas que chirrían: cómo avanza y adónde, cómo se para. Y el producto: de qué están hechas las mezclas, qué proporciones, dónde lima y cómo suena al desprenderse. Y las cosas, dónde, cómo respiran. Más allá del idioma, <em>esa</em> lengua no es <em>mi</em> lengua. Más acá del idioma, no <em>debo</em> hacer mía esa lengua. Y, sin embargo, algo del tono, del respirar se alcanza. Una cámara oscura: unos prados en sombra, algunos animales, la risa, una luz: eso es lo que se alcanza, y ahí, cerca, todo lo que se pierde. Contra la propia lengua, contra la propia mente: una doblez. Y ser fiel, sin embargo. Pese a elecciones técnicas, a marcados abismos: ¿primar lo semántico?, ¿lo rítmico?, ¿la sintaxis?, ¿algo de la tonalidad, de la coloración vocálica?, ¿se conserva la rima?, ¿buscar mejor lo fónico, lo en paralelo paronomásico?, ¿tender al equilibrio?, ¿dejarse bascular? Quien traduce elige, opta por males que percibe menores. Sopesa: traer aquello aquí, aquello como es, como era, pero aquí, ahora; y siempre, ojo avizor, la duda: <em>fidelidad, qué alientas</em>. Vueltas de tuerca, destellos, intensidad. Las preguntas que hay y que no se formulan, lo que sumergido trasluce, lo que pesa sin verse. Entre quien escribe y quien lee, un pliegue, lugar de la doblez. En la lengua habla un cuerpo: su cuerpo no es mi cuerpo. Cómo son, cómo eran las cosas cuando quien ha escrito las tocaba: solipsismo del tacto. Se escribe con el cuerpo, pues que el alma es el cuerpo, con las huellas, muescas que en el cuerpo se inscriben: lo que deja la luz, los lugares de niño... ¿<em>Trasladar</em>? ¿<em>Verter</em>? ¿<em>Recrear? </em>Traducir: doble vida imposible, cámara oscura. Quien traduce fracasa, y sabe más, lee mejor.</p>

@@ -1,4 +1,7 @@
 $intrans-color:    #ffb71c;
+$grey-links: #8B8B8B;
+
+.separador {display: none;}
 
 #content {
   margin-top: 0em;
@@ -149,7 +152,8 @@ div.participante {
                 // margin-top: -2.5em;
                 // margin-left: .3em;
               }
-          }                         
+          }   
+          .text2 {font-size: 90%;}                      
 }  
 section.sedes, section.about {
   div.participante {
@@ -173,10 +177,7 @@ section.sedes, section.about {
               // filter: grayscale(100%);
             }
         }
-        .text2 {grid-column: 2 / 3; 
-          p {margin: 0;}
-
-        }
+        .text2 {grid-column: 2 / 3;}
   }
   section.sedes, section.about {
     div.participante {
@@ -513,3 +514,58 @@ a:active {
 /* Rules for using icons as white on a dark background. */
 .material-icons.md-light { color: rgba(255, 255, 255, 1); }
 .material-icons.md-light.md-inactive { color: rgba(255, 255, 255, 0.3); }
+
+
+
+
+// Leer más - menos
+.dots {
+  // display: none;
+}
+// .more {display: none;}
+
+.more {
+  display: none;
+  transition: max-height 0.2s ease-out;
+}
+
+.myBtn {
+background-color: transparent;
+color:$grey-links;
+cursor: pointer;
+font-size: 90%;
+}
+    @media (max-width: 1025px) {
+      .myBtn {margin-top: -1em;}
+    }  
+
+
+
+.collapsible {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  cursor: pointer;
+  margin: auto;
+  justify-content: center;
+  margin-top: 3em;
+  border-bottom: 1px solid black;
+}
+.flechita {
+  width: 2em;
+  margin-left: 25px;
+    img {padding-top: 25px;}
+}
+
+
+
+.active, .collapsible:hover {
+  // background-color: rgb(223, 36, 36);
+}
+
+.content-collapse {
+  // padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
