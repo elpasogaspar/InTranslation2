@@ -27,12 +27,12 @@ button:hover,
 	border: 0 !important;
 }
 
-button:active,
-.button:active {
-	background-color: mix(#fff, $ci-1, 20%);
-	box-shadow: 0 5px $ci-1;
-	transform: translateY(2px);
-}
+// button:active,
+// .button:active {
+// 	background-color: mix(#fff, $ci-1, 20%);
+// 	box-shadow: 0 0px $ci-1;
+// 	transform: translateY(2px);
+// }
 
 
 /* Color Buttons */

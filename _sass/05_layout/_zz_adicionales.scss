@@ -102,13 +102,12 @@ hr {
       padding-bottom: .5em;
       * {margin: 0;}
 
-      h2.fecha {
-          letter-spacing: 4px;
-          text-transform: uppercase!important;
-      } 
-      .titulo-prog {text-align:center;}
-      .lugar {margin-top: 1em;} 
-      .horario {margin: 0;}   
+       h2 span.fecha {letter-spacing: 4px;} 
+        .titulo-prog, .lugar, .horario {text-transform: none;}
+        .titulo-prog {text-align:center;}
+        .lugar {margin-top: 1em;} 
+        .horario {margin: 0;}  
+
       .evento {
           margin-bottom: 1.5em;
           .titulo-evento {font-style: italic; 
@@ -269,9 +268,6 @@ section.textos {
 
 
 // Cosas nuevas añadidas a partir del XD de TSU
-
-
-
 .entrada{
   // margin: 0 1rem; 
   display: grid;
@@ -349,13 +345,75 @@ a:active {
 
 
 
+button {
+  box-shadow: none;
+  line-height: inherit;
+  padding: 0;
+  margin: 0;  
+}
+
+  button:hover,
+  .button:hover {
+    background-color: mix(#fff, black, 90%);
+  }
 
 
 
+                // readMore
+  .dots {}
+
+  .more {
+    display: none;
+    -webkit-transition: display .15s cubic-bezier(.33,.66,.66,1);
+    transition: display 1s ease-out;
+  }
+  
+  .myBtn {
+    background-color: transparent;
+    color:$grey-links;
+    cursor: pointer;
+    font-size: 90%;
+  }
+      @media (max-width: 1025px) {
+        .myBtn {margin-top: -1em;}
+      }  
+  
+                
+                
+                                 // Collapsible max-height:0 => max-height:scrollHeight+px   
+.collapsible {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  cursor: pointer;
+  margin: auto;
+  justify-content: space-between;
+}
+.flechita {
+  width: 2.5em;
+  margin-left: 25px;
+  align-self: flex-end;
+    img { 
+      padding-top: 10px;
+      transition-duration: 300ms;}
+}
+  .active .flechita img {
+    transform: rotate(180deg);
+  }
 
 
+.active, .collapsible:hover {
+  // background-color: #8B8B8B;
+}
 
+.content-collapse {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+  .content-collapse div:first-child {  padding-top: 2em!important;}
 
+                
 
                                       // El expand ARIA
 
@@ -363,18 +421,7 @@ a:active {
               .js-to_expand[data-hidden=true] {
                 display: none;
               }
-              button {
-                box-shadow: none;
-                line-height: inherit;
-                padding: 0;
-                margin: 0;  
-              }
 
-
-                button:hover,
-                .button:hover {
-                  background-color: mix(#fff, black, 90%);
-                }
               .js-expandmore {}
               .js-to_expand {margin-top: 2em!important;}
 
@@ -408,8 +455,6 @@ a:active {
                 transform: rotate(180deg);
               }
 
-
-
               .expandmore__button[aria-expanded=true] > .expandmore__symbol::after {
                 // content : '\232A';
               }
@@ -434,35 +479,10 @@ a:active {
               transition-delay: 2s, 0s, 0s;
               }
 
-              button.mini-combo-expandmore__button {
-                background: none;
-                font-size: inherit;
-                color: inherit;
-                font-weight: inherit;
-                border: none;
-                cursor: pointer;
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-
-                width: 100%;
-                height: 2em;
-                margin:auto;
-                border: 2px solid red;
-              }
 
 
 
-
-
-
-
-
-
-
-
-
-
+                                   // material-icons
 
 
 .material-icons {
@@ -531,31 +551,3 @@ font-size: 90%;
     }  
 
 
-
-                 // Collapsible max-height:0 => max-height:scrollHeight+px   
-.collapsible {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  cursor: pointer;
-  margin: auto;
-  justify-content: center;
-  margin-top: 3em;
-  border-bottom: 1px solid black;
-}
-.flechita {
-  width: 2em;
-  margin-left: 25px;
-    img {padding-top: 25px;}
-}
-
-.active, .collapsible:hover {
-  // background-color: rgb(223, 36, 36);
-}
-
-.content-collapse {
-  // padding: 0 18px;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}

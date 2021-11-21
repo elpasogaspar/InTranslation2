@@ -141,7 +141,8 @@ language-ref: presentacion
     </div><!--de la jornada-->
 
     <div class="jornada" id="jornada-3">
-        <h2 class="fecha js-expandmore"><span class="upper">4 de diciembre</span>
+        <h2 class="js-expandmore">
+              <span class="fecha">4 de diciembre</span>
         <br /><span class="titulo-prog">Feria literia de Estocolmo</span>
         <br /><span class="lugar">Lugar: Kulturhuset, Sergeltorget, Estocolmo</span>
         <br /><span class="horario">Horario: por concretar</span>
@@ -165,6 +166,39 @@ language-ref: presentacion
             </div>
         </div><!--del js-to_expand-->       
     </div><!--de la jornada-->
+
+    <div class="jornada" id="jornada-4">
+        <div class="collapsible">
+            <h2 class=""><span class="fecha">XX de diciembre</span>
+                <br /><span class="titulo-prog">Feria literia de Estocolmo</span>
+                <br /><span class="lugar">Lugar: Kulturhuset, Sergeltorget, Estocolmo</span>
+                <br /><span class="horario">Horario: por concretar</span>
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>
+        
+        <div class="content-collapse">        
+            <div class="evento">
+                <h6 class="titulo-evento" id="evento-9">Poesía a escena</h6>
+                <ul class="ponentes">
+                    <li>Olvido García Valdés</li>
+                    <li>Magnus-William Ohlsson</li>
+                </ul>
+                <!-- <p>Idioma: español y sueco</p> -->
+            </div> 
+            <div class="evento">   
+                <h6 class="titulo-evento" id="evento-9">Espacio para la literatura</h6>
+                <ul class="ponentes">
+                    <li>Cristina Morales</li>
+                    <li>Clara Usón</li>
+                </ul>
+                <!-- <p>Idioma: inglés</p> -->
+            </div>
+        </div><!--del js-to_expand-->       
+    </div><!--de la jornada 4-->
+
 
 </section><!--del programa-->
 
@@ -262,14 +296,14 @@ language-ref: presentacion
                 </div>
             </div>
 
-<div class="content-collapse">
-    <div class="participante">
-        <div class="foto-cont2"><img class="fot" src="{{'/images/Mika.jpg' | relative_url }}" alt="ella" /></div>
-        <div class="nombre2"><h2>Marika Gedin</h2></div>
-        <div class="text2 esp" lang="es">
-            <p>Crítico literario, catedrático de literatura española Universidad de Barcelona y subdirector de opinión del periódico El País. <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">(Leer más)</a></span></p>       </div>
-    </div>
-</div>    
+            <div class="content-collapse">
+                <div class="participante">
+                    <div class="foto-cont2"><img class="fot" src="{{'/images/Mika.jpg' | relative_url }}" alt="ella" /></div>
+                    <div class="nombre2"><h2>Marika Gedin</h2></div>
+                    <div class="text2 esp" lang="es">
+                        <p>Crítico literario, catedrático de literatura española Universidad de Barcelona y subdirector de opinión del periódico El País. <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">(Leer más)</a></span></p>       </div>
+                </div>
+            </div>    
 
 
 
