@@ -356,7 +356,7 @@ a:active {
 
 
 
-// El expand
+                                      // El expand ARIA
 
               .js-to_expand[aria-hidden=true],
               .js-to_expand[data-hidden=true] {
@@ -401,29 +401,11 @@ a:active {
               }
               .expandmore__symbol > img {
                   width: 100px;
+                  transition-duration: 300ms;
                 }
-              
-              .expandmore__symbol::after {
-                // content : '\2329';
-                // font-size: 3em;
-                // width: 60px;
-                // transform: rotate(0.25turn);
-                // transform: rotateX(90deg)!important;
+              .is-opened .expandmore__symbol img {
+                transform: rotate(180deg);
               }
-              // .expandmore__symbol::after {
-              //     content: '';
-              //     background: url("/images/Flecha.svg");
-              //     background-position: center center;
-              //     background-size: cover;
-              //     height: 5em;
-              //     margin: -10px;
-              //     width: 200px;
-              //     position:relative;
-              //     right: 100px;
-              //     border-top-right-radius: 4px;
-              //     border-bottom-right-radius: 4px;
-              //     z-index: 0;
-              // }
 
 
 
