@@ -22,13 +22,17 @@ language-ref: presentacion
 <section class="programa" id="sec-1">
 <h1 id="">Programa</h1>
     <div class="jornada" id="jornada-1">
-        <h2 class="fecha js-expandmore"><span class="upper">2 de diciembre</span>
-        <br /><span class="titulo-prog">Seminario de traducción</span>
-        <br /><span class="lugar">Lugar: Författarförbundet, Drottninggatan 88B, Estocolmo.</span>
-        <br /><span class="horario">Horario: 10.00 – 18.30</span>
-        </h2>
-        <div class="js-to_expand">
-
+        <div class="collapsible">
+            <h2 class=""><span class="fecha">2 de diciembre</span>
+            <br /><span class="titulo-prog">Seminario de traducción</span>
+            <br /><span class="lugar">Lugar: Författarförbundet, Drottninggatan 88B, Estocolmo.</span>
+            <br /><span class="horario">Horario: 10.00 – 18.30</span>
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>
+        <div class="content-collapse">
             <div class="evento">
                 <h6 class="titulo-evento" id="evento-1"><span class="hora">10:00</span> La autora y su traductora / La traductora y su autora</h6>
                 <ul class="ponentes">
@@ -119,15 +123,20 @@ language-ref: presentacion
                 <!-- -- -->
 
         </div><!--del js-to_expand-->       
-    </div><!--de la jornada-->
+    </div><!--de la jornada 1-->
 
     <div class="jornada" id="jornada-2">
-        <h2 class="fecha js-expandmore"><span class="upper">3 de diciembre</span>
-            <br /><span class="titulo-prog">Evento público</span>
-            <br /><span class="lugar">Lugar: Instituto Cervantes, Bryggargatan 12, Estocolmo</span>
-            <br /><span class="horario">Horario: 18.00 – 19.30</span>
-        </h2>
-        <div class="js-to_expand">
+        <div class="collapsible">
+            <h2 class=""><span class="fecha">3 de diciembre</span>
+                <br /><span class="titulo-prog">Evento público</span>
+                <br /><span class="lugar">Lugar: Instituto Cervantes, Bryggargatan 12, Estocolmo</span>
+                <br /><span class="horario">Horario: 18.00 – 19.30</span>
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>
+        <div class="content-collapse">
             <div class="evento">
                 <h6 class="titulo-evento" id="evento-8">Tres voces distintas de la literatura actual española</h6>
                 <ul class="ponentes">
@@ -137,39 +146,13 @@ language-ref: presentacion
                     <li>Moderador: Gaspar Cano Peral</li>
                 </ul>
             </div>
-        </div><!--del js-to_expand-->       
-    </div><!--de la jornada-->
+        </div><!--del content-collapse-->       
+    </div><!--de la jornada 3-->
 
     <div class="jornada" id="jornada-3">
-        <h2 class="js-expandmore">
-              <span class="fecha">4 de diciembre</span>
-        <br /><span class="titulo-prog">Feria literia de Estocolmo</span>
-        <br /><span class="lugar">Lugar: Kulturhuset, Sergeltorget, Estocolmo</span>
-        <br /><span class="horario">Horario: por concretar</span>
-        </h2>
-        <div class="js-to_expand">        
-            <div class="evento">
-                <h6 class="titulo-evento" id="evento-9">Poesía a escena</h6>
-                <ul class="ponentes">
-                    <li>Olvido García Valdés</li>
-                    <li>Magnus-William Ohlsson</li>
-                </ul>
-                <!-- <p>Idioma: español y sueco</p> -->
-            </div> 
-            <div class="evento">   
-                <h6 class="titulo-evento" id="evento-9">Espacio para la literatura</h6>
-                <ul class="ponentes">
-                    <li>Cristina Morales</li>
-                    <li>Clara Usón</li>
-                </ul>
-                <!-- <p>Idioma: inglés</p> -->
-            </div>
-        </div><!--del js-to_expand-->       
-    </div><!--de la jornada-->
-
-    <div class="jornada" id="jornada-4">
         <div class="collapsible">
-            <h2 class=""><span class="fecha">XX de diciembre</span>
+            <h2 class="">
+                <span class="fecha">4 de diciembre</span>
                 <br /><span class="titulo-prog">Feria literia de Estocolmo</span>
                 <br /><span class="lugar">Lugar: Kulturhuset, Sergeltorget, Estocolmo</span>
                 <br /><span class="horario">Horario: por concretar</span>
@@ -178,7 +161,6 @@ language-ref: presentacion
                 <img src="/images/Flecha-down.svg" />
             </div>
         </div>
-        
         <div class="content-collapse">        
             <div class="evento">
                 <h6 class="titulo-evento" id="evento-9">Poesía a escena</h6>
@@ -186,7 +168,6 @@ language-ref: presentacion
                     <li>Olvido García Valdés</li>
                     <li>Magnus-William Ohlsson</li>
                 </ul>
-                <!-- <p>Idioma: español y sueco</p> -->
             </div> 
             <div class="evento">   
                 <h6 class="titulo-evento" id="evento-9">Espacio para la literatura</h6>
@@ -194,11 +175,9 @@ language-ref: presentacion
                     <li>Cristina Morales</li>
                     <li>Clara Usón</li>
                 </ul>
-                <!-- <p>Idioma: inglés</p> -->
             </div>
-        </div><!--del js-to_expand-->       
-    </div><!--de la jornada 4-->
-
+        </div><!--del colntent-collpase-->       
+    </div><!--de la jornada 3-->
 
 </section><!--del programa-->
 
@@ -216,7 +195,9 @@ language-ref: presentacion
         <p>Premio Nacional de Poesía en 2007 por <em>Y todos estábamos vivos</em> y Premio Iberoamericano de Poesía Pablo Neruda 2021, presentará la edición sueca de la premiada <em>Y todos estábamos vivos</em>. 
             <span class="dots"></span>
         </p>  
+        
         <div class="more" style="display: none;">
+            <hr class="separador2"/>
             <p>Licenciada en Filología Románica y en Filosofía. Profesionalmente, ha sido Catedrática de Lengua Castellana y Literatura. Fue también Directora del Instituto Cervantes de Toulouse y Directora General del Libro y Fomento de la Lectura. En la actualidad reside en Toledo.</p>
             <p>Entre otros, ha recibido el Premio Iberoamericano de Poesía Pablo Neruda 2021, el Premio de las Letras de Asturias 2016, y el Premio Nacional de Poesía 2007 por su libro <em>Y todos estábamos vivos</em> (Tusquets, Barcelona, 2006, 2007). En <em>Esa polilla que delante de mí revolotea. Poesía reunida (1982-2008)</em> (Galaxia Gutenberg, Barcelona, 2008, 2016) se recoge su obra poética entre esas fechas. Posteriormente ha publicado <em>Lo solo del animal</em> (Tusquets, Barcelona, 2012) y, recientemente, <em>confía en la gracia</em> (Tusquets, Barcelona, 2020) y d<em>entro del animal la voz. Antología 1982-2012</em> (Editorial Cátedra, colección Letras Hispánicas, Madrid, 2020). Libros suyos han sido traducidos al francés, inglés, italiano, polaco y sueco; igualmente sus poemas han aparecido en alemán, portugués, rumano, griego, serbio, árabe y chino.</p>
             <p>Es asimismo autora del ensayo biográfico <em>Teresa de Jesús</em>, de textos para catálogos de artes plásticas (Zush, Kiefer, Vicente Rojo, Tàpies, Juan Soriano, Bienal de Venecia 2001, Broto...) y de numerosos ensayos de reflexión literaria. Ha traducido <em>La religión de mi tiempo</em> y <em>Larga carretera de arena</em> de Pier Paolo Pasolini, y (en colaboración) la antología de Anna Ajmátova y Marina Tsvetáieva <em>El canto y la ceniza</em>, así como <em>El resto del viaje y otros poemas</em>, de Bernard Noël. Ha codirigido la revista <em>Los Infolios</em>, y fue miembro fundador de <em>El signo del gorrión</em> (1992–2002). Ha dirigido o coordinado diversos cursos, seminarios y ciclos de poesía contemporánea.</p>
@@ -235,6 +216,7 @@ language-ref: presentacion
             <span class="dots"></span>
         </p>
         <div class="more" >
+            <hr class="separador2"/>
             <p>Estudió derecho y ejerció la abogacía durante 18 años.</p>
             <p>En 1998 ganó el premio Lumen por su primera novela, NOCHES DE SAN JUAN, a la que siguieron PRIMER VUELO (novela, 2001, El Aleph); EL VIAJE DE LAS PALABRAS (novela, 2003, Plaza &amp; Janés); PERSEGUIDORAS (novela, 2007, Alfaguara); CORAZÓN DE NAPALM (Seix Barral), por la que obtuvo el premio Biblioteca Breve en 2009 .</p>
             <p>Su novela, LA HIJA DEL ESTE, (Seix Barral 2012) ha sido reeditada nueve veces, ha ganado en España el Premio Ciutat de Barcelona y el prestigioso Premio de la Crítica; en Italia ha sido galardonada con el Premio de la Cultura Mediterránea y en Francia con Le Prix Bouchon de Cultures.</p>
@@ -256,6 +238,7 @@ language-ref: presentacion
             <span class="dots"></span>
         </p>
         <div class="more" style="display: none;">
+            <hr class="separador2"/>
             <p>Cristina Morales (Granada, 1985) es autora de las novelas <em>Lectura fácil</em> (Anagrama, Premio Nacional de Narrativa 2019 y Premio Herralde de Novela 2018), <em>Terroristas modernos</em> (Candaya, 2017), <em>Últimas tardes con Teresa de Jesús</em> (Lumen 2015, Anagrama 2020) y <em>Los combatientes</em> (Caballo de Troya 2013, Anagrama 2020), galardonada con el Premio INJUVE de Narrativa 2012; así como del libro de relatos <em>La merienda de las niñas</em> (Cuadernos del Vigía, 2008). Sus cuentos han aparecido en numerosas antologías y revistas literarias. Como dramaturga ha trabajado, entre otras, para Sol Picó, Sara Molina, el Teatro Nacional de Cataluña y el Teatro del Barrio. En 2021 le fue concedida la Beca de la Real Academia de España en Roma, en 2017 la Beca de Escritura Montserrat Roig, en 2015 la de la Fundación Han Nefkens y en 2007 la de la Fundación Antonio Gala para Jóvenes Creadores. En 2021 fue seleccionada por la revista Granta entre los 25 mejores escritores en español menores de 35 años.</p>
             <p>Licenciada en Derecho y en Ciencias Políticas y especialista en Relaciones Internacionales, es bailarina y coreógrafa de <a href="http://www.iniciativasexualfemenina.es/"><em>Iniciativa Sexual Femenina</em></a>, productora ejecutiva de la banda de punk <a href="https://www.facebook.com/pages/category/Musician-Band/At-asko-1152363591571935/"><em>At-Asko</em></a> y archivera y difusora de mugrelindas con el colectivo <a href="https://www.instagram.com/bachini.bachini/?hl=es"><em>BachiniBachini.</em></a></p>
         </div>
@@ -286,32 +269,37 @@ language-ref: presentacion
 <!-- &#8615; -->
 
 
-            <div class="collapsible" id="collapse-1">
-                <h3>Ver más participantes</h3>
-                <div class="flechita">
-                    <img src="/images/Flecha-down.svg" />
-                </div>
-                <div class="flechita">
-                    <img src="/images/Flecha-up.svg" />
-                </div>
-            </div>
-
-            <div class="content-collapse">
-                <div class="participante">
-                    <div class="foto-cont2"><img class="fot" src="{{'/images/Mika.jpg' | relative_url }}" alt="ella" /></div>
-                    <div class="nombre2"><h2>Marika Gedin</h2></div>
-                    <div class="text2 esp" lang="es">
-                        <p>Crítico literario, catedrático de literatura española Universidad de Barcelona y subdirector de opinión del periódico El País. <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">(Leer más)</a></span></p>       </div>
-                </div>
-            </div>    
 
 
+<div class="mas-participantes">
+    <div class="collapsible" id="collapse-4">
+        <h3>Ver más participantes</h3>
+        <div class="flechita">
+            <img src="/images/Flecha-down.svg" />
+        </div>
+    </div>
+
+    <div class="content-collapse">
+        <div class="participante mas">
+            <h2 class="foto-cont2">Marika Gedin</h2>
+            <p class="text2">Traductora de títulos tan reconocidos como...</p>
+        </div>
+        <div class="participante mas">        
+            <h2 class="foto-cont2">Hanna Nordenhök</h2>
+            <p class="text2">Fenómeno literario de la década</p>
+        </div>
 
 
+        <div class="participante">
+            <div class="foto-cont2"><img class="fot" src="{{'/images/Mika.jpg' | relative_url }}" alt="ella" /></div>
+            <div class="nombre2"><h2>Marika Gedin</h2></div>
+            <div class="text2 esp" lang="es">
+                <p>Crítico literario, catedrático de literatura española Universidad de Barcelona y subdirector de opinión del periódico El País. <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">(Leer más)</a></span></p>       </div>
+        </div>
+    </div>    
+</div>
 
-<!-- <div class="js-to_expand">
-    <p>El lugar de la traducción es el de la doblez. Entre quien escribe y quien lee vive quien traduce. No escribe, no solo lee: otra cosa distinta, otro lugar. En el lugar de la doblez es donde más se aprende. Quien escribe no sabe exactamente cómo hace eso que hace; quien lee no alcanza tampoco tal grado de conciencia; pero a menudo quien traduce sí. Algunas veces cree, como quien se enamora, estar dentro de una mente distinta: huesecillos, espirales, mecanismos anómalos y perfectos, que funcionan de esa extraña manera tan poderosa. Como quien se enamora, en los ojos del otro persigue signos, huellas, un pensar, una risa, un quiebro, algo oscuro. Ruedas engrasadas, muescas que chirrían: cómo avanza y adónde, cómo se para. Y el producto: de qué están hechas las mezclas, qué proporciones, dónde lima y cómo suena al desprenderse. Y las cosas, dónde, cómo respiran. Más allá del idioma, <em>esa</em> lengua no es <em>mi</em> lengua. Más acá del idioma, no <em>debo</em> hacer mía esa lengua. Y, sin embargo, algo del tono, del respirar se alcanza. Una cámara oscura: unos prados en sombra, algunos animales, la risa, una luz: eso es lo que se alcanza, y ahí, cerca, todo lo que se pierde. Contra la propia lengua, contra la propia mente: una doblez. Y ser fiel, sin embargo. Pese a elecciones técnicas, a marcados abismos: ¿primar lo semántico?, ¿lo rítmico?, ¿la sintaxis?, ¿algo de la tonalidad, de la coloración vocálica?, ¿se conserva la rima?, ¿buscar mejor lo fónico, lo en paralelo paronomásico?, ¿tender al equilibrio?, ¿dejarse bascular? Quien traduce elige, opta por males que percibe menores. Sopesa: traer aquello aquí, aquello como es, como era, pero aquí, ahora; y siempre, ojo avizor, la duda: <em>fidelidad, qué alientas</em>. Vueltas de tuerca, destellos, intensidad. Las preguntas que hay y que no se formulan, lo que sumergido trasluce, lo que pesa sin verse. Entre quien escribe y quien lee, un pliegue, lugar de la doblez. En la lengua habla un cuerpo: su cuerpo no es mi cuerpo. Cómo son, cómo eran las cosas cuando quien ha escrito las tocaba: solipsismo del tacto. Se escribe con el cuerpo, pues que el alma es el cuerpo, con las huellas, muescas que en el cuerpo se inscriben: lo que deja la luz, los lugares de niño... ¿<em>Trasladar</em>? ¿<em>Verter</em>? ¿<em>Recrear? </em>Traducir: doble vida imposible, cámara oscura. Quien traduce fracasa, y sabe más, lee mejor.</p>
-</div> -->
+
 
 
 </section><!--participantes-->
@@ -323,32 +311,45 @@ language-ref: presentacion
     <p>Selección de textos de nuestros participantes y colaboradores en torno a la traducción, la literatura...</p> 
 
     <div class="texto" id="texto-olvido">
-            <h2 class="titulo js-expandmore">De la imposible tarea de traducir poesía
+        <div class="collapsible">
+            <h2 class="titulo">De la imposible tarea de traducir poesía
                 <br /> <span class="autor">Olvido García Valdés</span> 
-                <!-- <span class="material-icons md-36">expand_more</span> -->
             </h2>
-                <div class="js-to_expand">
-                    <p>El lugar de la traducción es el de la doblez. Entre quien escribe y quien lee vive quien traduce. No escribe, no solo lee: otra cosa distinta, otro lugar. En el lugar de la doblez es donde más se aprende. Quien escribe no sabe exactamente cómo hace eso que hace; quien lee no alcanza tampoco tal grado de conciencia; pero a menudo quien traduce sí. Algunas veces cree, como quien se enamora, estar dentro de una mente distinta: huesecillos, espirales, mecanismos anómalos y perfectos, que funcionan de esa extraña manera tan poderosa. Como quien se enamora, en los ojos del otro persigue signos, huellas, un pensar, una risa, un quiebro, algo oscuro. Ruedas engrasadas, muescas que chirrían: cómo avanza y adónde, cómo se para. Y el producto: de qué están hechas las mezclas, qué proporciones, dónde lima y cómo suena al desprenderse. Y las cosas, dónde, cómo respiran. Más allá del idioma, <em>esa</em> lengua no es <em>mi</em> lengua. Más acá del idioma, no <em>debo</em> hacer mía esa lengua. Y, sin embargo, algo del tono, del respirar se alcanza. Una cámara oscura: unos prados en sombra, algunos animales, la risa, una luz: eso es lo que se alcanza, y ahí, cerca, todo lo que se pierde. Contra la propia lengua, contra la propia mente: una doblez. Y ser fiel, sin embargo. Pese a elecciones técnicas, a marcados abismos: ¿primar lo semántico?, ¿lo rítmico?, ¿la sintaxis?, ¿algo de la tonalidad, de la coloración vocálica?, ¿se conserva la rima?, ¿buscar mejor lo fónico, lo en paralelo paronomásico?, ¿tender al equilibrio?, ¿dejarse bascular? Quien traduce elige, opta por males que percibe menores. Sopesa: traer aquello aquí, aquello como es, como era, pero aquí, ahora; y siempre, ojo avizor, la duda: <em>fidelidad, qué alientas</em>. Vueltas de tuerca, destellos, intensidad. Las preguntas que hay y que no se formulan, lo que sumergido trasluce, lo que pesa sin verse. Entre quien escribe y quien lee, un pliegue, lugar de la doblez. En la lengua habla un cuerpo: su cuerpo no es mi cuerpo. Cómo son, cómo eran las cosas cuando quien ha escrito las tocaba: solipsismo del tacto. Se escribe con el cuerpo, pues que el alma es el cuerpo, con las huellas, muescas que en el cuerpo se inscriben: lo que deja la luz, los lugares de niño... ¿<em>Trasladar</em>? ¿<em>Verter</em>? ¿<em>Recrear? </em>Traducir: doble vida imposible, cámara oscura. Quien traduce fracasa, y sabe más, lee mejor.</p>
-                </div>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>
+        <div class="content-collapse">
+            <p>El lugar de la traducción es el de la doblez. Entre quien escribe y quien lee vive quien traduce. No escribe, no solo lee: otra cosa distinta, otro lugar. En el lugar de la doblez es donde más se aprende. Quien escribe no sabe exactamente cómo hace eso que hace; quien lee no alcanza tampoco tal grado de conciencia; pero a menudo quien traduce sí. Algunas veces cree, como quien se enamora, estar dentro de una mente distinta: huesecillos, espirales, mecanismos anómalos y perfectos, que funcionan de esa extraña manera tan poderosa. Como quien se enamora, en los ojos del otro persigue signos, huellas, un pensar, una risa, un quiebro, algo oscuro. Ruedas engrasadas, muescas que chirrían: cómo avanza y adónde, cómo se para. Y el producto: de qué están hechas las mezclas, qué proporciones, dónde lima y cómo suena al desprenderse. Y las cosas, dónde, cómo respiran. Más allá del idioma, <em>esa</em> lengua no es <em>mi</em> lengua. Más acá del idioma, no <em>debo</em> hacer mía esa lengua. Y, sin embargo, algo del tono, del respirar se alcanza. Una cámara oscura: unos prados en sombra, algunos animales, la risa, una luz: eso es lo que se alcanza, y ahí, cerca, todo lo que se pierde. Contra la propia lengua, contra la propia mente: una doblez. Y ser fiel, sin embargo. Pese a elecciones técnicas, a marcados abismos: ¿primar lo semántico?, ¿lo rítmico?, ¿la sintaxis?, ¿algo de la tonalidad, de la coloración vocálica?, ¿se conserva la rima?, ¿buscar mejor lo fónico, lo en paralelo paronomásico?, ¿tender al equilibrio?, ¿dejarse bascular? Quien traduce elige, opta por males que percibe menores. Sopesa: traer aquello aquí, aquello como es, como era, pero aquí, ahora; y siempre, ojo avizor, la duda: <em>fidelidad, qué alientas</em>. Vueltas de tuerca, destellos, intensidad. Las preguntas que hay y que no se formulan, lo que sumergido trasluce, lo que pesa sin verse. Entre quien escribe y quien lee, un pliegue, lugar de la doblez. En la lengua habla un cuerpo: su cuerpo no es mi cuerpo. Cómo son, cómo eran las cosas cuando quien ha escrito las tocaba: solipsismo del tacto. Se escribe con el cuerpo, pues que el alma es el cuerpo, con las huellas, muescas que en el cuerpo se inscriben: lo que deja la luz, los lugares de niño... ¿<em>Trasladar</em>? ¿<em>Verter</em>? ¿<em>Recrear? </em>Traducir: doble vida imposible, cámara oscura. Quien traduce fracasa, y sabe más, lee mejor.</p>
+        </div>
     </div>
 
 
     <div class="texto" id="texto-clara">
-        <h2 class="titulo js-expandmore">... när det gäller mina översättare
+        <div class="collapsible">
+            <h2 class="titulo">.. när det gäller mina översättare
             <br /> <span class="autor">Clara Usón</span> 
-        </h2>
-            <div class="js-to_expand">
-                <p class="pendiente">Falta el texto de Clara Usón en español? Sí está en sueco.</p>
-               
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
             </div>
+        </div>
+        <div class="content-collapse">
+            <p class="pendiente">Falta el texto de Clara Usón en español? Sí está en sueco.</p>
+        </div>
     </div>
 
 
     <div class="texto" id="texto-ella">
-        <h2 class="titulo js-expandmore">Translation is...
+        <div class="collapsible">
+            <h2 class="titulo">Translation is...
             <br /> <span class="autor">Ella Sherr</span>
-        </h2>
-        <div class="js-to_expand">
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>
+        <div class="content-collapse">
             <p>Translation is the reason all of us, readers, authors, publishers and agents - love our jobs.</p>
             <p>Translation is what makes us feel so deeply proud of what we write, or read, or discover.</p>
             <p>I like to think of my literary agency as a way to build bridges made of good literature.</p>
@@ -361,31 +362,45 @@ language-ref: presentacion
 
 
     <div class="texto" id="texto-cristina">
-        <h2 class="titulo js-expandmore">En reflektion om översättning
+        <div class="collapsible">
+            <h2 class="titulo">En reflektion om översättning
             <br /><span class="autor">Cristina Morales</span>
-        </h2>
-        <div class="js-to_expand">
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>
+        <div class="content-collapse">
             <p class="pendiente">Falta texto</p>
         </div> 
     </div>   
   
 
     <div class="texto" id="texto-marika">
-        <h2 class="titulo js-expandmore">Att börja översätta en roman
+        <div class="collapsible">
+            <h2 class="titulo">Att börja översätta en roman
             <br /><span class="autor">Marika Gedin</span>
-        </h2>
-        <div class="js-to_expand">
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>
+        <div class="content-collapse">
             <p class="pendiente">Falta la traducción.</p>
         </div> 
     </div>
 
 
     <div class="texto" id="texto-gaspar">
-        <h2 class="titulo js-expandmore">La pulsión traductora
+        <div class="collapsible">
+            <h2 class="titulo">La pulsión traductora
             <br /><span class="autor">Gaspar Cano</span>
-            <!-- <span class="material-icons md-36">expand_more</span> -->
-        </h2>
-        <div class="js-to_expand">
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>
+        <div class="content-collapse">
             <p>La pulsión es, para mi, el impulso de la pasión instintiva. La de la traducción, me parece recordar, que era la del impulso, la de la pasión por entender lo desconocido, lo revelado en otro idioma; sí, ahora lo recuerdo: en otro idioma que tampoco nos es del todo desconocido; un destello, una idea, una imagen, un estremecimiento... <em>Die Karlgasse/</em>El callejón Carlos<em>,</em> de Franz K., <em>All that fall/</em> Todos los que caen, de Don Samuel (Beckett), <em>Die Nachtwache des Bonaventuras, XY,</em> Yo, Pierre Riviere, habiendo matado a mi padre y<em>…</em> Sí, sí, sí, esa es, la pulsión por traducir.</p>
         </div> 
     </div>

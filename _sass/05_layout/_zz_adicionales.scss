@@ -4,12 +4,15 @@ $grey-links: #8B8B8B;
 .pendiente {color: $intrans-color;}
 .traductor {text-align: right;}
 .cierre {margin:0; text-align: center;}
+
+
+hr {height: 1em;}
 .separador {display: none;}
+.separador2 {border-bottom: 1px solid black;}
+
 #footer {margin-top: 0;}
 
-#content {
-  margin-top: 0em;
-}
+#content {margin-top: 0em;}
 
 .main-content {
   margin-top: 0em;
@@ -24,18 +27,9 @@ $grey-links: #8B8B8B;
   .medium-8 {width: 80.66667%; }
 }
 
-
 section {padding-top: 20vh;}
 
 section:last-of-type {margin-bottom: 10vh;}
-
-//  p {
-//    max-width: 45em;
-//    margin-left: auto!important;
-//    margin-right: auto!important;
-// }
-
-
 
 h1 {
     margin-bottom: 1.5em;
@@ -46,52 +40,10 @@ h2 {letter-spacing: 0px;}
   h2 span.text-h1 .upper {    letter-spacing: 4.2px!important;}
 
 
-
-
-
-
-
-
-// .column, .columns {
-//   padding-left: 1.5rem;
-//   padding-right: 1.5rem; }
-
 #tnav-menu > a {color: black;}
-
-// li.tnav-item.es::before {
-//   content: 'algo';
-//   display: inline-block;
-// }
 
 
 .row {max-width: 95rem;}
-
-hr {
-  // color: grey;
-  height: 1em;
-  // max-width: 50%;
-  // border-bottom: 1px solid grey;
-}
-
-   
-//  div[lang|=se] {
-//     border-right: 0px solid $intrans-color;
-//   }
-
-//   @media screen and (max-width: 64em)  {
-//     div[lang|=se] {
-//       border-bottom: 0px solid $intrans-color;
-//     }  
-//   }
-
-//   .avance-prog {
-//       h1, p {margin: 0;}
-//       h1 {margin-top: 1.5em;}
-//       a {
-//           text-decoration: none!important;
-//           color: inherit;
-//       }
-//   }
 
 
                                 // PROGRAMA
@@ -156,8 +108,10 @@ div.participante {
                 // margin-left: .3em;
               }
           }   
-          .text2 {font-size: 90%;}                      
+                   
 }  
+.text2 p, .text2 button, p.text2 {font-size: 85%;}   
+
 section.sedes, section.about {
   div.participante {
     .foto-cont2 {
@@ -199,22 +153,18 @@ section.sedes, section.about {
   } 
 }  
 
-
-
-// @media (max-width: 1025px) {
-
-//   section.about div.participante {
-//         grid-template-columns: 150px 1fr!important;
-//         .foto-cont2 img {max-width: 150px;}
-//       }
-// }
-
-
-// Las páginas propias de cada participante
-.participante-bio {
-  margin-top: 6em;
+// La lista de más participantes tras las estrellas
+.mas-participantes{
+  border-bottom: 1px solid black;
+  .collapsible {}
+  .collapsible h3 {padding-bottom: 10px;margin-bottom: 0;}
+  .collapsible .flechita {margin-bottom: 5px;}
 }
 
+.mas-participante {
+  display: flex;
+  flex-direction: row;
+}
 
 
                             // TEXTOS INDEX
@@ -222,16 +172,18 @@ section.textos {
     h2 {
       margin-bottom: 4em; 
       font-style: italic;
-        span.autor {font-style: normal;}
+      text-transform: none;
+      span.autor {font-style: normal;}
     }
     div.texto {
       border-bottom: 1px solid black;
+      margin-top: 1em;
           h2 {margin-bottom: 0;}  
       }
     div[class^="texto"]:first-child {margin-top: 2em;}
 
-    div.js-to_expand {margin-bottom: 4em;}
-  }
+    div.content-collapse p:last-of-type {margin-bottom: 4em;}
+}
 
 
   
@@ -367,15 +319,16 @@ button {
     -webkit-transition: display .15s cubic-bezier(.33,.66,.66,1);
     transition: display 1s ease-out;
   }
+
   
   .myBtn {
     background-color: transparent;
     color:$grey-links;
     cursor: pointer;
-    font-size: 90%;
+    margin-top: -2.2em;
   }
       @media (max-width: 1025px) {
-        .myBtn {margin-top: -1em;}
+        .myBtn {margin-top: -2.5em!important;}
       }  
   
                 
@@ -393,25 +346,32 @@ button {
   width: 2.5em;
   margin-left: 25px;
   align-self: flex-end;
-    img { 
-      padding-top: 10px;
-      transition-duration: 300ms;}
+    img {transition-duration: 300ms;}
 }
   .active .flechita img {
     transform: rotate(180deg);
   }
 
-
 .active, .collapsible:hover {
-  // background-color: #8B8B8B;
+  background-color: mix(#fff, black, 90%);
 }
+
+.collapsible.active + div{ margin-top: 2em!important;}
 
 .content-collapse {
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.2s ease-out;
+  transition: all 0.3s ease-out;  
+  // transition: max-height 0.2s ease-out;
+    // transition: margin-top 0.2s ease-out;
 }
-  .content-collapse div:first-child {  padding-top: 2em!important;}
+    #jornada-1 .content-collapse {
+      transition: all 0.5s ease-out;
+      // transition: margin-top .2s ease-out;
+    }
+
+
+
 
                 
 
@@ -544,7 +504,7 @@ button {
 background-color: transparent;
 color:$grey-links;
 cursor: pointer;
-font-size: 90%;
+// font-size: 90%;
 }
     @media (max-width: 1025px) {
       .myBtn {margin-top: -1em;}
