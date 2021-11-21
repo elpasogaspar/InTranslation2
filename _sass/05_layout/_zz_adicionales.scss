@@ -5,6 +5,7 @@ $grey-links: #8B8B8B;
 .traductor {text-align: right;}
 .cierre {margin:0; text-align: center;}
 .separador {display: none;}
+#footer {margin-top: 0;}
 
 #content {
   margin-top: 0em;
@@ -26,7 +27,7 @@ $grey-links: #8B8B8B;
 
 section {padding-top: 20vh;}
 
-section:last-of-type {margin-bottom: 20vh;}
+section:last-of-type {margin-bottom: 10vh;}
 
 //  p {
 //    max-width: 45em;
