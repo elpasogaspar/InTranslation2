@@ -120,15 +120,22 @@ button {
   }
   
 
+  
+  
 
-
-                            //  the logo that opens the home page
-.logo-open {
-  height: 100vh;
-  max-height:900px;
-  background-color: $topbar-navigation-border-bottom;
+                            //  the logo / image that opens the home page
+.entrada{
+  // margin: 0 1rem; 
+  display: grid;
+  grid-template-rows: minmax(10vh, 1fr) minmax(100px, 600px) 1fr;      
+  justify-items: center;
+  height: 90vh;
+  margin-top: 10vh;
+    img {  /* autoprefixer: off */
+      grid-row: 2;
+      height: 100%;
+    }
 }
-.logo-open img {max-height: 100vh; width: auto;}
 
 
                                 // Section PROGRAMA
