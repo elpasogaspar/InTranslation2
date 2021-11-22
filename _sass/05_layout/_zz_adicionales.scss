@@ -111,13 +111,15 @@ button {
     padding: .5em .75em;    //here it was 2em padding-left and right... too much
     border: 0;
   }
-    #tnav .tnav-item:last-of-type a {padding-right: 1.5em;} //the last needs more padding-right
+
+  #tnav-logo a {padding-top: 0;}
+    #tnav-logo > a img{max-height: 3em; padding-top: 10px;}
+
+  #tnav .tnav-item:last-of-type a {padding-right: 1.5em;} //the last needs more padding-right
   
-  #tnav-logo {}
+
   
-  #tnav-logo > a img{
-    max-height: 3em; padding-top: 10px;
-  }
+
   
 
   
