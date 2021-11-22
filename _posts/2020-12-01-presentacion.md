@@ -9,10 +9,6 @@ language-ref: presentacion
 ---
 
 
-<!--more-->
-<!-- <div class="entrada">
-     <img class="" src="{{'/images/IT_Logo-2.svg' | relative_url }}">
-</div> -->
 
 <h1 id="es-cap1">Presentación</h1>
 <p>Durante la Feria literaria de Estocolmo y con la traducción como punto de partida, In translation: Spanish literature se presenta con un seminario para profesionales sobre la traducción del español al sueco y distintos encuentros públicos con algunos de los autores, críticos literarios y agentes más destacados la literatura española actual.</p>

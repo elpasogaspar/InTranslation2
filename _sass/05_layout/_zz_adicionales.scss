@@ -2,6 +2,7 @@ $intrans-color:    #ffb71c;
 $grey-links: #8B8B8B;
 
 .pendiente {color: $intrans-color;}
+.upper {text-transform: uppercase;}
 .traductor {text-align: right;}
 .cierre {margin:0; text-align: center;}
 
@@ -19,6 +20,8 @@ hr {height: 1em;}
   margin-bottom: 3em;
   max-width: 50em!important;
 }
+
+.row {max-width: 95rem;}
 
 @media screen and (min-width: 40em) {
   .medium-8 {width: 86.66667%; }
@@ -39,14 +42,96 @@ h1 {
 h2 {letter-spacing: 0px;}
   h2 span.text-h1 .upper {    letter-spacing: 4.2px!important;}
 
+a,
+a:link {
+    -webkit-transition: all .15s cubic-bezier(.33,.66,.66,1);
+    transition: all .15s cubic-bezier(.33,.66,.66,1);
+    color: $text-color;
+    text-decoration: none;
+    border-bottom: 0px solid $ci-1;
+}
+  a:hover {
+    background-color: mix(#fff, black, 90%);
+  }
+  a:visited {
+    border-bottom: none;
+  }
+  a:active {
+    color: black!important;
+  }
 
-#tnav-menu > a {color: black;}
+button {
+  box-shadow: none;
+  line-height: inherit;
+  padding: 0;
+  margin: 0;  
+}
+
+  button:hover,
+  .button:hover {
+    background-color: mix(#fff, black, 90%);
+  }
 
 
-.row {max-width: 95rem;}
+                                // tnav menu
+  #tnav {
+    font-size: 18px;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 3;
+    white-space: nowrap;
+    border-bottom: 0px solid $line-color;
+    background: $background-color;
+    opacity: 100;
+  }
+  
+  #tnav, 
+  .tnav-list,
+  #tnav-logo {height: 4em; }
+  
+  .tnav-list {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 10px;
+  }
+
+  #tnav-menu > a {color: black;}
+
+  #tnav a {
+    display: block;
+    text-decoration: none;
+    white-space: nowrap;
+    padding: .5em .75em;    //here it was 2em padding-left and right... too much
+    border: 0;
+  }
+    #tnav .tnav-item:last-of-type a {padding-right: 1.5em;} //the last needs more padding-right
+  
+  #tnav-logo {}
+  
+  #tnav-logo > a img{
+    max-height: 3em; padding-top: 10px;
+  }
+  
 
 
-                                // PROGRAMA
+
+                            //  the logo that opens the home page
+.logo-open {
+  height: 100vh;
+  max-height:900px;
+  background-color: $topbar-navigation-border-bottom;
+}
+.logo-open img {max-height: 100vh; width: auto;}
+
+
+                                // Section PROGRAMA
 .programa {
   .jornada {
       margin-top: 2em;
@@ -73,7 +158,7 @@ h2 {letter-spacing: 0px;}
 }//fin l programa
 
 
-                        // PARTICIPANTES
+                        // Section PARTICIPANTES
 .participantes {}
 
 div.participante {
@@ -112,13 +197,7 @@ div.participante {
 }  
 .text2 p, .text2 button, p.text2 {font-size: 85%;}   
 
-section.sedes, section.about {
-  div.participante {
-    .foto-cont2 {
-      img {max-width: 150px;}
-    }
-  }  
-}                       
+
 @media (min-width: 1025px) {
   div.participante {
     margin: 0em auto;
@@ -152,6 +231,12 @@ section.sedes, section.about {
     }  
   } 
 }  
+//  for sections with small fotos on the left, text on the right–
+section.sedes, section.about {
+  div.participante {
+    .foto-cont2 img {max-width: 150px;}
+  }  
+}  
 
 // La lista de más participantes tras las estrellas
 .mas-participantes{
@@ -167,7 +252,7 @@ section.sedes, section.about {
 }
 
 
-                            // TEXTOS INDEX
+                            // Section TEXTOS 
 section.textos {
     h2 {
       margin-bottom: 4em; 
@@ -178,6 +263,7 @@ section.textos {
     div.texto {
       border-bottom: 1px solid black;
       margin-top: 1em;
+      padding-bottom: 6px;
           h2 {margin-bottom: 0;}  
       }
     div[class^="texto"]:first-child {margin-top: 2em;}
@@ -189,7 +275,7 @@ section.textos {
   
   
 
-                            // SEDES
+                            // Section SEDES
 .sedes {
     .foto-cont2 {padding-top: 5px;}
     .nombre2 h2 {margin-bottom: 0!important;}
@@ -197,7 +283,7 @@ section.textos {
 }
 
 
-                        // ABOUT
+                        // section ABOUT
 .organizadores,
 .creditos,
 .about {
@@ -214,103 +300,7 @@ section.textos {
   }
 }
 
-
-
-
-
-
-// Cosas nuevas añadidas a partir del XD de TSU
-.entrada{
-  // margin: 0 1rem; 
-  display: grid;
-  grid-template-rows: minmax(10vh, 1fr) minmax(100px, 600px) 1fr;      
-  justify-items: center;
-  height: 90vh;
-  margin-top: 10vh;
-    img {  /* autoprefixer: off */
-      grid-row: 2;
-      height: 100%;
-    }
-}
-
-
-.logo-open {
-  height: 100vh;
-  max-height:900px;
-  background-color: $topbar-navigation-border-bottom;
-}
-.logo-open img {max-height: 100vh; width: auto;}
-
-#tnav {
-  font-size: 18px;
-  width: 100%;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  position: fixed;
-  left: 0;
-  top: 0;
-  z-index: 3;
-  white-space: nowrap;
-  border-bottom: 0px solid $line-color;
-  background: $background-color;
-  opacity: 100;
-}
-
-#tnav, 
-.tnav-list,
-#tnav-logo {height: 4em; }
-
-.tnav-list {
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  padding-top: 10px;
-}
-
-#tnav-logo {}
-
-#tnav-logo > a img{
-  max-height: 3em; padding-top: 10px;
-}
-
-a,
-a:link {
-    -webkit-transition: all .15s cubic-bezier(.33,.66,.66,1);
-    transition: all .15s cubic-bezier(.33,.66,.66,1);
-    color: $text-color;
-    text-decoration: none;
-    border-bottom: 0px solid $ci-1;
-}
-a:hover {
-  background-color: mix(#fff, black, 90%);
-}
-a:visited {
-  border-bottom: none;
-}
-a:active {
-  color: black!important;
-}
-
-.upper {text-transform: uppercase;}
-
-
-
-button {
-  box-shadow: none;
-  line-height: inherit;
-  padding: 0;
-  margin: 0;  
-}
-
-  button:hover,
-  .button:hover {
-    background-color: mix(#fff, black, 90%);
-  }
-
-
-
+                              // Collapsibles
                 // readMore
   .dots {}
 
@@ -319,8 +309,6 @@ button {
     -webkit-transition: display .15s cubic-bezier(.33,.66,.66,1);
     transition: display 1s ease-out;
   }
-
-  
   .myBtn {
     background-color: transparent;
     color:$grey-links;
@@ -333,7 +321,7 @@ button {
   
                 
                 
-                                 // Collapsible max-height:0 => max-height:scrollHeight+px   
+               // Collapsible max-height:0 => max-height:scrollHeight+px   
 .collapsible {
   display: flex;
   align-items: center;
@@ -366,8 +354,8 @@ button {
     // transition: margin-top 0.2s ease-out;
 }
     #jornada-1 .content-collapse {
-      transition: all 0.5s ease-out;
-      // transition: margin-top .2s ease-out;
+      transition: max-height .6s ease-out;
+      transition: margin-top .3s ease-out;
     }
 
 
