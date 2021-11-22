@@ -6,12 +6,12 @@
   <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
   {% if page.language == "se" %} {% assign menulist = site.data.menu.se %} {%
   else %} {% assign menulist = site.data.menu.es %} {% endif %}
-  <ul class="menu">
+  <ul class="menu" id="menu">
     {% for item in menulist %}
     <li><a href="{{ item.url | absolute_url }}">{{ item.name }}</a></li>
     {% endfor %}
   </ul>
-  <ul class="menu long-menu">
+  <ul class="menu long-menu" id="long-menu">
     {% if page.layout != 'index' %} {% assign posts=site.posts |
     where:"language-ref", page.language-ref | sort: 'language' %} {% if
     posts.size == 0 %} {% assign posts=site.pages | where:"language-ref",
@@ -52,7 +52,7 @@
   .header li a {
     display: block;
     padding: 0.5em 1em;
-    border-right: 1px solid #f4f4f4;
+    /* border-right: 1px solid #f4f4f4; */
     text-decoration: none;
   }
 
@@ -65,12 +65,14 @@
     display: block;
     float: left;
     font-size: 2em;
-    padding: 10px 20px;
+    padding: 10px 0 0 2px;
+    /* padding-bottom: 0;; */
     text-decoration: none;
   }
 
   .logo img {
     max-height: 40px;
+    padding-top: 0px;
   }
 
   /* menu */
@@ -149,15 +151,21 @@
 
   /* 48em = 768px */
 
-  @media (min-width: 48em) {
+  @media (max-width: 60em) and (min-width: 50em){
+    .header .menu li a {font-size: 90%}
+  }
+
+  
+  @media (min-width: 50em) {
     .header {
       display: flex;
+      height: 4em;
     }
     .header li {
       text-align: left;
     }
     .header li a {
-      padding: 20px 30px;
+      padding: 20px 1.2vw;
     }
     .header .menu {
       display: flex;
@@ -171,6 +179,7 @@
     .logo img {
       max-height: 80px;
     }
+    .menu.long-menu {padding-right: 20px;}
   }
 </style>
 

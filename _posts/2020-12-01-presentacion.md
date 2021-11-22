@@ -407,8 +407,8 @@ language-ref: presentacion
 <section class="sedes" id="sec-4">
     <h1>Sedes</h1>
     <div class="participante" id="sede1">
-        <div class="nombre2"><h2>Författarförbundet</h2></div>    
         <div class="foto-cont2"><img class="" src="{{'/images/logo.png' | relative_url }}" height="301" width="388" alt="ella" /></div>
+        <div class="nombre2"><h2>Författarförbundet</h2></div>         
         <div class="text2 esp" lang="es">
             <p><a href="https://goo.gl/maps/f1wossHMcz5BsbUY9" target="_blank">Drottninggatan 88 B<br />
             111 23 Stockholm</a><br />
@@ -421,8 +421,8 @@ language-ref: presentacion
     <hr class="separador"/>
     
     <div class="participante" id="sede2">
+        <div class="foto-cont2"><img class="" src="{{'images/khst_logo.svg' | relative_url }}" height="301" width="388" alt="ella" /></div>        
         <div class="nombre2"><h2 >Kulturhuset/Stadsteatern</h2></div>    
-        <div class="foto-cont2"><img class="" src="{{'images/khst_logo.svg' | relative_url }}" height="301" width="388" alt="ella" /></div>
         <div class="text2 esp" lang="es">
             <p><a href="https://goo.gl/maps/cPg5AG5qkPCnbMkc9" target="_blank">Sergels torg<br />
             111 57 Stockholm</a><br />
@@ -436,8 +436,8 @@ language-ref: presentacion
     <hr class="separador"/>
     
     <div class="participante" id="sede3">
-        <div class="nombre2"><h2 ><em>alias</em> Teatern</h2></div>    
         <div class="foto-cont2" style="margin-top: -7px;"><img class="" src="{{'images/Logga_red.webp' | relative_url }}" height="301" width="388" alt="ella" /></div>
+        <div class="nombre2"><h2 ><em>alias</em> Teatern</h2></div>    
         <div class="text2 esp" lang="es">
             <p><a href="https://g.page/aliasTEATERN?share" target="_blank"> Hälsingegatan 3<br />
             SE-113 23 Stockholm</a><br />
@@ -506,7 +506,7 @@ language-ref: presentacion
 <br /><br />
 
     <h3>En colaboración con:</h3>
-
+    <br />
     <div class="participante">
         <div class="foto-cont2"><img class="" src="{{'/images/logo.png' | relative_url }}" height="301" width="388" alt="ella" /></div>        
         <div class="nombre2"><h2 >Författarförbundet</h2></div>    
