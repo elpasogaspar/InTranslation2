@@ -198,7 +198,7 @@ language-ref: presentacion
     </div>
     <div class="nombre2"><h2 >Olvido García Valdés</h2></div>    
     <div class="text2 esp" lang="es">
-        <p>Premio Nacional de Poesía en 2007 por <em>Y todos estábamos vivos</em> y Premio Iberoamericano de Poesía Pablo Neruda 2021, presentará la edición sueca de la premiada <em>Y todos estábamos vivos</em>. 
+        <p>Premio Nacional de Poesía en 2007 por <em>Y todos estábamos vivos</em> (Tusquets, Barcelona 2006, 2007) y Premio Iberoamericano de Poesía Pablo Neruda 2021, presentará la edición sueca de la premiada <em>Y todos estábamos vivos</em> (Bokförlaget Edda 2021). 
             <span class="dots"></span>
         </p>  
         
@@ -240,7 +240,7 @@ language-ref: presentacion
     </div>
     <div class="nombre2"><h2>Cristina Morales</h2></div>
     <div class="text2 esp" lang="es">
-        <p>Premio Nacional de Literatura 2019 por su obra <em>Lectura fácil</em>.
+        <p>Premio Nacional de la crítica por <em>La hija del este</em>, que presentará en Estocolmo en su edición sueca.
             <span class="dots"></span>
         </p>
         <div class="more" style="display: none;">
@@ -254,11 +254,18 @@ language-ref: presentacion
 
 <hr class="separador"/>
 
-<div class="participante"  data-part="jordi">
+<div class="participante card"  data-part="jordi">
     <div class="foto-cont2"><img class="fot" src="{{'/images/Jordi_Gracia.jpg' | relative_url }}" alt="ella" /></div>
     <div class="nombre2"><h2>Jordi Gracia García</h2></div>
     <div class="text2 esp" lang="es">
-        <p>Crítico literario, catedrático de literatura española Universidad de Barcelona y subdirector de opinión del periódico El País.</p>
+        <p>Crítico literario, catedrático de literatura española Universidad de Barcelona y subdirector de opinión del periódico El País.
+            <span class="dots"></span>
+        </p>
+        <div class="more" style="display: none;">
+            <hr class="separador2"/>
+            <p>Ha escrito varios libros sobre la historia intelectual y literaria de España en el siglo XX y las biografías de Cervantes y de José Ortega y Gasset. Ha publicado, entre otros, los ensayos<em> Estado y cultura, La resistencia silenciosa</em> (Premio Anagrama de Ensayo en 2004), <em>La vida rescatada de Dionisio Ridruejo, A la intemperie</em> y <em>Javier Pradera o el poder de la izquierda. Medio siglo de cultura democrática</em>.</p>        
+        </div>  
+        <button class="myBtn" onclick="readMore('jordi')" >Leer más...</button>  
     </div>
 </div>
 
@@ -274,38 +281,19 @@ language-ref: presentacion
 
 <!-- &#8615; -->
 
-
-
-
-<div class="mas-participantes">
-    <div class="collapsible" id="collapse-4">
-        <h3>Ver más participantes</h3>
-        <div class="flechita">
-            <img src="/images/Flecha-down.svg" />
-        </div>
-    </div>
-
-    <div class="content-collapse">
-        <div class="participante mas">
-            <h2 class="foto-cont2">Marika Gedin</h2>
-            <p class="text2">Traductora de títulos tan reconocidos como...</p>
-        </div>
-        <div class="participante mas">        
-            <h2 class="foto-cont2">Hanna Nordenhök</h2>
-            <p class="text2">Fenómeno literario de la década</p>
-        </div>
-
-
-        <div class="participante">
-            <div class="foto-cont2"><img class="fot" src="{{'/images/Mika.jpg' | relative_url }}" alt="ella" /></div>
-            <div class="nombre2"><h2>Marika Gedin</h2></div>
-            <div class="text2 esp" lang="es">
-                <p>Crítico literario, catedrático de literatura española Universidad de Barcelona y subdirector de opinión del periódico El País. <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">(Leer más)</a></span></p>       </div>
-        </div>
-    </div>    
+<div class="masparticipantes">
+    <p>Marika Gedin, <span class='font-90'>traductora</span></p>            
+    <p>Hanna Axén, <span class='font-90'>traductora</span></p> 
+    <p>Annakarin Thorburn, <span class='font-90'>traductora</span></p>
+    <p>Hanna Nordenhök, <span class='font-90'>autora, dramaturga y traductora</span></p>
+    <p>Fernando Wachtmeister Bermúdez, <span class='font-90'>escritor y professor en la Universidad de Uppsala</span></p>
+    <p>Ulf Eriksson, <span class='font-90'>escritor, crítico y traductor</span></p>
+    <p>Lina Wolff, <span class='font-90'>traductora</span></p>
+    <p>Alberto Gascón Gonzalo, <span class='font-90'>director Instituto Cervantes de Estocolmo</span></p>
+    <p>Johanna Haegerström, <span class='font-90'>editora en Albert Bonniers förlag</span></p> 
+    <p>Susanne Bergström Larsson, <span class='font-90'>Kulturrådet/Swedish literature exchange</span></p>
+    <p>Hans Sandquist, <span class='font-90'>actor</span></p>
 </div>
-
-
 
 
 </section><!--participantes-->

@@ -186,7 +186,7 @@ language-ref: presentacion
     </div>
     <div class="nombre2"><h2 >Olvido García Valdés</h2></div>    
     <div class="text2 esp" lang="es">
-        <p class="pendiente">National Poetry Award 2007 för <em>Och vi levde alla</em> och Pablo Neruda Ibero-American Poetry Prize 2021, kommer att presentera den svenska upplagan av det prisbelönta And we were all alive. 
+        <p>Hon har bland annat mottagit el Premio Iberoamericano de Poesía Pablo Neruda år 2021, och Premio Nacional de Poesía år 2007 för sin diktsamling <em>Y todos estábamos vivos</em>, (Tusquets, Barcelona 2006, 2007), som kommer att presenteras på svenska, <em>Och alla var vi levande</em> (Bokförlaget Edda 2021). 
             <span class="dots"></span>
         </p>  
         <div class="more" style="display: none;">
@@ -195,7 +195,7 @@ language-ref: presentacion
             <p>Hon har bland annat mottagit El Premio Iberoamericano de Poesía Pablo Neruda år 2021, El Premio de las Letras de Asturias år 2016 och Premio Nacional de Poesía år 2007 för sin diktsamling <em>Y todos estábamos vivos</em>, (Tusquets, Barcelona 2006, 2007), på svenska <em>Och alla var vi levande</em>, (Bokförlaget Edda 2021). På svenska finns också, <em>Nattlig jakt</em>, (Ariel skrifter 2004) <em>-</em> på spanska <em>Caza nocturna</em> (Ave del Paraiso 1997).</p>
             <p>I <em>Esa polilla que delante de mi revoltea, samlade dikter (1982-2008)</em> (Galaxia Gutenberg, Barcelona, 2008, 2016) finns hennes poesi från dessa år samlad. Senare har hon publicerat samlingen <em>Lo solo del animal</em>, Tusquets, Barcelona, 2020, och nyligen <em>confía en la gracia</em>, (Tusquets, Barcelona, 2020) och <em>dentro del animal la voz</em>. Antología 1982-2012 (Editorial Cátedra, colleción Letras Hispánicas, Madrid 2020). Hennes böcker har översatts till franska, engelska, italienska, polska och svenska; hennes dikter har även synts på tyska, portugisiska, rumänska, grekiska, serbiska, arabiska och kinesiska.</p>
             <p>Olvido García Valdés är också författare till den biografiska essän <em>Teresa de Jesús</em>, till texter i konstkataloger (Zush, Kiefer, Vicente Rojo, Tápies, Juan Soriano, Venedigbiennalen 2001, Broto…) samt till ett antal litterära essäer. Hon har översatt <em>La religión de mi tiempo</em> och <em>Larga carretera de arena</em> av Pier Paolo Pasolini och (i ett samarbete) en antologi med Anna Achmatova och Marina Tsvetajeva, <em>El canto de la ceniza</em>, liksom <em>El resto del viaje</em> och andra dikter av Bernard Noël. Hon har varit medredaktör av tidskriften <em>Los Infolios</em>, och var med och grundade <em>El signo del gorrión (1992-2002).</em> Hon har också lett och organiserat olika kurser, seminarier och kulturella evenemang kring samtida poesi.</p>                    </div>
-        <button class="myBtn" onclick="readMore('olvido')" >Läs mer...</button>
+        <button class="myBtn" onclick="readMore('olvido')" >Läsa mer ...</button>
     </div>
 </div>
 
@@ -205,7 +205,7 @@ language-ref: presentacion
     <div class="foto-cont2"><img class="fot" src="{{'/images/Clara_Uson.jpg' | relative_url }}" alt="ella" /></div>
     <div class="nombre2"><h2>Clara Usón</h2></div>
     <div class="text2 esp" lang="es">
-        <p class="pendiente">National Critics Award för <em> La hija del este </em>, som han kommer att dela ut i Stockholm i sin svenska upplaga. 
+        <p>Hennes roman <em>La hija del Este</em> (Seix Barral 2012) har vunnit det prestigefulla Premio de la Crítica och kommer att presenteras på svenska som <em>Ana</em> (Ekström &amp; Garay 2021).
             <span class="dots"></span>
         </p>
         <div class="more" >
@@ -217,7 +217,7 @@ language-ref: presentacion
             <p>I oktober 2015 publicerades romanen <em>Valor</em> (Seix Barral), som översatts till Italienska och den 5 april 2018 publicerades <em>El Asesino tímido</em> (Seix Barral), för vilken hon 2018 erhöll litteraturpriset Sor Juana Inés de la Cruz, och som har översatts till italienska, portugisiska, kroatiska och polska.</p>
             
         </div>
-        <button class="myBtn" onclick="readMore('clara')">Läsa mer...</button>
+        <button class="myBtn" onclick="readMore('clara')">Läsa mer ...</button>
     </div>
 </div>
 
@@ -228,7 +228,7 @@ language-ref: presentacion
     </div>
     <div class="nombre2"><h2>Cristina Morales</h2></div>
     <div class="text2 esp" lang="es">
-        <p class="pendiente">National Literature Prize 2019 för hans arbete <em> Lättläst </em>.
+        <p>Premio Nacional de Narrativa 2019 för sitt roman <em>Lectura fácil</em>.
             <span class="dots"></span>
         </p>
         <div class="more" style="display: none;">
@@ -239,17 +239,24 @@ language-ref: presentacion
             <p><a href="http://at-asko.bandcamp.com"><em>at-asko.bandcamp.com</em></a></p>
             <p>Instagram: @bachini.bachini</p> -->
         </div>
-        <button class="myBtn" onclick="readMore('cristina')">Leer más...</button>        
+        <button class="myBtn" onclick="readMore('cristina')">Läsa mer ...</button>        
     </div>
 </div>
 
 <hr class="separador"/>
 
-<div class="participante"  data-part="jordi">
+<div class="participante card"  data-part="jordi">
     <div class="foto-cont2"><img class="fot" src="{{'/images/Jordi_Gracia.jpg' | relative_url }}" alt="ella" /></div>
     <div class="nombre2"><h2>Jordi Gracia García</h2></div>
     <div class="text2 esp" lang="es">
-        <p class="pendiente">Crítico literario, catedrático de literatura española Universidad de Barcelona y subdirector de opinión del periódico El País.</p>
+        <p>Litteraturkritiker, professor i spansk litteratur vid universitetet i Barcelona och biträdande opinionschef för tidningen El País.            
+            <span class="dots"></span>
+        </p>
+        <div class="more" style="display: none;">
+            <hr class="separador2"/>
+            <p>Han har skrivit flera böcker om Spaniens intellektuella och litteraturhistoria under 1900-talet och biografier om Cervantes och José Ortega y Gasset. Han har publicerat bland annat essäerna <em>Estado y cultura, La resistencia silenciosa</em> (Premio Anagrama de Ensayo en 2004), <em>La vida rescatada de Dionisio Ridruejo, A la intemperie</em> y <em>Javier Pradera o el poder de la izquierda. Medio siglo de cultura democrática,</em>  förutom två mer eller mindre broschyrer: <em>El intelectual melancólico</em> y <em>Contra la izquierda. Para seguir siendo de izquierdas en el siglo XXI.</em></p>        
+        </div>  
+        <button class="myBtn" onclick="readMore('jordi')" >Läsa mer ...</button>  
     </div>
 </div>
 
@@ -257,7 +264,7 @@ language-ref: presentacion
     <div class="foto-cont2"><img class="fot" src="{{'/images/Ella_Sher.jpeg' | relative_url }}" width="300" alt="ella" /></div>
     <div class="nombre2"><h2>Ella Sher</h2></div>
     <div class="text2 esp" lang="es">
-        <p class="pendiente">Agente literaria establecida en Barcelona y nombre fundamental en la circulación de la literatura española producida por autores emergentes menores de cuarenta años. Cristina Morales, Jon Bilbao, Juan Gómez Bárcena, María Folguera o Sergio del Molino se cuentan entre sus representados. </p>
+        <p>Litterär agent etablerad i Barcelona och ett grundläggande namn av spansk litteratur producerad av nya författare under fyrtio år som Cristina Morales, Jon Bilbao, Juan Gómez Bárcena, María Folguera eller Sergio del Molino. </p>
     </div>
 </div>
 
@@ -265,7 +272,20 @@ language-ref: presentacion
 
 <!-- &#8615; -->
 
-<div class="mas-participantes">
+<div class="masparticipantes">
+    <p>Marika Gedin, <span class='font-90'>översättare</span></p>            
+    <p>Hanna Axén, <span class='font-90'>översättare</span></p> 
+    <p>Annakarin Thorburn, <span class='font-90'>översättare</span></p>
+    <p>Hanna Nordenhök, <span class='font-90'>författare, dramatiker och översättare</span></p>
+    <p>Fernando Wachtmeister Bermúdez, <span class='font-90'>författare och professor vid Uppsala universitet</span></p>
+    <p>Ulf Eriksson, <span class='font-90'>författare, kritiker och översättare</span></p>
+    <p>Lina Wolff, <span class='font-90'>översättare</span></p>
+    <p>Alberto Gascón Gonzalo, <span class='font-90'>dchef för Cervantes Institutet i Stockholm</span></p>
+    <p>Johanna Haegerström, <span class='font-90'>redaktör på Albert Bonniers förlag</span></p> 
+    <p>Susanne Bergström Larsson, <span class='font-90'>Kulturrådet / Svenskt litteraturutbyte</span></p>
+    <p>Hans Sandquist, <span class='font-90'>skådespelare</span></p>
+</div>
+<!-- <div class="mas-participantes">
     <div class="collapsible" id="collapse-4">
         <h3>Se fler deltagarna</h3>
         <div class="flechita">
@@ -280,7 +300,7 @@ language-ref: presentacion
                 <p>Crítico literario, catedrático de literatura española Universidad de Barcelona y subdirector de opinión del periódico El País. <span class="leer-mas2"><a href="{{ '/bio_olvido_g_v/' | absolute_url }}">(Leer más)</a></span></p>       </div>
         </div>
     </div>  
-</div>
+</div> -->
   
 
 
@@ -358,7 +378,8 @@ language-ref: presentacion
             </div>
         </div>
         <div class="content-collapse">
-            <p class="pendiente">Falta texto</p>
+            <p>En gång läste jag något av min vän och lärare, Andrés Neuman, en spanskargentinsk författare som ledde mina första skrivarkurser, han skrev att den som tror på översättning tror på kärlek. Då var jag 17 år och förstod inte riktigt vad det betydde, men jag tyckte att det lät väldigt vackert, med en skönhet som jag under hela min ungdomstid hade tagit avstånd ifrån. Jag ville inte ha något vackert omkring mig, jag ville bara bli omtumlad, och översättningar brydde jag mig i grund och botten inte om, egentligen inte alls: jag hade praktiskt taget inte publicerat något och att bli översatt framstod som ett tecken på en nästan ouppnåelig litterär prestige som bara förunnades några få framgångsrika författare (vilket det ju också är). <em>Den som tror på översättning tror på kärlek,</em> skrev alltså Neuman någonstans, eller så kanske han sa det till mig på någon bar i min hemstad, hans adoptivstad, Granada, efter något bokprat eller poesiuppläsning som jag blandade ihop med själva litteraturen för när jag var tjugo så var det själva litteraturen, det var livet gjort till konst, som alla kvinnliga och manliga mystiker, kvinnliga och manliga dandyer, kvinnliga och manliga libertiner och kvinnliga och manliga dadaister sa. Idag, när jag tillhör ett gäng översättare från sju språk, vågar jag mig på att utvidga den neumanska maximen: översättning, precis som kärlek, är viljan att göra sig förstådd av den andre trots det enorma avstånd som skiljer alla människor åt. Jag har alltid dragits mer till det oläsbara än det läsbara, tyckt mer om det hemliga än det synliggjorda. Känt mig närmare det dolda än det genomskinliga, helt enkelt. Och i det gäng som jag är en del av älskar vi också på det sättet, och som en av mina andra förebilder, den colombianske författaren Andrés Caicedo, en gång skrev: Vi är många. Säg aldrig hur många.</p>
+
         </div> 
     </div>   
     

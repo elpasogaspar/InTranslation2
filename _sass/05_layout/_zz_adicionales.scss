@@ -5,7 +5,7 @@ $grey-links: #8B8B8B;
 .upper {text-transform: uppercase;}
 .traductor {text-align: right;}
 .cierre {margin:0; text-align: center;}
-
+.font-90 {font-size: 85%;}
 
 hr {height: 1em;}
 .separador {display: none;}
@@ -251,16 +251,8 @@ section.sedes, section.about {
 }  
 
 // La lista de más participantes tras las estrellas
-.mas-participantes{
-  border-bottom: 1px solid black;
-  .collapsible {}
-  .collapsible h3 {padding-bottom: 10px;margin-bottom: 0;}
-  .collapsible .flechita {margin-bottom: 5px;}
-}
-
-.mas-participante {
-  display: flex;
-  flex-direction: row;
+.masparticipantes{
+  margin-top: 2em;
 }
 
 
@@ -354,7 +346,7 @@ section.textos {
 
 // .active, 
 .collapsible:hover {
-  background-color: mix(#fff, black, 90%);
+  background-color: mix(#fff, black, 95%);
 }
 
 .collapsible.active + div{ margin-top: 2em!important;}
