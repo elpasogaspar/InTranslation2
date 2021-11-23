@@ -2,6 +2,7 @@
   <a href="/" class="logo">
     <img src="{{'/images/IT_Logo-1.png' | relative_url }}" />
   </a>
+<div>&#160;</div>
   <input class="menu-btn" type="checkbox" id="menu-btn" />
   <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
   {% if page.language == "se" %} {% assign menulist = site.data.menu.se %} {%
@@ -11,6 +12,7 @@
     <li><a href="{{ item.url | absolute_url }}">{{ item.name }}</a></li>
     {% endfor %}
   </ul>
+<div>&#160;</div>
   <ul class="menu long-menu" id="long-menu">
     {% if page.layout != 'index' %} {% assign posts=site.posts |
     where:"language-ref", page.language-ref | sort: 'language' %} {% if
@@ -66,7 +68,7 @@
     float: left;
     font-size: 2em;
     padding: 10px 0 0 2px;
-    /* padding-bottom: 0;; */
+    padding-bottom: 0;
     text-decoration: none;
   }
 
@@ -155,7 +157,6 @@
     .header .menu li a {font-size: 90%}
   }
 
-  
   @media (min-width: 50em) {
     .header {
       display: flex;
