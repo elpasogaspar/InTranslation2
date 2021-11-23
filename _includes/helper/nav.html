@@ -2,7 +2,7 @@
   <a href="/" class="logo">
     <img src="{{'/images/IT_Logo-1.png' | relative_url }}" />
   </a>
-<div>&#160;</div>
+
   <input class="menu-btn" type="checkbox" id="menu-btn" />
   <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
   {% if page.language == "se" %} {% assign menulist = site.data.menu.se %} {%
@@ -12,7 +12,7 @@
     <li><a href="{{ item.url | absolute_url }}">{{ item.name }}</a></li>
     {% endfor %}
   </ul>
-<div>&#160;</div>
+
   <ul class="menu long-menu" id="long-menu">
     {% if page.layout != 'index' %} {% assign posts=site.posts |
     where:"language-ref", page.language-ref | sort: 'language' %} {% if
@@ -160,6 +160,44 @@
   @media (min-width: 50em) {
     .header {
       display: flex;
+      justify-content: space-between;
+      height: 4em;
+    }
+    .header .logo {width: 80px;}
+
+    #menu {
+      display:flex;
+      width: calc(99% - 160px);
+      max-width: 1400px;
+      justify-content: space-between;
+    }
+    #long-menu {width: 80px}
+
+    .header li {
+      text-align: left;
+    }
+    .header li a {
+      padding: 20px 1.2vw;
+    }
+    .header .menu {
+      display: flex;
+      max-height: none;
+      margin-left: auto;
+      align-items: center;
+    }
+    .header .menu-icon {
+      display: none;
+    }
+    .logo img {
+      max-height: 80px;
+    }
+    .menu.long-menu {padding-right: 20px;}
+  }
+
+
+  /* @media (min-width: 50em) {
+    .header {
+      display: flex;
       height: 4em;
     }
     .header li {
@@ -181,7 +219,7 @@
       max-height: 80px;
     }
     .menu.long-menu {padding-right: 20px;}
-  }
+  } */
 </style>
 
 <script>
