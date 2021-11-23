@@ -30,22 +30,22 @@ se:
     #   url: "se/"
 
     - name: "Program"
-      url: "se/presentation/#sec-1"
+      url: "se/presentation#sec-1"
 
     - name: "Deltagarna"
-      url: "se/presentation/#sec-2"
+      url: "se/presentation#sec-2"
 
     - name: "Texter"
-      url: "se/presentation/#sec-3"
+      url: "se/presentation#sec-3"
 
     - name: "Platser"
-      url: "se/presentation/#sec-4"
+      url: "se/presentation#sec-4"
 
     - name: "Publication"
-      url: "se/presentation/#sec-5"        
+      url: "se/presentation#sec-5"        
 
     - name: "Om oss"
-      url: "se/presentation/#sec-6"  
+      url: "se/presentation#sec-6"  
 
 
 
