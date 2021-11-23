@@ -11,8 +11,9 @@ language-ref: presentacion
 
 
 <h1 id="es-cap1">Presentación</h1>
-<p>Durante la Feria literaria de Estocolmo y con la traducción como punto de partida, In translation: Spanish literature se presenta con un seminario para profesionales sobre la traducción del español al sueco y distintos encuentros públicos con algunos de los autores, críticos literarios y agentes más destacados la literatura española actual.</p>
+<p>Con ocasión de la celebración de la Feria literaria de Estocolmo del 4 de diciembre de 2021 y con la traducción como punto de partida, <em>In translation: Spanish literature</em> se presenta con un seminario para profesionales sobre la traducción del español al sueco y distintos encuentros públicos con algunos de los representantes más destacados de la literatura española actual.</p>
 <p>Desde la perspectiva industrial de la literatura ponemos en valor la decisiva labor del traductor para conectar entre sí a los distintos actores que intervienen en el mercado literario, tanto en poesía como en narrativa, y que se produce entre España y Suecia. Todo ello, sin perder de vista la actualidad de las novedades literarias para apoyar su promoción en el mercado.</p>
+
 
 
 <section class="programa" id="sec-1">
@@ -125,7 +126,7 @@ language-ref: presentacion
         <div class="collapsible">
             <h2 class=""><span class="fecha">3 de diciembre</span>
                 <br /><span class="titulo-prog">La noche de la literatura española</span>
-                <br /><span class="lugar">Lugar: aliasTeatern, Hälsingagatan 3, Estocolmo</span>
+                <br /><span class="lugar">Lugar: <em>alias</em>Teatern, Hälsingagatan 3, Estocolmo</span>
                 <br /><span class="horario">Horario: 18.00 – 19.30</span>
             </h2>
             <div class="flechita">
@@ -133,18 +134,23 @@ language-ref: presentacion
             </div>
         </div>
         <div class="content-collapse">
-            <div class="evento">
-                <h6 class="titulo-evento" id="lanoche">Tres escritoras españolas en el <em>alias</em>Teatern</h6>
+            <div class="evento" id="lanoche">
+                <h6 class="titulo-evento">Tres escritoras españolas en el <em>alias</em>Teatern</h6>
                 <br />
                 <p>Bienvenidos a la NOCHE DE LA LITERATURA ESPAÑOLA con las tres autoras españoles galardonadas:</p>
                 <p><strong>Olvido García Valdés</strong> (n. 1950) es una de las poetas más importantes de España. Su poemario <em>Y todos estabamos vivos,</em> recibió el Premio Nacional de Poesia en 2007 y fue publicado en sueco a principios de este año con el título, Och alla var vi levande, por la editorial Edda. Otra colección anterior de poemas suyos, <em>Caza nocturna</em>, Nattlig jakt, fue publicada en sueco en 2004 por la editorial Ariel.</p>
                 <p><strong>Cristina Morales</strong> (n. 1985) es considerada una de las escritoras jóvenes más prometedoras de España. Una de sus novelas más aclamadas, <em>Lectura fácil</em>, recibió, entre otros, el Premio Nacional de Narrativa en 2019. Ha escrito, entre otras, una novela sobre Teresa de Ávila, <em>Introducción a Teresa de Jesús,</em> publicada por la editorial Anagrama.</p>
-                <p><strong>Clara Usón</strong> (n. 1961) se ha convertido desde su premiado debut de 1998, <em>Las noches de San Juan,</em> en una autora consolidada en España con varias novelas a sus espaldas. Traducida a varios idiomas, su novela Ana (<em>La hija del Este</em>), sobre la hija de Ratko Mladic, el nacionalismo y la guerra de los Balcanes, acaba de ser publicada por la editorial sueca Ekström &amp; Garay.</p>
+                <p><strong>Clara Usón</strong> (n. 1961) se ha convertido desde su premiado debut de 1998, <em>Las noches de San Juan,</em> en una autora consolidada en España con varias novelas a sus espaldas. Traducida a varios idiomas, su novela <em>Ana (La hija del Este)</em>, sobre la hija de Ratko Mladic, el nacionalismo y la guerra de los Balcanes, acaba de ser publicada por la editorial sueca Ekström &amp; Garay.</p>
                 <p>La agente literaria Ella Sher participará también en este encuentro, que se desarrollará en español con traducción consecutiva al sueco.</p>
                 <p>El actor Hans Sandquist leerá algunos fragmentos de las obras de las autoras.</p>
                 <p>Moderador: Gaspar Cano, editor y ex director del Instituto Cervantes de Estocolmo y de Berlín.</p>
                 <p>Música ambiental: A. Torgozolla.</p>
-                <p>Entrada libre</p>
+                <p>Entrada libre.</p>
+                
+                <img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" />
+
+                <!-- <p>Este proyecto ha sido posible con el apoyo de Acción Cultural Española (AC/E), Förfatarrförbundet, Översättarcentrum, Instituto Cervantes de Estocolmo, Universidad de Uppsala, Kulturhuset/Stadsteatern y la Embajada de España en Suecia.</p> -->
+
             </div>
         </div><!--del content-collapse-->       
     </div><!--de la jornada 3-->
@@ -327,7 +333,7 @@ language-ref: presentacion
 
     <div class="texto" id="texto-clara">
         <div class="collapsible">
-            <h2 class="titulo">.. när det gäller mina översättare
+            <h2 class="titulo">Sobre la traducción
             <br /> <span class="autor">Clara Usón</span> 
             </h2>
             <div class="flechita">
@@ -335,7 +341,10 @@ language-ref: presentacion
             </div>
         </div>
         <div class="content-collapse">
-            <p class="pendiente">Falta el texto de Clara Usón en español? Sí está en sueco.</p>
+            <p>Soy una escritora afortunada con mis traductores, o mejor dicho, con mis traductoras, pues casi todas mis obras han sido traducidas por mujeres. Para mí, la traducción tiene algo de magia, no deja de sorprenderme que los signos y sonidos de una lengua, o su sintaxis, por enrevesada que sea, hallen su equivalente en otra distinta. Mis traductoras son magas que me permiten expresarme en lenguas que desconozco, ¿cómo no les voy a estar agradecida?</p>
+            <p>La traducción literaria es un arte que requiere talento y esfuerzo, no se traduce por arte de birlibirloque, para traducir una novela no basta con un profundo conocimiento de la lengua fuente y de la lengua de llegada, hace falta sensibilidad literaria, creatividad, intuición y mucha constancia. ¿Qué siento hacia mis traductoras?: respeto y admiración. Por razones que se me ocultan, la traducción literaria no tiene el reconocimiento que merece. En mi opinión, en toda obra traducida el nombre del traductor debe figurar en la cubierta junto al del autor, con caracteres del mismo tamaño, pues un texto traducido tiene siempre dos autores, el de la lengua original y el de la lengua de llegada. Un mal traductor puede arruinar una novela, un buen traductor, mejorarla. Yo, ya lo he dicho, he tenido suerte. Mi novela <em>La hija del Este</em> ha ido mejorando con sus traducciones. Los buenos traductores son gente rigurosa, que se molesta en comprobar los datos y las citas y en consultar las dudas. A través del diálogo con mis traductoras he corregido errores, gazapos y lapsus de la versión original, de modo que la versión actual de mi novela es casi una obra compartida.</p>
+            <p>Estoy especialmente agradecido a mi traductora de sueco, Marika Gedin, por trabajar tan duro para que mi novela <em>La hija del Este</em> haya llegado al público sueco. Gracias a su tenaz perseverancia, nuestro sueño compartido se ha hecho realidad a través de la publicación de <em>Ana</em>.</p>
+            
         </div>
     </div>
 

@@ -12,8 +12,9 @@ language-ref: presentacion
 <!--more-->
 
 <h1 id="se-cap1">Presentation</h1>
-<p class="pendiente">Atención! el texto en español es otro.</p>
-<p>Utifrån ett branschperspektiv på litteraturen vill vi framhålla värdet av översättarens arbete. IN TRANSLATION: Spanish literature hålls i Stockholm i form av ett seminarium för yrkesverksamma översättare från spanska till svenska i anslutning till Stockholms litteraturmässa 2021. Programmet utgörs av publika evenemang med spanska författare och presentationer av de senaste böckerna av spansk litteratur utgivna på svenska. Syftet är att sammanföra de olika parterna som är aktiva på bokmarknaden i Sverige och Spanien.</p>
+<p>Med anledning av Litteraturfestivalen i Stockholm, den 4 december 2021 och med översättande som utgångspunkt, <em>In translation</em>: <em>Spanish literature</em> ett seminarium som arrangeras för yrkesverksamma översättare kring översättandet av spansk litteratur till svenska. Det blir också tillfälle för en allmän publik att möta några representanter för de mest framstående författarna, litteraturkritikerna och agenterna inom den spanska litterära världen.</p>
+<p>Ur litteraturens industriella perspektiv lyfter vi fram översättarens avgörande arbete för att koppla ihop de olika aktörerna inom litteraturmarknaden, både inom poesin och prosan, och det som skapas i samarbeten mellan Spanien och Sverige. Allt detta utan att glömma bort de nya litterära strömningarna som också lyfts fram.</p>
+
 
 
 
@@ -121,23 +122,25 @@ language-ref: presentacion
     <div class="jornada" id="jornada-2">
         <div class="collapsible">
             <h2 class=""><span class="fecha">3 de diciembre</span>
-            <br /><span class="titulo-prog">Evento público</span>
-            <br /><span class="lugar">Lugar: Instituto Cervantes, Bryggargatan 12, Estocolmo</span>
-            <br /><span class="horario">Horario: 18.00 – 19.30</span>
+            <br /><span class="titulo-prog">Den spanska litteraturens natt</span>
+            <br /><span class="lugar">Plats: <em>alias</em>Teatern, Hälsingagatan 3, Stockholm</span>
+            <br /><span class="horario">Tid: 18.00 – 19.30</span>
             </h2>
             <div class="flechita">
                 <img src="/images/Flecha-down.svg" />
             </div>
         </div>
         <div class="content-collapse">
-            <div class="evento">
-                <h6 class="titulo-evento" id="evento-8">Tres voces distintas de la literatura actual española</h6>
-                <ul class="ponentes">
-                    <li>Olvido García Valdés</li>
-                    <li>Clara Usón</li>
-                    <li>Cristina Morales</li>
-                    <li>Moderador: Gaspar Cano Peral</li>
-                </ul>
+            <div class="evento" id="lanoche">
+                <h6 class="titulo-evento">Mötet med tre prisbelönta spanska författare</h6>
+                <p><strong>Olvido García Valdés</strong> (f.1950) är en av Spaniens mest betydande poeter. Hennes diktsamling <em>Och alla var vi levande</em> (<em>Y todos estabamos vivos</em>) erhöll Premio Nacional de Poesia år 2007, och publicerades på svenska tidigare i år (Edda förlag). Premio Iberoamericano de Poesía Pablo Neruda år 202, en tidigare diktsamling <em>Nattlig jakt</em> (<em>Caza nocturna</em>) publicerades på svenska 2004 (Ariel förlag).</p>
+                <p><strong>Cristina Morales</strong> (f.1985) betraktas som en av Spaniens mest lovande unga författare. En av hennes mest uppmärksammade romaner <em>Lectura fácil</em> är dubbelt prisbelönad och hon har också bl.a. skrivit en roman om Teresa av Avila, <em>Introducción a Teresa de Jesús</em>, (Editorial Anagrama).</p>
+                <p><strong>Clara Usón</strong> (f.1961) har sedan den prisbelönta debuten 1998 med <em>Las noches de San Juan</em> blivit en väletablerad författare i Spanien med en rad romaner bakom sig och hon har översatts till en mängd olika språk. Hennes roman <em>Ana</em> (<em>La hija del Este</em>), om Ratko Mladics dotter Ana, om nationalism och om kriget på Balkan, har just kommit ut på förlaget Ekström &amp; Garay.</p>
+                <p>I samtalet som sker på spanska och tolkas till svenska, deltar också den litterära agenten Ella Sher.</p>
+                <p>Skådespelaren Hans Sandquist läser texter av författarna.</p>
+                <p>Moderator: Gaspar Cano, redaktör och tidigare chef för Cervantesinstitutet i Stockholm och Berlin.</p>
+                <p>Ambient musik: A. Torgozolla.</p>
+                <p>Gratis inträde</p>
             </div>
         </div><!--del content-collapse-->       
     </div><!--de la jornada-->
@@ -146,8 +149,8 @@ language-ref: presentacion
         <div class="collapsible">
             <h2 class=""><span class="fecha">4 de diciembre</span>
             <br /><span class="titulo-prog">Feria literia de Estocolmo</span>
-            <br /><span class="lugar">Lugar: Kulturhuset, Sergeltorget, Estocolmo</span>
-            <br /><span class="horario">Horario: por concretar</span>
+            <br /><span class="lugar">Plats: Kulturhuset, Sergeltorget, Estocolmo</span>
+            <br /><span class="horario">Tid: por concretar</span>
             </h2>
             <div class="flechita">
                 <img src="/images/Flecha-down.svg" />
@@ -309,7 +312,7 @@ language-ref: presentacion
 
     <div class="texto" id="texto-clara">
         <div class="collapsible">
-            <h2 class="titulo">... när det gäller mina översättare (título provisional)
+            <h2 class="titulo">Om översättningen
             <br /> <span class="autor">Clara Usón</span> 
             </h2>
             <div class="flechita">
@@ -453,7 +456,7 @@ language-ref: presentacion
 
 
 <section class="about" id="sec-6">
-    <h1>Om In Translation / Medvárkande</h1>
+    <h1>Om In Translation / Medvärkande</h1>
     <p>In Translation <em>(Spanish literature – Stockholm 2-4 december 2021)</em>, es un proyecto desarrollado y dirigido por Gaspar Cano en colaboración con Daniel Gustafsson.</p>
     <p>Gaspar Cano es filólogo y periodista <em>freelance</em>; exdirector y fundador del Instituto Cervantes de Estocolmo, dirigió el Instituto Cervantes de Berlín durante los años de 2007 al 2012.</p>
     <p>Daniel Gustafsson es director ejecutivo de Översättarcentrum, Estocolmo. Escritor y traductor, antiguo responsable de literatura del Svenska Institutet, instituto nacional de cultura de Suecia.</p>

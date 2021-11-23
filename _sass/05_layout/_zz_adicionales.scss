@@ -352,7 +352,8 @@ section.textos {
     transform: rotate(180deg);
   }
 
-.active, .collapsible:hover {
+// .active, 
+.collapsible:hover {
   background-color: mix(#fff, black, 90%);
 }
 
@@ -362,13 +363,8 @@ section.textos {
   max-height: 0;
   overflow: hidden;
   transition: all 0.3s ease-out;  
-  // transition: max-height 0.2s ease-out;
-    // transition: margin-top 0.2s ease-out;
 }
-    #jornada-1 .content-collapse {
-      transition: max-height .6s ease-out;
-      transition: margin-top .3s ease-out;
-    }
+
 
 
 
