@@ -124,8 +124,8 @@ language-ref: presentacion
     <div class="jornada" id="jornada-2">
         <div class="collapsible">
             <h2 class=""><span class="fecha">3 de diciembre</span>
-                <br /><span class="titulo-prog">Evento público</span>
-                <br /><span class="lugar">Lugar: Instituto Cervantes, Bryggargatan 12, Estocolmo</span>
+                <br /><span class="titulo-prog">La noche de la literatura española</span>
+                <br /><span class="lugar">Lugar: aliasTeatern, Hälsingagatan 3, Estocolmo</span>
                 <br /><span class="horario">Horario: 18.00 – 19.30</span>
             </h2>
             <div class="flechita">
@@ -134,13 +134,17 @@ language-ref: presentacion
         </div>
         <div class="content-collapse">
             <div class="evento">
-                <h6 class="titulo-evento" id="evento-8">Tres voces distintas de la literatura actual española</h6>
-                <ul class="ponentes">
-                    <li>Olvido García Valdés</li>
-                    <li>Clara Usón</li>
-                    <li>Cristina Morales</li>
-                    <li>Moderador: Gaspar Cano Peral</li>
-                </ul>
+                <h6 class="titulo-evento" id="lanoche">Tres escritoras españolas en el <em>alias</em>Teatern</h6>
+                <br />
+                <p>Bienvenidos a la NOCHE DE LA LITERATURA ESPAÑOLA con las tres autoras españoles galardonadas:</p>
+                <p><strong>Olvido García Valdés</strong> (n. 1950) es una de las poetas más importantes de España. Su poemario <em>Y todos estabamos vivos,</em> recibió el Premio Nacional de Poesia en 2007 y fue publicado en sueco a principios de este año con el título, Och alla var vi levande, por la editorial Edda. Otra colección anterior de poemas suyos, <em>Caza nocturna</em>, Nattlig jakt, fue publicada en sueco en 2004 por la editorial Ariel.</p>
+                <p><strong>Cristina Morales</strong> (n. 1985) es considerada una de las escritoras jóvenes más prometedoras de España. Una de sus novelas más aclamadas, <em>Lectura fácil</em>, recibió, entre otros, el Premio Nacional de Narrativa en 2019. Ha escrito, entre otras, una novela sobre Teresa de Ávila, <em>Introducción a Teresa de Jesús,</em> publicada por la editorial Anagrama.</p>
+                <p><strong>Clara Usón</strong> (n. 1961) se ha convertido desde su premiado debut de 1998, <em>Las noches de San Juan,</em> en una autora consolidada en España con varias novelas a sus espaldas. Traducida a varios idiomas, su novela Ana (<em>La hija del Este</em>), sobre la hija de Ratko Mladic, el nacionalismo y la guerra de los Balcanes, acaba de ser publicada por la editorial sueca Ekström &amp; Garay.</p>
+                <p>La agente literaria Ella Sher participará también en este encuentro, que se desarrollará en español con traducción consecutiva al sueco.</p>
+                <p>El actor Hans Sandquist leerá algunos fragmentos de las obras de las autoras.</p>
+                <p>Moderador: Gaspar Cano, editor y ex director del Instituto Cervantes de Estocolmo y de Berlín.</p>
+                <p>Música ambiental: A. Torgozolla.</p>
+                <p>Entrada libre</p>
             </div>
         </div><!--del content-collapse-->       
     </div><!--de la jornada 3-->

@@ -33,7 +33,7 @@ slogan        : 'Spanish literature IT: Sp. Lit.'
 
 # Build settings
 url           : 'https://elpasogaspar.github.io'
-baseurl       : '/InTranslation2/'
+#baseurl       : '/InTranslation2/'
 markdown      : kramdown
 highlighter   : rouge
 permalink     : /:categories/:title/

@@ -288,8 +288,8 @@ language-ref: presentacion
 
 
 <section class="textos" id="sec-3">
-    <h1>Textos</h1>
-    <p class="pendiente">Urval av texter av våra deltagare och medarbetare om översättning, litteratur ...</p> 
+    <h1>Texter</h1>
+    <p>Texter av våra deltagare om översättning, litteratur ...</p> 
 
     <div class="texto" id="texto-olvido">
         <div class="collapsible">
