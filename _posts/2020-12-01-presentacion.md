@@ -569,10 +569,11 @@ language-ref: presentacion
 
     <h3>Agradecemos la colaboración de:</h3>
     <p>Marika Gedin</p>
-    <p></p>
+    <p>...</p>
+    <p>...</p>    
  
     <hr class="separador"/>
-    
+
     <div class="resto-creditos">
         <p>© de los textos: sus autores</p>        
         <p>© de la foto de Olvido García Valdés: Su Alonso & Inés Marful</p>
