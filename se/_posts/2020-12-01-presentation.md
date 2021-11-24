@@ -133,6 +133,7 @@ language-ref: presentacion
         <div class="content-collapse">
             <div class="evento" id="lanoche">
                 <h6 class="titulo-evento">Mötet med tre prisbelönta spanska författare</h6>
+                <br />
                 <p><strong>Olvido García Valdés</strong> (f.1950) är en av Spaniens mest betydande poeter. Hennes diktsamling <em>Och alla var vi levande</em> (<em>Y todos estabamos vivos</em>) erhöll Premio Nacional de Poesia år 2007, och publicerades på svenska tidigare i år (Edda förlag). Premio Iberoamericano de Poesía Pablo Neruda år 202, en tidigare diktsamling <em>Nattlig jakt</em> (<em>Caza nocturna</em>) publicerades på svenska 2004 (Ariel förlag).</p>
                 <p><strong>Cristina Morales</strong> (f.1985) betraktas som en av Spaniens mest lovande unga författare. En av hennes mest uppmärksammade romaner <em>Lectura fácil</em> är dubbelt prisbelönad och hon har också bl.a. skrivit en roman om Teresa av Avila, <em>Introducción a Teresa de Jesús</em>, (Editorial Anagrama).</p>
                 <p><strong>Clara Usón</strong> (f.1961) har sedan den prisbelönta debuten 1998 med <em>Las noches de San Juan</em> blivit en väletablerad författare i Spanien med en rad romaner bakom sig och hon har översatts till en mängd olika språk. Hennes roman <em>Ana</em> (<em>La hija del Este</em>), om Ratko Mladics dotter Ana, om nationalism och om kriget på Balkan, har just kommit ut på förlaget Ekström &amp; Garay.</p>
@@ -141,6 +142,7 @@ language-ref: presentacion
                 <p>Moderator: Gaspar Cano, redaktör och tidigare chef för Cervantesinstitutet i Stockholm och Berlin.</p>
                 <p>Ambient musik: A. Torgozolla.</p>
                 <p>Gratis inträde</p>
+                <img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" />
             </div>
         </div><!--del content-collapse-->       
     </div><!--de la jornada-->
