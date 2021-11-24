@@ -122,7 +122,7 @@ language-ref: presentacion
     <div class="jornada" id="jornada-2">
         <div class="collapsible">
             <h2 class=""><span class="fecha">3 de diciembre</span>
-            <br /><span class="titulo-prog">Den spanska litteraturens natt</span>
+            <br /><span class="titulo-prog">Mötet med tre prisbelönta spanska författare – Den spanska litteraturens natt</span>
             <br /><span class="lugar">Plats: <em>alias</em>Teatern, Hälsingagatan 3, Stockholm</span>
             <br /><span class="horario">Tid: 18.00 – 19.30</span>
             </h2>
@@ -133,6 +133,7 @@ language-ref: presentacion
         <div class="content-collapse">
             <div class="evento" id="lanoche">
                 <h6 class="titulo-evento">Mötet med tre prisbelönta spanska författare</h6>
+                <br />
                 <p><strong>Olvido García Valdés</strong> (f.1950) är en av Spaniens mest betydande poeter. Hennes diktsamling <em>Och alla var vi levande</em> (<em>Y todos estabamos vivos</em>) erhöll Premio Nacional de Poesia år 2007, och publicerades på svenska tidigare i år (Edda förlag). Premio Iberoamericano de Poesía Pablo Neruda år 202, en tidigare diktsamling <em>Nattlig jakt</em> (<em>Caza nocturna</em>) publicerades på svenska 2004 (Ariel förlag).</p>
                 <p><strong>Cristina Morales</strong> (f.1985) betraktas som en av Spaniens mest lovande unga författare. En av hennes mest uppmärksammade romaner <em>Lectura fácil</em> är dubbelt prisbelönad och hon har också bl.a. skrivit en roman om Teresa av Avila, <em>Introducción a Teresa de Jesús</em>, (Editorial Anagrama).</p>
                 <p><strong>Clara Usón</strong> (f.1961) har sedan den prisbelönta debuten 1998 med <em>Las noches de San Juan</em> blivit en väletablerad författare i Spanien med en rad romaner bakom sig och hon har översatts till en mängd olika språk. Hennes roman <em>Ana</em> (<em>La hija del Este</em>), om Ratko Mladics dotter Ana, om nationalism och om kriget på Balkan, har just kommit ut på förlaget Ekström &amp; Garay.</p>
@@ -141,6 +142,7 @@ language-ref: presentacion
                 <p>Moderator: Gaspar Cano, redaktör och tidigare chef för Cervantesinstitutet i Stockholm och Berlin.</p>
                 <p>Ambient musik: A. Torgozolla.</p>
                 <p>Gratis inträde</p>
+                <img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" />
             </div>
         </div><!--del content-collapse-->       
     </div><!--de la jornada-->
@@ -148,29 +150,27 @@ language-ref: presentacion
     <div class="jornada" id="jornada-3">
         <div class="collapsible">
             <h2 class=""><span class="fecha">4 de diciembre</span>
-            <br /><span class="titulo-prog">Feria literia de Estocolmo</span>
-            <br /><span class="lugar">Plats: Kulturhuset, Sergeltorget, Estocolmo</span>
-            <br /><span class="horario">Tid: por concretar</span>
+            <br /><span class="titulo-prog">Tre spanska författere – Stockholms litteratürmässan</span>
+            <br /><span class="lugar">Plats: Bibliotekets scen – Kulturhuset, Sergeltorget, Stockholm</span>
+            <br /><span class="horario">Tid: 12.00 – 12.45</span>
             </h2>
             <div class="flechita">
                 <img src="/images/Flecha-down.svg" />
             </div>
         </div>
         <div class="content-collapse">        
-            <div class="evento">
-                <h6 class="titulo-evento" id="evento-9">Poesía a escena</h6>
-                <ul class="ponentes">
-                    <li>Olvido García Valdés</li>
-                    <li>Magnus-William Ohlsson</li>
-                </ul>
-            </div> 
-            <div class="evento">   
-                <h6 class="titulo-evento" id="evento-9">Espacio para la literatura</h6>
-                <ul class="ponentes">
-                    <li>Cristina Morales</li>
-                    <li>Clara Usón</li>
-                </ul>
-            </div>
+            <div class="evento" id="feria">
+                <h6 class="titulo-evento" id="evento-9">Tre spanska författere</h6>
+                <br />
+                <p><b>Olvido García Valdés</b> en av Spaniens mest betydande poeter presenterar hennes diktsamling <em>Och alla var vi levande</em> (<em>Y todos estabamos vivos</em>) som erhöll Premio Nacional de Poesia år 2007, och publicerades på svenska tidigare i år (Edda förlag). </p>
+                <p><b>Clara Usón</b> presenterar hennes roman <em>Ana</em> (<em>La hija del Este</em>), om Ratko Mladics dotter Ana, om nationalism och om kriget på Balkan, som har just kommit ut på förlaget Ekström &amp; Garay.</p>
+                <p><b>Cristina Morales</b> betraktas som en av Spaniens mest lovande unga författare. Hon presenterar en av hennes mest uppmärksammade och pridsbelönad romaner <em>Lectura fácil</em> (Editorial Anagrama).</p>
+                <p>Med:</p>
+                <p>Marika Gedin, översättare</p>
+                <p>Hans Sandquist, skådespelare som kommer att läsa utdrag ur pjäserna och</p>
+                <p>Gaspar Cano, redaktör och journalist, tidigare chef för Cervantes-institutet i Stockholm och Berlin, som modererar.</p>
+            </div>    
+
         </div><!--del content-collapse-->      
     </div><!--de la jornada-->
 

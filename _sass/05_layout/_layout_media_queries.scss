@@ -9,12 +9,10 @@
   height: 90vh;
 }
 
-
 /* Small
 ------------------------------------------------------------------- */
 
 @media (max-width: 639px) {
-
   #masthead {
     font-size: $font-size-h2;
   }
@@ -28,42 +26,12 @@
   #pagination a:hover span.skip {
     display: none;
   }
-//   /* Reduce Font-Size to get more space for elements of Topbar-Navigation */
-//   #tnav {
-//     font-size: .75em;
-//   }
-//   #tnav a {
-//     padding: .5em 1em .5em 1em;
-//     border: 0;
-//   }
-// #tnav-logo > a {
-//   padding: .15em 1em .15em 1em;
-//   font-size: 1.3em;
-//   letter-spacing: 1px;
-// }
-
-
-//   #tnav-share a,
-// #tnav-search a {
-//   padding: .85em .5em .25em .5em;
-// }
-//   /* Hide elements in Topbar-Navigation */
-//   .tnav-hide {
-//     display: none !important;
-//   }
-
-  .logo-open {
-    max-height:400px!important;
-  }  
-}
-
 
 
 /* Medium
 ------------------------------------------------------------------- */
 
-@media (min-width: $small ) and (max-width: $medium) {
-
+@media (min-width: $small) and (max-width: $medium) {
   #masthead {
     font-size: $font-size-h1;
   }
@@ -75,17 +43,14 @@
     // height: 14em;
   }
   .logo-open {
-    max-height:600px!important;
-  }   
+    max-height: 600px !important;
+  }
 }
-
-
 
 /* Large
 ------------------------------------------------------------------- */
 
 @media (min-width: 1025px) {
-
   #masthead {
     font-size: $font-size-h1;
     line-height: 1.5;
@@ -98,4 +63,3 @@
     // height: 18em;
   }
 }
-
