@@ -125,7 +125,7 @@ language-ref: presentacion
     <div class="jornada" id="jornada-2">
         <div class="collapsible">
             <h2 class=""><span class="fecha">3 de diciembre</span>
-                <br /><span class="titulo-prog">La noche de la literatura española</span>
+                <br /><span class="titulo-prog">Tres escritoras españolas en el <em>alias</em>Teatern – La noche de la literatura española</span>
                 <br /><span class="lugar">Lugar: <em>alias</em>Teatern, Hälsingagatan 3, Estocolmo</span>
                 <br /><span class="horario">Horario: 18.00 – 19.30</span>
             </h2>
