@@ -122,7 +122,7 @@ language-ref: presentacion
     <div class="jornada" id="jornada-2">
         <div class="collapsible">
             <h2 class=""><span class="fecha">3 de diciembre</span>
-            <br /><span class="titulo-prog">Den spanska litteraturens natt</span>
+            <br /><span class="titulo-prog">Mötet med tre prisbelönta spanska författare – Den spanska litteraturens natt</span>
             <br /><span class="lugar">Plats: <em>alias</em>Teatern, Hälsingagatan 3, Stockholm</span>
             <br /><span class="horario">Tid: 18.00 – 19.30</span>
             </h2>
