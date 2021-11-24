@@ -159,29 +159,28 @@ language-ref: presentacion
         <div class="collapsible">
             <h2 class="">
                 <span class="fecha">4 de diciembre</span>
-                <br /><span class="titulo-prog">Feria literia de Estocolmo</span>
-                <br /><span class="lugar">Lugar: Kulturhuset, Sergeltorget, Estocolmo</span>
-                <br /><span class="horario">Horario: por concretar</span>
+                <br /><span class="titulo-prog">Tres escritoras españolas – Feria literaria de Estocolmo</span>
+                <br /><span class="lugar">Lugar: Escenario de la biblioteca  – Kulturhuset, Sergeltorget, Estocolmo</span>
+                <br /><span class="horario">Horario: 12.00 – 12.45</span>
             </h2>
             <div class="flechita">
                 <img src="/images/Flecha-down.svg" />
             </div>
         </div>
         <div class="content-collapse">        
-            <div class="evento">
-                <h6 class="titulo-evento" id="evento-9">Poesía a escena</h6>
-                <ul class="ponentes">
-                    <li>Olvido García Valdés</li>
-                    <li>Magnus-William Ohlsson</li>
-                </ul>
+            <div class="evento" id="feria">
+                <h6 class="titulo-evento" id="evento-9">Tres escritoras españolas</h6>
+                <br />
+                <p><b>Olvido García Valdés</b> es una de las poetas más importantes de España y presenta su poemario <em>Y todos estábamos vivos (Och alla var vi levande)</em> Premio Nacional de Poesia en 2007, y publicado en sueco a principios de este año (Editorial Edda).</p>
+                <p><b>Clara Usón</b> presenta la traducción al sueco de su novela <em>Ana (La hija del Este),</em> inspirada en la hija de Ratko Mladic, Ana, el nacionalismo y la guerra en los Balcanes, y que acaba de publicar la editorial Ekström &amp; Garay.</p>
+                <p><b>Cristina Morales</b>, considerada una de las escritoras jóvenes más prometedoras de España, presenta una de sus novelas más aclamadas y premiadas, <em>Lectura fácil</em> (Editorial Anagrama).</p>
+                <p>Intervienen, además:</p>
+                <p>Marika Gedin, traductora</p>
+                <p>Hans Sandquist, actor, leerá fragmentos de las obras y</p>
+                <p>Gaspar Cano, editor y periodista, exdirector del Instituto Cervantes de Estocolmo y de Berlín, que modera el encuentro.</p>
+                
             </div> 
-            <div class="evento">   
-                <h6 class="titulo-evento" id="evento-9">Espacio para la literatura</h6>
-                <ul class="ponentes">
-                    <li>Cristina Morales</li>
-                    <li>Clara Usón</li>
-                </ul>
-            </div>
+
         </div><!--del colntent-collpase-->       
     </div><!--de la jornada 3-->
 
