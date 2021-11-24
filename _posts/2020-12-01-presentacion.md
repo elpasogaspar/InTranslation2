@@ -368,6 +368,7 @@ language-ref: presentacion
         </div>
         <div class="content-collapse">
             <p>Le leí una vez a mi amigo y maestro Andrés Neuman, escritor hispanoargentino con quien tomé mis primeros talleres literarios, que quien cree en la traducción cree en el amor. Yo entonces tenía 17 años y no entendía bien esa frase, simplemente me parecía muy bella, de una belleza de la que durante mi larga adolescencia renegaba. No quería yo nada bello a mi alrededor, sólo quería vértigo, y las traducciones me importaban básicamente poco y esencialmente nada: era una autora prácticamente inédita y lo de ser traducida representaba para mí un símbolo de prestigio literario lejanísimo que tocaba a unas pocas autoras y autores de éxito (como efectivamente es). <em>Quien cree en la traducción, cree en el amor</em>, escribía Neuman en alguna parte, o quizás me lo dijo en un bar de mi ciudad natal y su ciudad de adopción, Granada, en esas post-presentaciones de libros y post-lecturas poéticas que yo confundía con la literatura misma porque a mis veinte años eran la literatura misma, era la vida hecha obra como reclamaban las y los cínicos, las y los místicos, las y los dandis, las y los libertinos, las y los dadaístas. Hoy, que formo parte de una <em>gang</em> de traductores de siete idiomas, me atrevo a glosar la máxima neumaniana: la traducción, como el amor, es la voluntad de hacerse entender por el otro a pesar de la gran distancia que separa entre sí a todos los seres humanos. Yo siempre he sido más amiga de la ilegibilidad que de la legibilidad, más amiga del secreto que de la visibilización. Más amiga de lo clandestino que de la transparencia, en suma. En la <em>gang</em> de la que soy parte nos amamos también de esa forma, citando a otro referente mío como es el escritor colombiano Andrés Caicedo: <em>Somos muchas. Incomunica el dato.</em></p>
+
         </div> 
     </div>   
   
@@ -462,12 +463,13 @@ language-ref: presentacion
 
 <section class="about" id="sec-6">
     <h1>Sobre In Translation / Créditos</h1>
-    <p>In Translation <em>(Spanish literature – Stockholm 2-4 december 2021)</em>, es un proyecto desarrollado y dirigido por Gaspar Cano en colaboración con Daniel Gustafsson.</p>
+    <p>In Translation <em>(Spanish literature – Stockholm 2-4 december 2021)</em>, es un proyecto desarrollado y dirigido por Gaspar Cano y Daniel Gustafsson.</p>
     <p>Gaspar Cano es filólogo y periodista <em>freelance</em>; exdirector y fundador del Instituto Cervantes de Estocolmo, dirigió el Instituto Cervantes de Berlín durante los años de 2007 al 2012.</p>
     <p>Daniel Gustafsson es director ejecutivo de Översättarcentrum, Estocolmo. Escritor y traductor, antiguo responsable de literatura del Svenska Institutet, instituto nacional de cultura de Suecia.</p>
     <p>Este proyecto ha sido posible con el apoyo de Acción Cultural Española (AC/E) y del Översättarcentrum de Estocolmo.</p>
+    <p>Contacto: Gaspar Cano, <a mailto="gaspar.cano@elpaso.se">gaspar.cano@elpaso.se</a>, +43 729 386 500</p>
     <br />
-    <h3>Con la participación de</h3>
+    <h3>Organizado por</h3>
     <div class="participante">
         <div class="foto-cont2"><img class="" src="{{'/images/oc_logo.png' | relative_url }}"  alt="ella" /></div>        
         <div class="nombre2"><h2 >Översättarcentrum</h2></div>    
@@ -498,14 +500,15 @@ language-ref: presentacion
         <div class="foto-cont2"><img class="" src="{{'/images/elpaso-b.jpg' | relative_url }}" height="301" width="388" alt="ella" /></div>        
         <div class="nombre2"><h2 >El Paso / Gaspar Cano</h2></div>    
         <div class="text2 esp" lang="es">
-            <p>Datos</p>      
+            <p>e.mail: <a mailto="gaspar.cano@elpaso.se">gaspar.cano@elpaso.se</a></p>             
+            <p>Tlf: <a href="tel:+43 729 386 5001"></a>+43 729 386 500</p>   
         </div>
     </div>
     <hr class="separador"/>
 
 <br /><br />
 
-    <h3>En colaboración con:</h3>
+    <h3>Entidades colaboradoras</h3>
     <br />
     <div class="participante">
         <div class="foto-cont2"><img class="" src="{{'/images/logo.png' | relative_url }}" height="301" width="388" alt="ella" /></div>        
@@ -546,7 +549,7 @@ language-ref: presentacion
         <div class="foto-cont2"><img class="" src="{{'images/cervantes-30.png' | relative_url }}" height="301" width="388" alt="ella" /></div>        
         <div class="nombre2"><h2 >Instituto Cervantes - Estocolmo</h2></div>    
         <div class="text2 esp" lang="es">
-            <p>Contacto: Alberto Garzón, director<br />
+            <p>Contacto: Alberto Gascón, director<br />
                 <a mailto="direstoc@cervantes.se">direstoc@cervantes.se</a>
             </p>      
         </div>
@@ -564,6 +567,12 @@ language-ref: presentacion
     </div>
     <hr class="separador"/>
 
+    <h3>Agradecemos la colaboración de:</h3>
+    <p>Marika Gedin</p>
+    <p></p>
+ 
+    <hr class="separador"/>
+    
     <div class="resto-creditos">
         <p>© de los textos: sus autores</p>        
         <p>© de la foto de Olvido García Valdés: Su Alonso & Inés Marful</p>
