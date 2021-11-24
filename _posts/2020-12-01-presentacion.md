@@ -569,7 +569,7 @@ language-ref: presentacion
 
     <h3>Agradecemos la colaboración de:</h3>
     <p>Marika Gedin</p>
-    <p>...</p>
+    <p>Siri Hultén</p>
     <p>...</p>    
  
     <hr class="separador"/>
