@@ -6,6 +6,7 @@ header_image: 'IT_Logo-2.svg'
 permalink: / 
 language: es
 language-ref: presentacion
+description: Desde la perspectiva industrial de la literatura ponemos en valor la decisiva labor del traductor
 ---
 
 

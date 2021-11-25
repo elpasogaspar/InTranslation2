@@ -6,6 +6,7 @@ header_image: 'IT_Logo-2.svg'
 permalink: /se/presentation
 language: se
 language-ref: presentacion
+description: Ur litteraturens industriella perspektiv lyfter vi fram översättarens avgörande arbete
 ---
 
 
