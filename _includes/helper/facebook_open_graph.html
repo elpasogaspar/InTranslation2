@@ -1,9 +1,15 @@
-  <!-- Facebook Open Graph -->
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="{{ description | truncate: 160 }}">
-  <meta property="og:locale" content="{% if site.og_locale == nil %}en_EN{% else %}{{ site.og_locale }}{% endif %}">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ url }}{{ page.url }}">
-  <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:image" content="{{ "/images/IT_Logo-2-svg.png" | absolute_url }}">
-  {% if site.socialmedia.facebook %}<meta property="article:author" content="https://www.facebook.com/{{ site.socialmedia.facebook }}">{% endif %}
+<!-- Facebook Open Graph -->
+<meta property="og:title" content="{{ title }}" />
+<meta property="og:description" content="{{ description | truncate: 160 }}" />
+<meta
+  property="og:locale"
+  content="{% if site.og_locale == nil %}en_EN{% else %}{{ site.og_locale }}{% endif %}"
+/>
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ url }}{{ page.url }}" />
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta property="og:image" content="{{ "/images/IT_Logo-2-svg.png" | prepend: url}}"> {%
+if site.socialmedia.facebook %}<meta
+  property="article:author"
+  content="https://www.facebook.com/{{ site.socialmedia.facebook }}"
+/>{% endif %}
