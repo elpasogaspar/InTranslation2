@@ -240,7 +240,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     </div>
     <div class="nombre2"><h2>Cristina Morales</h2></div>
     <div class="text2 esp" lang="es">
-        <p>Premio Nacional de la crítica por <em>La hija del este</em>, que presentará en Estocolmo en su edición sueca.
+        <p>Premio Nacional de Literatura 2019 por su obra <em>Lectura fácil</em>.
             <span class="dots"></span>
         </p>
         <div class="more" style="display: none;">
@@ -288,7 +288,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <p>Hanna Nordenhök, <span class='font-90'>autora, dramaturga y traductora</span></p>
     <p>Fernando Wachtmeister Bermúdez, <span class='font-90'>escritor e investigador en la Universidad de Uppsala</span></p>
     <p>Ulf Eriksson, <span class='font-90'>escritor, crítico y traductor</span></p>
-    <p>Lina Wolff, <span class='font-90'>traductora</span></p>
+    <p>Lina Wolff, <span class='font-90'>escritora y traductora</span></p>
     <p>Alberto Gascón Gonzalo, <span class='font-90'>director Instituto Cervantes de Estocolmo</span></p>
     <p>Johanna Haegerström, <span class='font-90'>editora en Albert Bonniers förlag</span></p> 
     <p>Susanne Bergström Larsson, <span class='font-90'>Kulturrådet/Swedish literature exchange</span></p>

@@ -123,7 +123,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     <div class="jornada" id="jornada-2">
         <div class="collapsible">
             <h2 class=""><span class="fecha">3 de diciembre</span>
-            <br /><span class="titulo-prog">Mötet med tre prisbelönta spanska författare – Den spanska litteraturens natt</span>
+            <br /><span class="titulo-prog">Möte med tre prisbelönta spanska författare – Den spanska litteraturens natt</span>
             <br /><span class="lugar">Plats: <em>alias</em>Teatern, Hälsingagatan 3, Stockholm</span>
             <br /><span class="horario">Tid: 18.00 – 19.30</span>
             </h2>
@@ -133,10 +133,10 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
         </div>
         <div class="content-collapse">
             <div class="evento" id="lanoche">
-                <h6 class="titulo-evento">Mötet med tre prisbelönta spanska författare</h6>
+                <h6 class="titulo-evento">Möte med tre prisbelönta spanska författare</h6>
                 <br />
                 <p><strong>Olvido García Valdés</strong> (f.1950) är en av Spaniens mest betydande poeter. Hennes diktsamling <em>Och alla var vi levande</em> (<em>Y todos estabamos vivos</em>) erhöll Premio Nacional de Poesia år 2007, och publicerades på svenska tidigare i år (Edda förlag). Premio Iberoamericano de Poesía Pablo Neruda år 202, en tidigare diktsamling <em>Nattlig jakt</em> (<em>Caza nocturna</em>) publicerades på svenska 2004 (Ariel förlag).</p>
-                <p><strong>Cristina Morales</strong> (f.1985) betraktas som en av Spaniens mest lovande unga författare. En av hennes mest uppmärksammade romaner <em>Lectura fácil</em> är dubbelt prisbelönad och hon har också bl.a. skrivit en roman om Teresa av Avila, <em>Introducción a Teresa de Jesús</em>, (Editorial Anagrama).</p>
+                <p><strong>Cristina Morales</strong> (f.1985) betraktas som en av Spaniens mest lovande unga författare. En av hennes mest uppmärksammade romaner <em>Lectura fácil</em> är dubbelt prisbelönad och hon har också bl.a. skrivit en roman om Teresa av Ávila, <em>Introducción a Teresa de Jesús</em>, (Editorial Anagrama).</p>
                 <p><strong>Clara Usón</strong> (f.1961) har sedan den prisbelönta debuten 1998 med <em>Las noches de San Juan</em> blivit en väletablerad författare i Spanien med en rad romaner bakom sig och hon har översatts till en mängd olika språk. Hennes roman <em>Ana</em> (<em>La hija del Este</em>), om Ratko Mladics dotter Ana, om nationalism och om kriget på Balkan, har just kommit ut på förlaget Ekström &amp; Garay.</p>
                 <p>I samtalet som sker på spanska och tolkas till svenska, deltar också den litterära agenten Ella Sher.</p>
                 <p>Skådespelaren Hans Sandquist läser texter av författarna.</p>
@@ -196,7 +196,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
             <p>Hon har bland annat mottagit El Premio Iberoamericano de Poesía Pablo Neruda år 2021, El Premio de las Letras de Asturias år 2016 och Premio Nacional de Poesía år 2007 för sin diktsamling <em>Y todos estábamos vivos</em>, (Tusquets, Barcelona 2006, 2007), på svenska <em>Och alla var vi levande</em>, (Bokförlaget Edda 2021). På svenska finns också, <em>Nattlig jakt</em>, (Ariel skrifter 2004) <em>-</em> på spanska <em>Caza nocturna</em> (Ave del Paraiso 1997).</p>
             <p>I <em>Esa polilla que delante de mi revoltea, samlade dikter (1982-2008)</em> (Galaxia Gutenberg, Barcelona, 2008, 2016) finns hennes poesi från dessa år samlad. Senare har hon publicerat samlingen <em>Lo solo del animal</em>, Tusquets, Barcelona, 2020, och nyligen <em>confía en la gracia</em>, (Tusquets, Barcelona, 2020) och <em>dentro del animal la voz</em>. Antología 1982-2012 (Editorial Cátedra, colleción Letras Hispánicas, Madrid 2020). Hennes böcker har översatts till franska, engelska, italienska, polska och svenska; hennes dikter har även synts på tyska, portugisiska, rumänska, grekiska, serbiska, arabiska och kinesiska.</p>
             <p>Olvido García Valdés är också författare till den biografiska essän <em>Teresa de Jesús</em>, till texter i konstkataloger (Zush, Kiefer, Vicente Rojo, Tápies, Juan Soriano, Venedigbiennalen 2001, Broto…) samt till ett antal litterära essäer. Hon har översatt <em>La religión de mi tiempo</em> och <em>Larga carretera de arena</em> av Pier Paolo Pasolini och (i ett samarbete) en antologi med Anna Achmatova och Marina Tsvetajeva, <em>El canto de la ceniza</em>, liksom <em>El resto del viaje</em> och andra dikter av Bernard Noël. Hon har varit medredaktör av tidskriften <em>Los Infolios</em>, och var med och grundade <em>El signo del gorrión (1992-2002).</em> Hon har också lett och organiserat olika kurser, seminarier och kulturella evenemang kring samtida poesi.</p>                    </div>
-        <button class="myBtn" onclick="readMore('olvido')" >Läsa mer ...</button>
+        <button class="myBtn" onclick="readMore('olvido')" >Läs mer ...</button>
     </div>
 </div>
 
@@ -218,7 +218,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
             <p>I oktober 2015 publicerades romanen <em>Valor</em> (Seix Barral), som översatts till Italienska och den 5 april 2018 publicerades <em>El Asesino tímido</em> (Seix Barral), för vilken hon 2018 erhöll litteraturpriset Sor Juana Inés de la Cruz, och som har översatts till italienska, portugisiska, kroatiska och polska.</p>
             
         </div>
-        <button class="myBtn" onclick="readMore('clara')">Läsa mer ...</button>
+        <button class="myBtn" onclick="readMore('clara')">Läs mer ...</button>
     </div>
 </div>
 
@@ -240,7 +240,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
             <p><a href="http://at-asko.bandcamp.com"><em>at-asko.bandcamp.com</em></a></p>
             <p>Instagram: @bachini.bachini</p> -->
         </div>
-        <button class="myBtn" onclick="readMore('cristina')">Läsa mer ...</button>        
+        <button class="myBtn" onclick="readMore('cristina')">Läs mer ...</button>        
     </div>
 </div>
 
@@ -257,7 +257,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
             <hr class="separador2"/>
             <p>Han har skrivit flera böcker om Spaniens intellektuella och litteraturhistoria under 1900-talet och biografier om Cervantes och José Ortega y Gasset. Han har publicerat bland annat essäerna <em>Estado y cultura, La resistencia silenciosa</em> (Premio Anagrama de Ensayo en 2004), <em>La vida rescatada de Dionisio Ridruejo, A la intemperie</em> y <em>Javier Pradera o el poder de la izquierda. Medio siglo de cultura democrática,</em>  förutom två mer eller mindre broschyrer: <em>El intelectual melancólico</em> y <em>Contra la izquierda. Para seguir siendo de izquierdas en el siglo XXI.</em></p>        
         </div>  
-        <button class="myBtn" onclick="readMore('jordi')" >Läsa mer ...</button>  
+        <button class="myBtn" onclick="readMore('jordi')" >Läs mer ...</button>  
     </div>
 </div>
 
@@ -280,7 +280,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     <p>Hanna Nordenhök, <span class='font-90'>författare, dramatiker och översättare</span></p>
     <p>Fernando Wachtmeister Bermúdez, <span class='font-90'>författare och forskare vid Uppsala universitet</span></p>
     <p>Ulf Eriksson, <span class='font-90'>författare, kritiker och översättare</span></p>
-    <p>Lina Wolff, <span class='font-90'>översättare</span></p>
+    <p>Lina Wolff, <span class='font-90'>författare och översättare</span></p>
     <p>Alberto Gascón Gonzalo, <span class='font-90'>dchef för Cervantes Institutet i Stockholm</span></p>
     <p>Johanna Haegerström, <span class='font-90'>redaktör på Albert Bonniers förlag</span></p> 
     <p>Susanne Bergström Larsson, <span class='font-90'>Kulturrådet / Svenskt litteraturutbyte</span></p>
