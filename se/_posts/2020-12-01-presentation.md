@@ -454,7 +454,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     <hr class="separador"/>
     
     <div class="participante" id="sede3">
-        <div class="foto-cont2" style="margin-top: -7px;"><img class="" src="{{'images/Logga_red.webp' | relative_url }}" height="301" width="388" alt="ella" /></div>
+        <div class="foto-cont2" style="margin-top: -3px;"><img class="" src="{{'images/Logga_red.webp' | relative_url }}" height="301" width="388" alt="ella" /></div>
         <div class="nombre2"><h2 ><em>alias</em> Teatern</h2></div>    
         <div class="text2 esp" lang="es">
             <p><a href="https://g.page/aliasTEATERN?share" target="_blank"> Hälsingegatan 3<br />
