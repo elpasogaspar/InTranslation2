@@ -27,7 +27,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
             <h2 class=""><span class="fecha">2 december 2021</span>
             <br /><span class="titulo-prog">Översättningsseminarium</span>
             <br /><span class="lugar">Plats: Författarförbundet, Drottninggatan 88B, Stockholm.</span>
-            <br /><span class="horario">Tid: 10.00 – 18.30 &#160; &#160;Anmällan: <a href="mailto:info@oversattarcentrum.se">info@oversattarcentrum.se</a></span>
+            <br /><span class="horario">Tid: 10.00–18.30 &#160; &#160;Anmälan: <a href="mailto:info@oversattarcentrum.se">info@oversattarcentrum.se</a></span>
             </h2>
             <div class="flechita">
                 <img src="/images/Flecha-down.svg" />
@@ -122,10 +122,10 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
 
     <div class="jornada" id="jornada-2">
         <div class="collapsible">
-            <h2 class=""><span class="fecha">3 de diciembre</span>
+            <h2 class=""><span class="fecha">3 de december</span>
             <br /><span class="titulo-prog">Möte med tre prisbelönta spanska författare – Den spanska litteraturens natt</span>
             <br /><span class="lugar">Plats: <em>alias</em>Teatern, Hälsingagatan 3, Stockholm</span>
-            <br /><span class="horario">Tid: 18.00 – 19.30</span>
+            <br /><span class="horario">Tid: 18.00–19.30</span>
             </h2>
             <div class="flechita">
                 <img src="/images/Flecha-down.svg" />
@@ -150,10 +150,10 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
 
     <div class="jornada" id="jornada-3">
         <div class="collapsible">
-            <h2 class=""><span class="fecha">4 de diciembre</span>
-            <br /><span class="titulo-prog">Tre spanska författere – Stockholms litteratürmässan</span>
+            <h2 class=""><span class="fecha">4 de december</span>
+            <br /><span class="titulo-prog">Tre spanska författere – Stockholms litteraturmässa</span>
             <br /><span class="lugar">Plats: Bibliotekets scen – Kulturhuset, Sergeltorget, Stockholm</span>
-            <br /><span class="horario">Tid: 12.00 – 12.45</span>
+            <br /><span class="horario">Tid: 12.00–12.45</span>
             </h2>
             <div class="flechita">
                 <img src="/images/Flecha-down.svg" />

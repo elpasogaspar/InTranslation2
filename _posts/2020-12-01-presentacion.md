@@ -458,6 +458,9 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
 <section class="publicacion" id="sec-5">
     <h1>Publicación</h1>
     <p>En esta sección se ofrecerán transcripciones, videos y audios de las distintas actividades celebradas.</p>
+    <br /><br />
+    <p>Ladda ner pressmeddelandet på svenska <a href="{{'/images/InTranslation_PR_SE.pdf' | relative_url }}" download="InTranslation_PressRelease" target="_blank"><u>här</u></a>.</p>
+    <p>Descargar la nota de prensa en sueco <a href="{{'/images/InTranslation_PR_ES.pdf' | relative_url }}" download="InTranslation_PressRelease" target="_blank"><u>aquí</u></a>.</p>
 
 </section><!--publicacion-->
 
