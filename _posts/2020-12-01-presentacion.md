@@ -286,7 +286,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <p>Hanna Axén, <span class='font-90'>traductora</span></p> 
     <p>Annakarin Thorburn, <span class='font-90'>traductora</span></p>
     <p>Hanna Nordenhök, <span class='font-90'>autora, dramaturga y traductora</span></p>
-    <p>Fernando Wachtmeister Bermúdez, <span class='font-90'>escritor y professor en la Universidad de Uppsala</span></p>
+    <p>Fernando Wachtmeister Bermúdez, <span class='font-90'>escritor e investigador en la Universidad de Uppsala</span></p>
     <p>Ulf Eriksson, <span class='font-90'>escritor, crítico y traductor</span></p>
     <p>Lina Wolff, <span class='font-90'>traductora</span></p>
     <p>Alberto Gascón Gonzalo, <span class='font-90'>director Instituto Cervantes de Estocolmo</span></p>

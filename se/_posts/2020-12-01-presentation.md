@@ -13,8 +13,8 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
 <!--more-->
 
 <h1 id="se-cap1">Presentation</h1>
-<p>Med anledning av Litteraturfestivalen i Stockholm, den 4 december 2021 och med översättande som utgångspunkt, <em>In translation</em>: <em>Spanish literature</em> ett seminarium som arrangeras för yrkesverksamma översättare kring översättandet av spansk litteratur till svenska. Det blir också tillfälle för en allmän publik att möta några representanter för de mest framstående författarna, litteraturkritikerna och agenterna inom den spanska litterära världen.</p>
-<p>Ur litteraturens industriella perspektiv lyfter vi fram översättarens avgörande arbete för att koppla ihop de olika aktörerna inom litteraturmarknaden, både inom poesin och prosan, och det som skapas i samarbeten mellan Spanien och Sverige. Allt detta utan att glömma bort de nya litterära strömningarna som också lyfts fram.</p>
+<p>Med anledning av Stockholms litteraturmässa den 4 december 2021 och med översättning som utgångspunkt, arrangeras <em>In translation: Spanish literature</em>, ett seminarium för yrkesverksamma översättare av spansk litteratur till svenska. Det blir också tillfälle för en allmän publik i Stockholm att möta några representanter för de mest framstående författarna, litteraturkritikerna och agenterna inom den spanska litterära världen.</p>
+<p>Ur ett litterärt branschperspektiv lyfter vi fram översättarens avgörande arbete för att koppla ihop de olika aktörerna inom litteraturmarknaden, både inom poesin och prosan, i samarbeten mellan Spanien och Sverige Allt detta utan att glömma bort de nya litterära strömningarna i Spanien som också lyfts fram.</p>
 
 
 
@@ -278,7 +278,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     <p>Hanna Axén, <span class='font-90'>översättare</span></p> 
     <p>Annakarin Thorburn, <span class='font-90'>översättare</span></p>
     <p>Hanna Nordenhök, <span class='font-90'>författare, dramatiker och översättare</span></p>
-    <p>Fernando Wachtmeister Bermúdez, <span class='font-90'>författare och professor vid Uppsala universitet</span></p>
+    <p>Fernando Wachtmeister Bermúdez, <span class='font-90'>författare och forskare vid Uppsala universitet</span></p>
     <p>Ulf Eriksson, <span class='font-90'>författare, kritiker och översättare</span></p>
     <p>Lina Wolff, <span class='font-90'>översättare</span></p>
     <p>Alberto Gascón Gonzalo, <span class='font-90'>dchef för Cervantes Institutet i Stockholm</span></p>
