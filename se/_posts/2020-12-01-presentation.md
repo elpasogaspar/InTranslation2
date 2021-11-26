@@ -474,6 +474,9 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
 <section class="publicacion" id="sec-5">
     <h1>Publication</h1>
     <p class="pendiente">Det här avsnittet kommer att erbjuda utskrifter, videor och ljud från de olika aktiviteter som hålls.</p>
+   <br /><br />
+    <p>Ladda ner pressmeddelandet på svenska <a href="{{'/images/InTranslation_PR_SE.pdf' | relative_url }}" download="InTranslation_PressRelease" target="_blank"><u>här.</u> &#160;<i class="far fa-file-pdf"></i></a></p>
+    <p>Descargar la nota de prensa en español <a href="{{'/images/InTranslation_PR_ES.pdf' | relative_url }}" download="InTranslation_PressRelease" target="_blank"><u>aquí.</u> &#160;<i class="far fa-file-pdf"></i></a></p>
 </section><!--publicacion-->
 
 
