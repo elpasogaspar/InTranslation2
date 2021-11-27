@@ -147,12 +147,9 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
                 <p>Moderador: Gaspar Cano, editor y ex director del Instituto Cervantes de Estocolmo y de Berlín.</p>
                 <p>Música ambiental: A. Torgozolla.</p>
                 <p>Con traducción consecutiva del español al sueco a cargo de Lena Öhman.</p>
-                <p style="margin-bottom: 1em;">Entrada libre.</p>
+                <p>Entrada libre.</p>
                 <br />
                 <img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" />
-
-                <!-- <p>Este proyecto ha sido posible con el apoyo de Acción Cultural Española (AC/E), Förfatarrförbundet, Översättarcentrum, Instituto Cervantes de Estocolmo, Universidad de Uppsala, Kulturhuset/Stadsteatern y la Embajada de España en Suecia.</p> -->
-
             </div>
         </div><!--del content-collapse-->       
     </div><!--de la jornada 3-->
