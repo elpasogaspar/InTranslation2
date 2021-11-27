@@ -143,7 +143,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
                 <p>Moderator: Gaspar Cano, redaktör och tidigare chef för Instituto Cervantes i Stockholm och Berlin.</p>
                 <p>Ambient musik: A. Torgozolla.</p>
                 <p>Med konsekutiv översättning till svenska av Lena Öhman.</p>
-                <p><b>Gratis inträde</b></p>
+                <p style="margin-bottom: 1em;"><b>Gratis inträde</b></p>
                 <br />
                 <img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" />
             </div>

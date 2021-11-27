@@ -147,7 +147,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
                 <p>Moderador: Gaspar Cano, editor y ex director del Instituto Cervantes de Estocolmo y de Berlín.</p>
                 <p>Música ambiental: A. Torgozolla.</p>
                 <p>Con traducción consecutiva del español al sueco a cargo de Lena Öhman.</p>
-                <p>Entrada libre.</p>
+                <p style="margin-bottom: 1em;">Entrada libre.</p>
                 <br />
                 <img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" />
 
