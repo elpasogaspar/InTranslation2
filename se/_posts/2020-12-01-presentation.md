@@ -214,9 +214,9 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
             <hr class="separador2"/>
             <p>Clara Usón (1961) är bosatt i Barcelona. Hon har studerat juridik och har tidigare arbetat som advokat under 18 år.</p>
             <p>År 1998 tilldelades hon priset Premio Lumen för sin första roman <em>Noches de San Juan</em>, som följdes av romanerna <em>Primer Vuelo</em> (Aleph 2001), <em>El viaje de las Palabras</em> (Plaza &amp; Janés 2003), <em>Perseguidoras</em> (Alfaguara 2007), <em>Corazón de Napalm</em> (Seix Barral 2009). För <em>Corazón de Napalm</em> erhöll hon priset Biblioteca Breve.</p>
-            <p>Hennes roman <em>La hija del Este</em> (Seix Barral 2012, på svenska <em>Ana</em>, Ekström &amp; Garay 2021) har tryckts om nio gånger. I Spanien har den vunnit El Premio Ciutat de Barcelona och det prestigefulla Premio de la Crítica. I Italien belönades den med Premio de la Cultura Mediterránia och i Frankrike med Le Prix Bouchon de Cultures.</p>
-            <p>I Italien har <em>La hija del Este</em> publicerats av Sellerio (La Figlia), till dags dato har den där tryckts om sex gånger. I Holland har den publicerats av Signatuur (<em>Ana Mladic</em>), i Frankrike av Gallimard (<em>La Fille de l´Est</em>) och i Portugal av Teodolito (<em>A Filla do Leste</em>). Romanen har också översatts till kroatiska, rumänska och arabiska.</p>
-            <p>2015 publicerades romanen <em>Valor</em> (Seix Barral) och 2018 publicerades <em>El Asesino tímido</em> (Seix Barral), för vilken hon erhöll litteraturpriset Sor Juana Inés de la Cruz. Dessa romaner och också översätta till flera olika språk.</p>
+            <p>Hennes roman <em>La hija del Este</em> (Seix Barral 2012, på svenska <em>Ana</em>, Ekström &amp; Garay 2021) har tryckts om nio gånger. Den har tilldelats el Premio Ciutat de Barcelona och det prestigefulla Premio de la Crítica. I Italien belönades den med Premio de la Cultura Mediterránia och i Frankrike med Le Prix Bouchon de Cultures.</p>
+            <p>I Italien har <em>La hija del Este</em> publicerats av Sellerio (La Figlia), och den har tryckts om sex gånger. I Holland har den publicerats av Signatuur (<em>Ana Mladic</em>), i Frankrike av Gallimard (<em>La Fille de l´Est</em>) och i Portugal av Teodolito (<em>A Filla do Leste</em>). Romanen har också översatts till kroatiska, rumänska och arabiska.</p>
+            <p>2015 publicerades romanen <em>Valor</em> (Seix Barral) och 2018 publicerades <em>El Asesino tímido</em> (Seix Barral), för vilken hon erhöll litteraturpriset Sor Juana Inés de la Cruz. Dessa romaner har också blivit översatta till flera olika språk.</p>
         </div>
         <button class="myBtn" onclick="readMore('clara')">Läs mer ...</button>
     </div>
@@ -250,12 +250,12 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     <div class="foto-cont2"><img class="fot" src="{{'/images/Jordi_Gracia.jpg' | relative_url }}" alt="ella" /></div>
     <div class="nombre2"><h2>Jordi Gracia García</h2></div>
     <div class="text2 esp" lang="es">
-        <p>Litteraturkritiker, professor i spansk litteratur vid universitetet i Barcelona och biträdande opinionschef för tidningen El País.            
+        <p>Litteraturkritiker, professor i spansk litteratur vid Barcelona universitetet och biträdande opinionschef för tidningen El País.            
             <span class="dots"></span>
         </p>
         <div class="more" style="display: none;">
             <hr class="separador2"/>
-            <p>Han har skrivit flera böcker om Spaniens intellektuella och litteraturhistoria under 1900-talet och biografier om Cervantes och José Ortega y Gasset. Han har publicerat bland annat essäerna <em>Estado y cultura, La resistencia silenciosa</em> (Premio Anagrama de Ensayo en 2004), <em>La vida rescatada de Dionisio Ridruejo, A la intemperie</em> y <em>Javier Pradera o el poder de la izquierda. Medio siglo de cultura democrática,</em>  förutom två mer eller mindre broschyrer: <em>El intelectual melancólico</em> y <em>Contra la izquierda. Para seguir siendo de izquierdas en el siglo XXI.</em></p>        
+            <p>Jordi García har skrivit flera böcker om Spaniens intellektuella och spansk litteraturhistoria under 1900-talet samt biografier om Cervantes och José Ortega y Gasset. Han har publicerat essäerna <em>Estado y cultura, La resistencia silenciosa</em> (Premio Anagrama de Ensayo 2004), <em>La vida rescatada de Dionisio Ridruejo, A la intemperie</em> y <em>Javier Pradera o el poder de la izquierda, Medio siglo de cultura democrática </em>och<em> El intelectual melancólico</em> y <em>Contra la izquierda. Para seguir siendo de izquierdas en el siglo XXI.</em></p>        
         </div>  
         <button class="myBtn" onclick="readMore('jordi')" >Läs mer ...</button>  
     </div>
@@ -265,7 +265,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     <div class="foto-cont2"><img class="fot" src="{{'/images/Ella_Sher.jpeg' | relative_url }}" width="300" alt="ella" /></div>
     <div class="nombre2"><h2>Ella Sher</h2></div>
     <div class="text2 esp" lang="es">
-        <p>Litterär agent etablerad i Barcelona och ett grundläggande namn av spansk litteratur producerad av nya författare under fyrtio år som Cristina Morales, Jon Bilbao, Juan Gómez Bárcena, María Folguera eller Sergio del Molino. </p>
+        <p>Ella Sher är litterär agent etablerad i Barcelona. Hon företräder många välrenommerade författare, såsom Cristina Morales, Jon Bilbao, Juan Gómez Bárcena, María Folguera och Sergio del Molino.</p>
     </div>
 </div>
 
@@ -513,7 +513,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
         <div class="foto-cont2"><img class="" src="{{'/images/logo.png' | relative_url }}" height="301" width="388" alt="ella" /></div>        
         <div class="nombre2"><h2 >Författarförbundet</h2></div>    
         <div class="text2 esp" lang="es">
-            <p><a href="https://forfattarforbundet.se/" target="_blank">www.forfattarforbundet.se/</a><br />
+            <p><a href="https://forfattarforbundet.se/" target="_blank">www.forfattarforbundet.se</a><br />
                 Kontakt: Klara Lindell, ansvarig för översättarsektionen<br />
             <a mailto="klaraverbatext@gmail.com">iklaraverbatext@gmail.com</a>
             </p>        
