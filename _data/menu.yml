@@ -32,7 +32,7 @@ se:
     - name: "Program"
       url: "se/presentation#sec-1"
 
-    - name: "Deltagarna"
+    - name: "Deltagare"
       url: "se/presentation#sec-2"
 
     - name: "Texter"
@@ -41,7 +41,7 @@ se:
     - name: "Platser"
       url: "se/presentation#sec-4"
 
-    - name: "Publication"
+    - name: "Publikationer"
       url: "se/presentation#sec-5"        
 
     - name: "Om oss"
