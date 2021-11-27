@@ -144,8 +144,8 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
                 <p>Ambient musik: A. Torgozolla.</p>
                 <p>Med konsekutiv översättning till svenska av Lena Öhman.</p>
                 <p><b>Gratis inträde</b></p>
-                <br />
-                <img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" />
+                <div class="cartel"><img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" /></div>
+
             </div>
         </div><!--del content-collapse-->       
     </div><!--de la jornada-->
