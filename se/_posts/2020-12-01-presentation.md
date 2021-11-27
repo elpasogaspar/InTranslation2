@@ -313,7 +313,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
 
     <div class="texto" id="texto-clara">
         <div class="collapsible">
-            <h2 class="titulo">Om översättningen
+            <h2 class="titulo">Om översättning
             <br /> <span class="autor">Clara Usón</span> 
             </h2>
             <div class="flechita">
