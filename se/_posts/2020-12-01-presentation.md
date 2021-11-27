@@ -394,7 +394,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
             </div>
         </div>
         <div class="content-collapse">
-            <p>För mig är begäret passionens instinktiva ingivelse. Översättarbegäret, tror jag mig minnas, var en ingivelse, begäret efter att förstå det okända, det som ett annat språk avslöjar; ja, nu minns jag: ett annat språk som ändå inte är oss helt främmande; en gnista, en tanke, en bild, en rysning… Franz K:s <em>Die Karlgasse</em>/Karlsgränd, herr Samuel (Becketts) <em>All that fall</em>/Alla som faller, <em>Die Nachtwache des Bonaventuras, XY</em>, <em>Moi, Pierre Rivière,…/</em>Jag, Pierre Rivière, … Ja, så klart, så är det, sådan är driften att översätta.</p>
+            <p>För mig är begäret passionens instinktiva ingivelse. Översättarbegäret, tror jag mig minnas, var en ingivelse, begäret att förstå det okända, det som ett annat språk avslöjar… Ja, nu minns jag: ett annat språk som ändå inte var mig helt främmande; en gnista, en tanke, en bild, en rysning… Franz K:s <em>Die Karlgasse</em>/<em>Karlsgränd</em>, Samuel (Beckett) <em>All that fall</em>/<em>Alla som faller</em>, <em>Die Nachtwache des Bonaventuras, XY</em>, <em>Moi, Pierre Rivière…/Jag, Pierre Rivière</em>… Ja, så var det, jag drevs av ett begär av att översätta</p>
         </div> 
     </div>
     
