@@ -148,7 +148,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
                 <p>Música ambiental: A. Torgozolla.</p>
                 <p>Con traducción consecutiva del español al sueco a cargo de Lena Öhman.</p>
                 <p>Entrada libre.</p>
-                
+                <br />
                 <img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" />
 
                 <!-- <p>Este proyecto ha sido posible con el apoyo de Acción Cultural Española (AC/E), Förfatarrförbundet, Översättarcentrum, Instituto Cervantes de Estocolmo, Universidad de Uppsala, Kulturhuset/Stadsteatern y la Embajada de España en Suecia.</p> -->
