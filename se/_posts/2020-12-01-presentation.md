@@ -142,7 +142,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
                 <p>Skådespelaren Hans Sandquist läser texter av författarna.</p>
                 <p>Moderator: Gaspar Cano, redaktör och tidigare chef för Instituto Cervantes i Stockholm och Berlin.</p>
                 <p>Ambient musik: A. Torgozolla.</p>
-                <p>Med óversättning till svenska av Lena Öhman.</p>
+                <p>Med konsekutiv översättning till svenska av Lena Öhman.</p>
                 <p><b>Gratis inträde</b></p>
                 <img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" />
             </div>
@@ -170,7 +170,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
                 <p>Med:</p>
                 <p>Hans Sandquist, skådespelare</p>
                 <p>Gaspar Cano, redaktör och journalist, tidigare chef för Instituto Cervantes i Stockholm och Berlin, kommer att vara moderator.</p>
-                <p>Med óversättning till svenska av Lena Öhman.</p>
+                <p>Med konsekutiv översättning till svenska av Lena Öhman.</p>
             </div>    
 
         </div><!--del content-collapse-->      
