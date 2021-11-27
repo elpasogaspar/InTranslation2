@@ -57,7 +57,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
                     <li>Hanna Nordenhök
                         <!-- , escritora y traductora de, entre otras, <em>Temporada de huracanes</em>, de la mexicana Fernanda Melchor. -->
                     </li>                    
-                    <lI>Fernando Wachtmeister Bermúdez (escritor y professor en la Universidad de Uppsala)</lI>
+                    <lI>Fernando Wachtmeister Bermúdez (escritor e investigador en la Universidad de Uppsala)</lI>
                     <!-- <li>Jens Nordenhök, traductor de, entre otras, la última versión de <em>El Quijote de la Mancha.</em></li> -->
 
                 </ul>
@@ -138,8 +138,8 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
             <div class="evento" id="lanoche">
                 <h6 class="titulo-evento">Tres escritoras españolas en el <em>alias</em>Teatern</h6>
                 <br />
-                <p>Bienvenidos a la NOCHE DE LA LITERATURA ESPAÑOLA con las tres autoras españoles galardonadas:</p>
-                <p><strong>Olvido García Valdés</strong> (n. 1950) es una de las poetas más importantes de España. Su poemario <em>Y todos estabamos vivos,</em> recibió el Premio Nacional de Poesia en 2007 y fue publicado en sueco a principios de este año con el título, Och alla var vi levande, por la editorial Edda. Otra colección anterior de poemas suyos, <em>Caza nocturna</em>, Nattlig jakt, fue publicada en sueco en 2004 por la editorial Ariel.</p>
+                <p>Bienvenidos a la NOCHE DE LA LITERATURA ESPAÑOLA con las autoras españoles galardonadas:</p>
+                <p><strong>Olvido García Valdés</strong> (n. 1950) es una de las poetas más importantes de España. Su poemario <em>Y todos estabamos vivos,</em> recibió el Premio Nacional de Poesia en 2007 y fue publicado en sueco a principios de este año con el título, <em>Och alla var vi levande</em>, por la editorial Edda. Otra colección anterior de poemas suyos, <em>Caza nocturna</em>, <em>Nattlig jakt</em>, fue publicada en sueco en 2004 por la editorial Ariel.</p>
                 <p><strong>Cristina Morales</strong> (n. 1985) es considerada una de las escritoras jóvenes más prometedoras de España. Una de sus novelas más aclamadas, <em>Lectura fácil</em>, recibió, entre otros, el Premio Nacional de Narrativa en 2019. Ha escrito, entre otras, una novela sobre Teresa de Ávila, <em>Introducción a Teresa de Jesús,</em> publicada por la editorial Anagrama.</p>
                 <p><strong>Clara Usón</strong> (n. 1961) se ha convertido desde su premiado debut de 1998, <em>Las noches de San Juan,</em> en una autora consolidada en España con varias novelas a sus espaldas. Traducida a varios idiomas, su novela <em>Ana (La hija del Este)</em>, sobre la hija de Ratko Mladic, el nacionalismo y la guerra de los Balcanes, acaba de ser publicada por la editorial sueca Ekström &amp; Garay.</p>
                 <p>La agente literaria Ella Sher participará también en este encuentro, que se desarrollará en español con traducción consecutiva al sueco.</p>
@@ -172,7 +172,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
             <div class="evento" id="feria">
                 <h6 class="titulo-evento" id="evento-9">Tres escritoras españolas</h6>
                 <br />
-                <p><b>Olvido García Valdés</b> es una de las poetas más importantes de España y presenta su poemario <em>Y todos estábamos vivos (Och alla var vi levande)</em> Premio Nacional de Poesia en 2007, y publicado en sueco a principios de este año (Editorial Edda).</p>
+                <p><b>Olvido García Valdés</b> es una de las poetas más importantes de España y presenta su poemario <em>Y todos estábamos vivos</em> (<em>Och alla var vi levande</em>) Premio Nacional de Poesía en 2007, y publicado en sueco a principios de este año (Editorial Edda).</p>
                 <p><b>Clara Usón</b> presenta la traducción al sueco de su novela <em>Ana (La hija del Este),</em> inspirada en la hija de Ratko Mladic, Ana, el nacionalismo y la guerra en los Balcanes, y que acaba de publicar la editorial Ekström &amp; Garay.</p>
                 <p><b>Cristina Morales</b>, considerada una de las escritoras jóvenes más prometedoras de España, presenta una de sus novelas más aclamadas y premiadas, <em>Lectura fácil</em> (Editorial Anagrama).</p>
                 <p>Intervienen, además:</p>
@@ -224,10 +224,10 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
         <div class="more" >
             <hr class="separador2"/>
             <p>Estudió derecho y ejerció la abogacía durante 18 años.</p>
-            <p>En 1998 ganó el premio Lumen por su primera novela, NOCHES DE SAN JUAN, a la que siguieron PRIMER VUELO (novela, 2001, El Aleph); EL VIAJE DE LAS PALABRAS (novela, 2003, Plaza &amp; Janés); PERSEGUIDORAS (novela, 2007, Alfaguara); CORAZÓN DE NAPALM (Seix Barral), por la que obtuvo el premio Biblioteca Breve en 2009 .</p>
-            <p>Su novela, LA HIJA DEL ESTE, (Seix Barral 2012) ha sido reeditada nueve veces, ha ganado en España el Premio Ciutat de Barcelona y el prestigioso Premio de la Crítica; en Italia ha sido galardonada con el Premio de la Cultura Mediterránea y en Francia con Le Prix Bouchon de Cultures.</p>
-            <p>Ha sido publicada en Italia por Sellerio (LA FIGLIA), con 6 reediciones hasta la fecha; en Holanda, por Signatuur (ANA MLADIC), en Francia por Gallimard (LA FILLE DE L’EST) y en Portugal por Teodolito (A FILLA DO LESTE). También ha sido traducida al croata, al rumano y al árabe.</p>
-            <p>En octubre de 2015 publicó la novela VALOR, (Seix Barral), traducida al italiano, y el 5 de abril de 2018 ha publicado la novela EL ASESINO TÍMIDO, (Seix Barral), por la que le ha sido concedido el premio literario Sor Juana Inés de la Cruz 2018; traducida al italiano, al portugués, al croata, al rumano y al polaco.</p>
+            <p>En 1998 ganó el premio Lumen por su primera novela, <em>Noches de San Juan</em>, a la que siguieron <em>Primer vuelo</em> (2001, El Aleph); <em>El viaje de las palabras</em> (2003, Plaza &amp; Janés); <em>Perseguidoras</em> (2007, Alfaguara); <em>Corazón de napalm</em> (Seix Barral), por la que obtuvo el premio Biblioteca Breve en 2009.</p>
+            <p>Su novela, <em>La hija del este</em>, (2012, Seix Barral) ha sido reeditada nueve veces, ha ganado en España el Premio Ciutat de Barcelona y el prestigioso Premio de la Crítica; en Italia ha sido galardonada con el Premio de la Cultura Mediterránea y en Francia con Le Prix Bouchon de Cultures.</p>
+            <p>Ha sido publicada en Italia por Sellerio (<em>La figlia</em>), con 6 reediciones hasta la fecha; en Holanda, por Signatuur (<em>Ana Mladic</em>), en Francia por Gallimard (<em>La fille de l’est</em>) y en Portugal por Teodolito (<em>A filla do leste</em>). También ha sido traducida al croata, al rumano y al árabe.</p>
+            <p>En octubre de 2015 publicó la novela <em>Valor</em>, (Seix Barral), traducida al italiano, y el 5 de abril de 2018 ha publicado la novela <em>El asesino tímido</em>, (Seix Barral), por la que le ha sido concedido el premio literario Sor Juana Inés de la Cruz 2018; traducida al italiano, al portugués, al croata, al rumano y al polaco.</p>
         </div>
         <button class="myBtn" onclick="readMore('clara')">Leer más...</button>
     </div>
@@ -340,7 +340,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <div class="texto" id="texto-ella">
         <div class="collapsible">
             <h2 class="titulo">Translation is...
-            <br /> <span class="autor">Ella Sherr</span>
+            <br /> <span class="autor">Ella Sher</span>
             </h2>
             <div class="flechita">
                 <img src="/images/Flecha-down.svg" />
@@ -360,7 +360,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
 
     <div class="texto" id="texto-cristina">
         <div class="collapsible">
-            <h2 class="titulo">En reflektion om översättning
+            <h2 class="titulo">Una reflexión sobre la traducción
             <br /><span class="autor">Cristina Morales</span>
             </h2>
             <div class="flechita">
@@ -384,7 +384,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
             </div>
         </div>
         <div class="content-collapse">
-            <p class="pendiente">Falta la traducción.</p>
+            <p class="pendiente">Pendiente.</p>
         </div> 
     </div>
 
@@ -399,7 +399,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
             </div>
         </div>
         <div class="content-collapse">
-            <p>La pulsión es, para mi, el impulso de la pasión instintiva. La de la traducción, me parece recordar, que era la del impulso, la de la pasión por entender lo desconocido, lo revelado en otro idioma; sí, ahora lo recuerdo: en otro idioma que tampoco nos es del todo desconocido; un destello, una idea, una imagen, un estremecimiento... <em>Die Karlgasse/</em>El callejón Carlos<em>,</em> de Franz K., <em>All that fall/</em> Todos los que caen, de Don Samuel (Beckett), <em>Die Nachtwache des Bonaventuras, XY,</em> Yo, Pierre Riviere, habiendo matado a mi padre y<em>…</em> Sí, sí, sí, esa es, la pulsión por traducir.</p>
+            <p>La pulsión es, para mi, el impulso de la pasión instintiva. La de la traducción, me parece recordar, que era la del impulso, la de la pasión por entender lo desconocido, lo revelado en otro idioma; sí, ahora lo recuerdo: en otro idioma que tampoco nos es del todo desconocido; un destello, una idea, una imagen, un estremecimiento... <em>Die Karlgasse/</em>El callejón Carlos<em>,</em> de Franz K., <em>All that fall/</em> Todo lo que cae, de Don Samuel (Beckett), <em>Die Nachtwache des Bonaventuras, XY, Yo, Pierre Riviere,</em> y... Sí, esa es la pulsión por traducir.</p>
         </div> 
     </div>
     
@@ -438,7 +438,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <hr class="separador"/>
     
     <div class="participante" id="sede3">
-        <div class="foto-cont2" style="margin-top: -3px;"><img class="" src="{{'images/Logga_red.png' | relative_url }}"  alt="logo aliasTeatern" /></div>
+        <div class="foto-cont2" style="margin-top: -7px;"><img class="" src="{{'images/Logga_red.png' | relative_url }}"  alt="logo aliasTeatern" /></div>
         <div class="nombre2"><h2 ><em>alias</em> Teatern</h2></div>    
         <div class="text2 esp" lang="es">
             <p><a href="https://g.page/aliasTEATERN?share" target="_blank"> Hälsingegatan 3<br />
@@ -460,14 +460,14 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <p>En esta sección se ofrecerán transcripciones, videos y audios de las distintas actividades celebradas.</p>
     <br /><br />
     <p>Ladda ner pressmeddelandet på svenska <a href="{{'/images/InTranslation_PR_SE.pdf' | relative_url }}" download="InTranslation_PressRelease" target="_blank"><u>här.</u> &#160;<i class="far fa-file-pdf"></i></a></p>
-    <p>Descargar la nota de prensa en español <a href="{{'/images/InTranslation_PR_ES.pdf' | relative_url }}" download="InTranslation_PressRelease" target="_blank"><u>aquí.</u> &#160;<i class="far fa-file-pdf"></i></a></p>
+    <p>Descargar la nota de prensa en español <a href="{{'/images/InTranslation_PR_ES.pdf' | relative_url }}" download="InTranslation_PressRelease" target="_blank"><u>aquí.</u> &#160;<i class="far fa-file-pdf"></i></a>.</p>
 
 </section><!--publicacion-->
 
 
 <section class="about" id="sec-6">
     <h1>Sobre In Translation / Créditos</h1>
-    <p>In Translation <em>(Spanish literature – Stockholm 2-4 december 2021)</em>, es un proyecto desarrollado y dirigido por Gaspar Cano y Daniel Gustafsson.</p>
+    <p>In Translation <em>(Spanish literature – Stockholm 2-4 december 2021)</em>, es un proyecto desarrollado y codirigido por Gaspar Cano y Daniel Gustafsson.</p>
     <p>Gaspar Cano es filólogo y periodista <em>freelance</em>; exdirector y fundador del Instituto Cervantes de Estocolmo, dirigió el Instituto Cervantes de Berlín durante los años de 2007 al 2012.</p>
     <p>Daniel Gustafsson es director ejecutivo de Översättarcentrum, Estocolmo. Escritor y traductor, antiguo responsable de literatura del Svenska Institutet, instituto nacional de cultura de Suecia.</p>
     <p>Este proyecto ha sido posible con el apoyo de Acción Cultural Española (AC/E) y del Översättarcentrum de Estocolmo.</p>
@@ -478,12 +478,12 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
         <div class="foto-cont2"><img class="" src="{{'/images/oc_logo.png' | relative_url }}"  alt="ella" /></div>        
         <div class="nombre2"><h2 >Översättarcentrum</h2></div>    
         <div class="text2 esp" lang="es">
-            <p>Kontact: Daniel Gustafsson<br />
-                Adress: <a href="https://goo.gl/maps/xD2jLgkZ7hTD5L1C8" target="_blank">Södermannagatan 38, 116 40 Stockholm</a><br />
-                Telefon uppdragsförmedling <a href="tel:+43 108-556 048 41">08-556 048 41</a><br />
+            <p>Contacto: Daniel Gustafsson<br />
+                Dirección: <a href="https://goo.gl/maps/xD2jLgkZ7hTD5L1C8" target="_blank">Södermannagatan 38, 116 40 Stockholm</a><br />
+                Teléfono: <a href="tel:+43 108-556 048 41">08-556 048 41</a><br />
                 e-post: <a mailto="uppdrag@oversattarcentrum.se">uppdrag@oversattarcentrum.se</a><br />
                 e-post kansli: <a mailto="info@oversattarcentrum.se">info@oversattarcentrum.se</a><br />
-                web site: <a href="http://www.oversattarcentrum.se/" target="_blank">www.oversattarcentrum.se</a>
+                web: <a href="http://www.oversattarcentrum.se/" target="_blank">www.oversattarcentrum.se</a>
             </p>      
         </div>
     </div>
@@ -494,7 +494,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
         <div class="nombre2"><h2 >Acción Cultural Española </h2></div>    
         <div class="text2 esp" lang="es">
             <p>Contacto: Raquel Mesa 
-            <br />web site: <a href="https://www.accioncultural.es/" target="_blank">www.accioncultural.es</a>
+            <br />web: <a href="https://www.accioncultural.es/" target="_blank">www.accioncultural.es</a>
             </p>      
         </div>
     </div>  
@@ -505,7 +505,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
         <div class="nombre2"><h2 >El Paso / Gaspar Cano</h2></div>    
         <div class="text2 esp" lang="es">
             <p>e.mail: <a mailto="gaspar.cano@elpaso.se">gaspar.cano@elpaso.se</a></p>             
-            <p>Tlf: <a href="tel:+43 729 386 5001"></a>+43 729 386 500</p>   
+            <p>Tlf: <a href="tel:+43 729 386 5001"></a>+46 (0) 729 386 500</p>   
         </div>
     </div>
     <hr class="separador"/>
@@ -531,7 +531,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
         <div class="nombre2"><h2 >Kulturhuset/Stadsteatern</h2></div>    
         <div class="text2 esp" lang="es">
             <p><a href="https://kulturhusetstadsteatern.se/" target="_blank">www.kulturhusetstadsteatern.se</a><br />
-            Contacto: Ingmar Fasth, responsable programación de literature. <br />
+            Contacto: Ingmar Fasth, responsable programación de literatura. <br />
             <a mailto="ingemar.fasth@stockholm.se">ingemar.fasth@stockholm.se</a>
             </p>      
         </div>
@@ -542,7 +542,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
         <div class="foto-cont2"><img class="" src="{{'/images/UU_logo.jpg' | relative_url }}" height="301" width="388" alt="ella" /></div>        
         <div class="nombre2"><h2 >Universidad de Uppsala</h2></div>    
         <div class="text2 esp" lang="es">
-            <p>Contacto: Fernando Bermúdez Wachmeister, departamento español.<br />
+            <p>Contacto: Fernando Wachmeister Bermúdez<br />
             <a mailto="fernando.bermudez@moderna.uu.se">fernando.bermudez@moderna.uu.se</a>
             </p>      
         </div>
