@@ -2,7 +2,7 @@ es:
     # - name: "Presentación"
     #   url: "/"
 
-    - name: "Programas"
+    - name: "Programa"
       url: "#sec-1"
 
     - name: "Participantes"

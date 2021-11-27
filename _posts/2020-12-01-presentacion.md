@@ -146,6 +146,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
                 <p>El actor Hans Sandquist leerá algunos fragmentos de las obras de las autoras.</p>
                 <p>Moderador: Gaspar Cano, editor y ex director del Instituto Cervantes de Estocolmo y de Berlín.</p>
                 <p>Música ambiental: A. Torgozolla.</p>
+                <p>Con traducción consecutiva del español al sueco a cargo de Lena Öhman.</p>
                 <p>Entrada libre.</p>
                 
                 <img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" />
@@ -176,9 +177,9 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
                 <p><b>Clara Usón</b> presenta la traducción al sueco de su novela <em>Ana (La hija del Este),</em> inspirada en la hija de Ratko Mladic, Ana, el nacionalismo y la guerra en los Balcanes, y que acaba de publicar la editorial Ekström &amp; Garay.</p>
                 <p><b>Cristina Morales</b>, considerada una de las escritoras jóvenes más prometedoras de España, presenta una de sus novelas más aclamadas y premiadas, <em>Lectura fácil</em> (Editorial Anagrama).</p>
                 <p>Intervienen, además:</p>
-                <p>Marika Gedin, traductora</p>
                 <p>Hans Sandquist, actor, leerá fragmentos de las obras y</p>
                 <p>Gaspar Cano, editor y periodista, exdirector del Instituto Cervantes de Estocolmo y de Berlín, que modera el encuentro.</p>
+                <p>Con traducción consecutiva del español al sueco a cargo de Lena Öhman.</p>
                 
             </div> 
 

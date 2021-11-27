@@ -142,6 +142,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
                 <p>Skådespelaren Hans Sandquist läser texter av författarna.</p>
                 <p>Moderator: Gaspar Cano, redaktör och tidigare chef för Instituto Cervantes i Stockholm och Berlin.</p>
                 <p>Ambient musik: A. Torgozolla.</p>
+                <p>Med óversättning till svenska av Lena Öhman.</p>
                 <p><b>Gratis inträde</b></p>
                 <img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" />
             </div>
@@ -167,9 +168,9 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
                 <p><b>Clara Usón</b> är en prisbelönt och internationellt erkänd författare. Hon presenterar sin roman <em>Ana</em> (<em>La hija del Este</em>), som handlar om Ratko Mladics dotter Ana, om nationalism och om kriget på Balkan, och som nyligen kommit ut på förlaget Ekström &amp; Garay (i översättning av Marika Gedin).</p>
                 <p><b>Cristina Morales</b> betraktas som en av Spaniens mest lovande unga författare. Hon presenterar sin uppmärksammade och prisbelönade roman <em>Lectura fácil</em> (Editorial Anagrama).</p>
                 <p>Med:</p>
-                <p>Marika Gedin, översättare</p>
                 <p>Hans Sandquist, skådespelare</p>
                 <p>Gaspar Cano, redaktör och journalist, tidigare chef för Instituto Cervantes i Stockholm och Berlin, kommer att vara moderator.</p>
+                <p>Med óversättning till svenska av Lena Öhman.</p>
             </div>    
 
         </div><!--del content-collapse-->      
