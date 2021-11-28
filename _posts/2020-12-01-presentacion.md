@@ -24,7 +24,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
             <h2 class=""><span class="fecha">2 de diciembre</span>
             <br /><span class="titulo-prog">Seminario de traducción</span>
             <br /><span class="lugar">Lugar: Författarförbundet, Drottninggatan 88B, Estocolmo.</span>
-            <br /><span class="horario">Horario: 10.00 – 18.30</span>
+            <br /><span class="horario">Horario: 10.00–18.30</span>
             </h2>
             <div class="flechita">
                 <img src="/images/Flecha-down.svg" />
@@ -128,7 +128,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
             <h2 class=""><span class="fecha">3 de diciembre</span>
                 <br /><span class="titulo-prog">Tres escritoras españolas en el <em>alias</em>Teatern – La noche de la literatura española</span>
                 <br /><span class="lugar">Lugar: <em>alias</em>Teatern, Hälsingagatan 3, Estocolmo</span>
-                <br /><span class="horario">Horario: 18.00 – 19.30</span>
+                <br /><span class="horario">Horario: 18.00–19.30</span>
             </h2>
             <div class="flechita">
                 <img src="/images/Flecha-down.svg" />
@@ -138,15 +138,15 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
             <div class="evento" id="lanoche">
                 <h6 class="titulo-evento">Tres escritoras españolas en el <em>alias</em>Teatern</h6>
                 <br />
-                <p>Bienvenidos a la NOCHE DE LA LITERATURA ESPAÑOLA con las autoras españoles galardonadas:</p>
-                <p><strong>Olvido García Valdés</strong> (n. 1950) es una de las poetas más importantes de España. Su poemario <em>Y todos estabamos vivos,</em> recibió el Premio Nacional de Poesia en 2007 y fue publicado en sueco a principios de este año con el título, <em>Och alla var vi levande</em>, por la editorial Edda. Otra colección anterior de poemas suyos, <em>Caza nocturna</em>, <em>Nattlig jakt</em>, fue publicada en sueco en 2004 por la editorial Ariel.</p>
-                <p><strong>Cristina Morales</strong> (n. 1985) es considerada una de las escritoras jóvenes más prometedoras de España. Una de sus novelas más aclamadas, <em>Lectura fácil</em>, recibió, entre otros, el Premio Nacional de Narrativa en 2019. Ha escrito, entre otras, una novela sobre Teresa de Ávila, <em>Introducción a Teresa de Jesús,</em> publicada por la editorial Anagrama.</p>
-                <p><strong>Clara Usón</strong> (n. 1961) se ha convertido desde su premiado debut de 1998, <em>Las noches de San Juan,</em> en una autora consolidada en España con varias novelas a sus espaldas. Traducida a varios idiomas, su novela <em>Ana (La hija del Este)</em>, sobre la hija de Ratko Mladic, el nacionalismo y la guerra de los Balcanes, acaba de ser publicada por la editorial sueca Ekström &amp; Garay.</p>
+                <p>Bienvenidos a la NOCHE DE LA LITERATURA ESPAÑOLA con las autoras españolas galardonadas:</p>
+                <p><strong>Olvido García Valdés</strong> (1950) es una de las poetas más importantes de España. Su poemario <em>Y todos estabamos vivos,</em> recibió el Premio Nacional de Poesia en 2007 y fue publicado en sueco a principios de este año con el título, <em>Och alla var vi levande</em>, por la editorial Edda. Otra colección anterior de poemas suyos, <em>Caza nocturna</em>, <em>Nattlig jakt</em>, fue publicada en sueco en 2004 por la editorial Ariel.</p>
+                <p><strong>Cristina Morales</strong> (1985) es considerada una de las escritoras jóvenes más prometedoras de España. Una de sus novelas más aclamadas, <em>Lectura fácil</em>, recibió, entre otros, el Premio Nacional de Narrativa en 2019. Ha escrito, entre otras, una novela sobre Teresa de Ávila, <em>Introducción a Teresa de Jesús,</em> publicada por la editorial Anagrama.</p>
+                <p><strong>Clara Usón</strong> (1961) se ha convertido desde su premiado debut de 1998, <em>Las noches de San Juan,</em> en una autora consolidada en España con varias novelas a sus espaldas. Traducida a varios idiomas, su novela <em>Ana (La hija del Este)</em>, sobre la hija de Ratko Mladic, el nacionalismo y la guerra de los Balcanes, acaba de ser publicada por la editorial sueca Ekström &amp; Garay.</p>
                 <p>La agente literaria Ella Sher participará también en este encuentro, que se desarrollará en español con traducción consecutiva al sueco.</p>
                 <p>El actor Hans Sandquist leerá algunos fragmentos de las obras de las autoras.</p>
                 <p>Moderador: Gaspar Cano, editor y ex director del Instituto Cervantes de Estocolmo y de Berlín.</p>
                 <p>Música ambiental: A. Torgozolla.</p>
-                <p>Con traducción consecutiva del español al sueco a cargo de Lena Öhman.</p>
+                <p>Traducción consecutiva al sueco a cargo de Lena Öhman.</p>
                 <p>Entrada libre.</p>        
                 <div class="cartel"><img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" /></div>
             </div>
@@ -159,7 +159,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
                 <span class="fecha">4 de diciembre</span>
                 <br /><span class="titulo-prog">Tres escritoras españolas – Feria literaria de Estocolmo</span>
                 <br /><span class="lugar">Lugar: Escenario de la biblioteca  – Kulturhuset, Sergeltorget, Estocolmo</span>
-                <br /><span class="horario">Horario: 12.00 – 12.45</span>
+                <br /><span class="horario">Horario: 12.00–12.45</span>
             </h2>
             <div class="flechita">
                 <img src="/images/Flecha-down.svg" />
@@ -175,7 +175,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
                 <p>Intervienen, además:</p>
                 <p>Hans Sandquist, actor, leerá fragmentos de las obras y</p>
                 <p>Gaspar Cano, editor y periodista, exdirector del Instituto Cervantes de Estocolmo y de Berlín, que modera el encuentro.</p>
-                <p>Con traducción consecutiva del español al sueco a cargo de Lena Öhman.</p>
+                <p>Traducción consecutiva al sueco a cargo de Lena Öhman.</p>
                 
             </div> 
 
@@ -202,7 +202,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
         <div class="more" style="display: none;">
             <hr class="separador2"/>
             <p>Licenciada en Filología Románica y en Filosofía. Profesionalmente, ha sido Catedrática de Lengua Castellana y Literatura. Fue también Directora del Instituto Cervantes de Toulouse y Directora General del Libro y Fomento de la Lectura. En la actualidad reside en Toledo.</p>
-            <p>Entre otros, ha recibido el Premio Iberoamericano de Poesía Pablo Neruda 2021, el Premio de las Letras de Asturias 2016, y el Premio Nacional de Poesía 2007 por su libro <em>Y todos estábamos vivos</em> (Tusquets, Barcelona, 2006, 2007). En <em>Esa polilla que delante de mí revolotea. Poesía reunida (1982-2008)</em> (Galaxia Gutenberg, Barcelona, 2008, 2016) se recoge su obra poética entre esas fechas. Posteriormente ha publicado <em>Lo solo del animal</em> (Tusquets, Barcelona, 2012) y, recientemente, <em>confía en la gracia</em> (Tusquets, Barcelona, 2020) y d<em>entro del animal la voz. Antología 1982-2012</em> (Editorial Cátedra, colección Letras Hispánicas, Madrid, 2020). Libros suyos han sido traducidos al francés, inglés, italiano, polaco y sueco; igualmente sus poemas han aparecido en alemán, portugués, rumano, griego, serbio, árabe y chino.</p>
+            <p>Entre otros, ha recibido el Premio Iberoamericano de Poesía Pablo Neruda 2021, el Premio de las Letras de Asturias 2016, y el Premio Nacional de Poesía 2007 por su libro <em>Y todos estábamos vivos</em> (Tusquets, Barcelona, 2006, 2007). En <em>Esa polilla que delante de mí revolotea. Poesía reunida (1982-2008)</em> (Galaxia Gutenberg, Barcelona, 2008, 2016) se recoge su obra poética entre esas fechas. Posteriormente ha publicado <em>Lo solo del animal</em> (Tusquets, Barcelona, 2012) y, recientemente, <em>Confía en la gracia</em> (Tusquets, Barcelona, 2020) y <em>Dentro del animal la voz. Antología 1982-2012</em> (Editorial Cátedra, colección Letras Hispánicas, Madrid, 2020). Libros suyos han sido traducidos al francés, inglés, italiano, polaco y sueco; igualmente sus poemas han aparecido en alemán, portugués, rumano, griego, serbio, árabe y chino.</p>
             <p>Es asimismo autora del ensayo biográfico <em>Teresa de Jesús</em>, de textos para catálogos de artes plásticas (Zush, Kiefer, Vicente Rojo, Tàpies, Juan Soriano, Bienal de Venecia 2001, Broto...) y de numerosos ensayos de reflexión literaria. Ha traducido <em>La religión de mi tiempo</em> y <em>Larga carretera de arena</em> de Pier Paolo Pasolini, y (en colaboración) la antología de Anna Ajmátova y Marina Tsvetáieva <em>El canto y la ceniza</em>, así como <em>El resto del viaje y otros poemas</em>, de Bernard Noël. Ha codirigido la revista <em>Los Infolios</em>, y fue miembro fundador de <em>El signo del gorrión</em> (1992–2002). Ha dirigido o coordinado diversos cursos, seminarios y ciclos de poesía contemporánea.</p>
         </div>
         <button class="myBtn" onclick="readMore('olvido')" >Leer más...</button>
@@ -221,7 +221,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
         <div class="more" >
             <hr class="separador2"/>
             <p>Estudió derecho y ejerció la abogacía durante 18 años.</p>
-            <p>En 1998 ganó el premio Lumen por su primera novela, <em>Noches de San Juan</em>, a la que siguieron <em>Primer vuelo</em> (2001, El Aleph); <em>El viaje de las palabras</em> (2003, Plaza &amp; Janés); <em>Perseguidoras</em> (2007, Alfaguara); <em>Corazón de napalm</em> (Seix Barral), por la que obtuvo el premio Biblioteca Breve en 2009.</p>
+            <p>En 1998 ganó el premio Lumen por su primera novela, <em>Noches de San Juan</em>, a la que siguieron <em>Primer vuelo</em> (2001, El Aleph), <em>El viaje de las palabras</em> (2003, Plaza &amp; Janés), <em>Perseguidoras</em> (2007, Alfaguara) y <em>Corazón de napalm</em> (Seix Barral), obra por la que obtuvo el premio Biblioteca Breve en 2009.</p>
             <p>Su novela, <em>La hija del este</em>, (2012, Seix Barral) ha sido reeditada nueve veces, ha ganado en España el Premio Ciutat de Barcelona y el prestigioso Premio de la Crítica; en Italia ha sido galardonada con el Premio de la Cultura Mediterránea y en Francia con Le Prix Bouchon de Cultures.</p>
             <p>Ha sido publicada en Italia por Sellerio (<em>La figlia</em>), con 6 reediciones hasta la fecha; en Holanda, por Signatuur (<em>Ana Mladic</em>), en Francia por Gallimard (<em>La fille de l’est</em>) y en Portugal por Teodolito (<em>A filla do leste</em>). También ha sido traducida al croata, al rumano y al árabe.</p>
             <p>En octubre de 2015 publicó la novela <em>Valor</em>, (Seix Barral), traducida al italiano, y el 5 de abril de 2018 ha publicado la novela <em>El asesino tímido</em>, (Seix Barral), por la que le ha sido concedido el premio literario Sor Juana Inés de la Cruz 2018; traducida al italiano, al portugués, al croata, al rumano y al polaco.</p>
@@ -473,7 +473,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <p>Gaspar Cano es filólogo y periodista <em>freelance</em>; exdirector y fundador del Instituto Cervantes de Estocolmo, dirigió el Instituto Cervantes de Berlín durante los años de 2007 al 2012.</p>
     <p>Daniel Gustafsson es director ejecutivo de Översättarcentrum, Estocolmo. Escritor y traductor, antiguo responsable de literatura del Svenska Institutet, instituto nacional de cultura de Suecia.</p>
     <p>Este proyecto ha sido posible con el apoyo de Acción Cultural Española (AC/E) y del Översättarcentrum de Estocolmo.</p>
-    <p>Contacto: Gaspar Cano, <a mailto="gaspar.cano@elpaso.se">gaspar.cano@elpaso.se</a>, +43 729 386 500</p>
+    <p>Contacto: Gaspar Cano, <a mailto="gaspar.cano@elpaso.se">gaspar.cano@elpaso.se</a>, +46 729 386 500</p>
     <br />
     <h3>Organizado por</h3>
     <div class="participante">
@@ -483,8 +483,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
             <p>Contacto: Daniel Gustafsson<br />
                 Dirección: <a href="https://goo.gl/maps/xD2jLgkZ7hTD5L1C8" target="_blank">Södermannagatan 38, 116 40 Stockholm</a><br />
                 Teléfono: <a href="tel:+43 108-556 048 41">08-556 048 41</a><br />
-                e-post: <a mailto="uppdrag@oversattarcentrum.se">uppdrag@oversattarcentrum.se</a><br />
-                e-post kansli: <a mailto="info@oversattarcentrum.se">info@oversattarcentrum.se</a><br />
+                e-post: <a mailto="uppdrag@oversattarcentrum.se">uppdrag@oversattarcentrum.se</a><br /><a mailto="info@oversattarcentrum.se">info@oversattarcentrum.se</a><br />
                 web: <a href="http://www.oversattarcentrum.se/" target="_blank">www.oversattarcentrum.se</a>
             </p>      
         </div>

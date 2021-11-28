@@ -468,6 +468,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     <p>Gaspar Cano är redaktör och journalist, tidigare chef för Insituto Cervantes i Stockholm och chef för Instituto Cervantes i Berlin under åren 2007 till 2012.</p>
     <p>Daniel Gustafsson är verksamhetsledare för Översättarcentrum, Stockholm. Han är verksam som författare och översättare och har tidigare arbetat som handläggare och projektledare på Svenska Institutet.</p>
     <p>Detta projekt har möjligjorts med stöd av Acción Cultural Española (AC/E) och Översättarcentrum i Stockholm.</p>
+    <p>Kontakt: Gaspar Cano, <a mailto="gaspar.cano@elpaso.se">gaspar.cano@elpaso.se</a>, +46 (0) 729 386 500</p>
     <br />
     <h3>Medverkande:</h3>
     <br />
@@ -502,7 +503,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
         <div class="nombre2"><h2 >El Paso / Gaspar Cano</h2></div>    
         <div class="text2 esp" lang="es">
             <p>Kontakt: <a href="mailto:gaspar.cano@elpaso.se">gaspar.cano@elpaso.se</a></p>
-            <p>+46 (0) 729386500</p>     
+            <p>+46 (0) 729 386 500</p>     
         </div>
     </div>
     <hr class="separador"/>
