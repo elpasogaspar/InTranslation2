@@ -369,7 +369,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     
     <div class="texto" id="texto-marika">
         <div class="collapsible">
-            <h2 class="titulo">Att söka efter språkets ny vingar
+            <h2 class="titulo">Att söka efter språkets nya vingar
             <br /><span class="autor">Marika Gedin</span>
             </h2>
             <div class="flechita">
@@ -579,7 +579,9 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     <div class="resto-creditos">
         <p>© texter: författarna</p>        
         <p>© fotografi Olvido García Valdés: Su Alonso & Inés Marful</p>
+        <p>© fotografi Clara Usón: Iván Giménez. Seix Barral</p>
         <p>© fotografi Cristina Morales: Javier López Mansilla</p>
+        
         <p>Design: <a href="http://www.tsulibros.com/" target="_blank">This Side Up</a></p>
         <p>Webbpublikation: <a href="https://spandaeditorial.com" target="_blank">Spanda Editorial</a></p>
     </div>
