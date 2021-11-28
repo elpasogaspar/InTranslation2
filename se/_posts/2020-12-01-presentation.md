@@ -142,7 +142,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
                 <p>Skådespelaren Hans Sandquist läser texter av författarna.</p>
                 <p>Moderator: Gaspar Cano, redaktör och tidigare chef för Instituto Cervantes i Stockholm och Berlin.</p>
                 <p>Ambient musik: A. Torgozolla.</p>
-                <p>Med konsekutiv översättning till svenska av Lena Öhman.</p>
+                <p>Tolkning till svenska: Lena Öhman.</p>
                 <p><b>Gratis inträde</b></p>
                 <div class="cartel"><img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" /></div>
 
@@ -171,8 +171,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
                 <p>Med:</p>
                 <p>Hans Sandquist, skådespelare</p>
                 <p>Gaspar Cano, redaktör och journalist, tidigare chef för Instituto Cervantes i Stockholm och Berlin, kommer att vara moderator.</p>
-                <p>Med konsekutiv översättning till svenska av Lena Öhman.</p>
-            </div>    
+                <p>Tolkning till svenska: Lena Öhman.</p>           </div>    
 
         </div><!--del content-collapse-->      
     </div><!--de la jornada-->
@@ -479,7 +478,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
 
 
 <section class="about" id="sec-6">
-    <h1>Om In Translation / Medvärkande</h1>
+    <h1>Om In Translation / Medverkande</h1>
     <p>In Translation <em>(Spansk litteratur, Stockholm 2–4 december 2021)</em> är ett projekt som har planerats och genomförts av Gaspar Cano i samarbete med Daniel Gustafsson.</p>
     <p>Gaspar Cano är redaktör och journalist, tidigare chef för Insituto Cervantes i Stockholm och chef för Instituto Cervantes i Berlin under åren 2007 till 2012.</p>
     <p>Daniel Gustafsson är verksamhetsledare för Översättarcentrum, Stockholm. Han är verksam som författare och översättare och har tidigare arbetat som handläggare och projektledare på Svenska Institutet.</p>
@@ -585,7 +584,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     </div>
     <hr class="separador"/>
 
-    <h3>Ett står tack till:</h3>
+    <h3>Stort tack till:</h3>
     <p>Marika Gedin</p>
     <p>Siri Hultén</p>
     <p>Katrin Ahlgren</p>
