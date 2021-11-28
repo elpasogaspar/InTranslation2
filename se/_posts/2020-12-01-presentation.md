@@ -385,6 +385,22 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
         </div> 
     </div>
 
+    <div class="texto" id="texto-Alberto-Gascon">
+        <div class="collapsible">
+            <h2 class="titulo">Översättarnas arbete
+            <br /><span class="autor">Alberto Gascón</span>
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>
+        <div class="content-collapse">
+            <p>Det tycks ha uppstått en ny våg av erkännande i samhället för översättarnas arbete. Kanske handlar det bara om en ny insikt, snarare än att man verkligen värdesätter det. En blandning av förvåning och villrådighet inför avslöjandet att det bakom verken av den senaste poeten som tilldelades Nobelpriset, den allra hetaste och briljanta bästsäljaren från Asien eller en klassisk författare som återupptäckts av en tongivande kritiker faktiskt finns en översättare. Ja, någon som har besvärat sig om att tillgängliggöra ett verk som annars skulle ha varit obegripligt. Bättre sent än aldrig, och varje framsteg är verkligen välkommet, men det är ändå otillräckligt för ett arbete som är så viktigt och avgörande för den litterära kvaliteten och kulturen inom ett språkområde.</p>
+            <p>Det är samtidigt paradoxalt att denna våg uppstår under en tid av explosiv teknologisk utveckling, då de digitala verktygen underlättar direktöversättning och har gjort den ögonblicklig och tillgänglig för alla, bara ett klick bort. Den här mekaniseringen och standardiseringen av översättning har emellertid synliggjort den skicklighet, exakthet och noggrannhet som en översättare lägger ner i sitt arbete. Det har blivit uppenbart att översättaren är en oundgänglig del av världslitteraturen och att det i nuläget inte finns något som kan mäta sig med översättarens arbete, hur många algoritmer och maskiner man än har tillgång till.</p>
+            <p>Seminarium som det här visar vägen och stärker det nödvändiga arbetet för att återupprätta och synliggöra en yrkesgrupp som ständigt riskerar att undervärderas.</p>
+         </div> 
+    </div>
+
 
     <div class="texto" id="texto-gaspar">
         <div class="collapsible">

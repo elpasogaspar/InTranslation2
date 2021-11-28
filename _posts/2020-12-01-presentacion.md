@@ -390,6 +390,22 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
         </div> 
     </div>
 
+    <div class="texto" id="texto-Alberto-Gascon">
+        <div class="collapsible">
+            <h2 class="titulo">La labor de los traductores
+            <br /><span class="autor">Alberto Gascón</span>
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>
+        <div class="content-collapse">
+            <p>Parece existir una nueva corriente de reconocimiento en la sociedad hacia la labor de los traductores. Tal vez se trate apenas de un descubrimiento y no de una verdadera puesta en valor. Una mezcla de asombro y perplejidad ante la revelación de que detrás de las obras de la última poeta premiada con el Nobel de Literatura, del más deslumbrante y novísimo best-seller llegado de Asia o de ese escritor clásico redescubierto por el crítico prescriptor de turno, había un traductor. Sí, alguien que se había tomado la molestia de hacer accesible una obra de otra manera incomprensible. Más vale tarde que nunca, y cualquier avance en este proceso de reconocimiento no debe sino celebrarse, pero continúa siendo insuficiente para una profesión tan trascendental y decisiva en la calidad literaria y cultural de cualquier comunidad lingüística.</p>
+            <p>No deja de ser paradójico que esta corriente se produzca en un periodo de explosión tecnológica en el que las herramientas digitales han simplificado la traducción directa hasta hacerla inmediata y accesible para todos, a la distancia de un clic. Esta mecanización y estandarización de los procesos, sin embargo, ha terminado por reivindicar la excelencia, el rigor y el cuidado por el detalle que un traductor pone en su trabajo. Ha dejado en evidencia que el traductor es en definitiva una parte indispensable en la literatura mundial y que a día de hoy su labor no tiene competencia, por muchos algoritmos y máquinas que intervengan.</p>
+            <p>Seminarios como este apuntan en la buena dirección y refuerzan el necesario mensaje de reivindicación y visibilización social de una profesión siempre en riesgo de devaluación.</p>
+        </div> 
+    </div>
+        
 
     <div class="texto" id="texto-gaspar">
         <div class="collapsible">
@@ -404,7 +420,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
             <p>La pulsión es, para mi, el impulso de la pasión instintiva. La de la traducción, me parece recordar, que era la del impulso, la de la pasión por entender lo desconocido, lo revelado en otro idioma; sí, ahora lo recuerdo: en otro idioma que tampoco nos es del todo desconocido; un destello, una idea, una imagen, un estremecimiento... <em>Die Karlgasse/</em>El callejón Carlos<em>,</em> de Franz K., <em>All that fall/</em> Todo lo que cae, de Don Samuel (Beckett), <em>Die Nachtwache des Bonaventuras, XY, Yo, Pierre Riviere,</em> y... Sí, esa es la pulsión por traducir.</p>
         </div> 
     </div>
-    
+        
 </section><!--textos-->
 
 
@@ -583,6 +599,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <div class="resto-creditos">
         <p>© de los textos: sus autores</p>        
         <p>© de la foto de Olvido García Valdés: Su Alonso & Inés Marful</p>
+        <p>© de la foto de Clara Usón: Iván Giménez. Seix Barral</p>
         <p>© de la foto de Cristina Morales: Javier López Mansilla</p>
         <p>Diseño: <a href="http://www.tsulibros.com/" target="_blank">This Side Up</a></p>
         <p>Publicación web: <a href="https://spandaeditorial.com" target="_blank">Spanda Editorial</a></p>
