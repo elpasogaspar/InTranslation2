@@ -373,7 +373,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
 
     <div class="texto" id="texto-marika">
         <div class="collapsible">
-            <h2 class="titulo">Att börja översätta en roman
+            <h2 class="titulo">Buscar nuevas alas al idioma
             <br /><span class="autor">Marika Gedin</span>
             </h2>
             <div class="flechita">
@@ -381,7 +381,12 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
             </div>
         </div>
         <div class="content-collapse">
-            <p class="pendiente">Pendiente.</p>
+            <p>Comenzar a traducir una novela, un poema o una colección de poemas es a menudo como iniciar una relación íntima y profunda. Una relación que, por momentos, puede recordar al amor. A ese estado de curiosidad amorosa le favorece, por supuesto, el hecho de que, como suele ser en mi caso, soy yo la que elige el texto que quiero traducir.</p>
+            <p>Tras un primer encuentro que despierta mi interés y que me atrae, comienzo a aproximarme al texto con cuidado. Cuando ya he empezado a comprenderlo mejor en su conjunto, trato de escuchar la voz detrás de las palabras. Luego el tono, la melodía, el ritmo. Y una vez que hemos empezado a hacernos amigos de verdad y que, tras un largo período de trabajo, creo que he empezado a conocer la obra en profundidad, llega la hora de la sinceridad más brutal. Una sinceridad que solo se puede mostrar a quien es realmente cercano, con quién te sientes cómodo y a quién conoces bien. Una sinceridad dirigida tanto a mí como al texto con el que trabajo.</p>
+            <p>Es entonces cuando hay que encontrar un equilibrio lo más perfecto posible entre el sentimiento de los diferentes idiomas, alcanzar los acuerdos óptimos, tomar las decisiones más complejas, adoptar las medidas más difíciles.</p>
+            <p>Cuando ya no puedo más, cuando ya no puedo ni quitar ni añadir nada más, llega la difícil separación; hay que entregar el texto y ceder mi control sobre él. Y tratar de no preocuparme por los pensamientos que me asaltan sobre lo que podría haber hecho de una manera diferente, sobre lo que pude malinterpretar…</p>
+            <p>Afortunadamente, es una separación en dos fases. La mayoría de las veces el texto aterriza primero en la mesa de un editor que, con su mirada externa, sus conocimientos y su sensibilidad por el lenguaje sale al rescate cuando tus propias palabras te han cegado. Y luego, después de ese proceso, finalmente llega la hora en que la obra vuela con las alas del nuevo lenguaje, lejos del control tanto del autor como del traductor.</p>
+            <p class="traductor">Traducción del sueco de Gaspar Cano</p>            
         </div> 
     </div>
 

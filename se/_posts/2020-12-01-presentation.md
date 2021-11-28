@@ -369,7 +369,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     
     <div class="texto" id="texto-marika">
         <div class="collapsible">
-            <h2 class="titulo">Att börja översätta en roman
+            <h2 class="titulo">Att söka efter språkets ny vingar
             <br /><span class="autor">Marika Gedin</span>
             </h2>
             <div class="flechita">
