@@ -568,6 +568,13 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     </div>
     <hr class="separador"/>
 
+    <h3>Ett står tack till:</h3>
+    <p>Marika Gedin</p>
+    <p>Siri Hultén</p>
+    <p>Katrin Ahlgren</p>
+    <p>...</p>    
+
+
     <div class="resto-creditos">
         <p>© texter: författarna</p>        
         <p>© fotografi Olvido García Valdés: Su Alonso & Inés Marful</p>

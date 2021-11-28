@@ -576,6 +576,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <h3>Agradecemos la colaboración de:</h3>
     <p>Marika Gedin</p>
     <p>Siri Hultén</p>
+    <p>Katrin Ahlgren</p>
     <p>...</p>    
  
     <hr class="separador"/>
