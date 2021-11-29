@@ -192,7 +192,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
         <p>Olvido García Valdés är en av Spaniens mest betydande poeter. Hon har bland annat mottagit el Premio Iberoamericano de Poesía Pablo Neruda år 2021, och Premio Nacional de Poesía år 2007 för sin diktsamling <em>Y todos estábamos vivos</em> som publicerades på Edda förlag tidigare i år under titeln <em>Och alla var vi levande</em> (Bokförlaget Edda 2021). 
             <span class="dots"></span>
         </p>  
-        <div class="more" style="display: none;">
+        <div class="more">
             <hr class="separador2"/>
             <p>Olvido García Valdés (1950) har under sitt yrkesliv arbetat som professor i spanska och litteraturvetenskap. Hon har också varit chef för Cervantesinstitutet i Toulouse och under en period var hon ansvarig för kultur- och idrottsministeriets generaldirektorat för litteratur och läsfrämjande. För närvarande är hon bosatt i Toledo.</p>
             <p>Hon har bland annat mottagit El Premio Iberoamericano de Poesía Pablo Neruda år 2021, El Premio de las Letras de Asturias år 2016 och Premio Nacional de Poesía år 2007 för sin diktsamling <em>Y todos estábamos vivos</em> (Tusquets, Barcelona 2006, 2007), utgiven 2021 på svenska under titeln <em>Och alla var vi levande</em> (Bokförlaget Edda). På svenska finns också <em>Nattlig jakt</em> (Ariel skrifter 2004).</p>
@@ -234,7 +234,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
         <p>Cristina Morales roman <em>Lectura fácil </em>(Anagrama 2018) har tilldelats Premio Nacional de Narrativa.
             <span class="dots"></span>
         </p>
-        <div class="more" style="display: none;">
+        <div class="more">
             <hr class="separador2"/>
             <p>Cristina Morales (1985) är bosatt i Granada och har givit ut romanerna <em>Lectura fácil</em> (Anagrama 2018) för vilken hon 2019 tilldelades Premio Nacional de Narrativa 2019 och Premio Herralde de Novela 2018, <em>Terroristas modernos</em> (Candaya 2017), <em>Últimas tardes con Teresa de Jesús</em> (Lumen 2015, Anagrama 2020) och <em>Los combatientes</em> (Caballo de Troya 2013, Anagrama 2020) som tilldelades INJUVE de Narrativa 2012. Hon har även givit ut novellsamlingen <em>La merienda de las niñas</em> (Cuadernos del Vigía, 2008) och flera av hennes noveller har publicerats i antologier och litterära tidskrifter. Cristina Morales är också verksam som dramatiker och har bland annat arbetat med Sol Picó, Sara Molina, Teatro Nacional de Cataluña och Teatro del Barrio. 2021 tilldelades hon ett stipendium från Real Academia de España en Roma, 2017 fick hon Montserrat Roigs skrivstipendium, 2015 tilldelades hon ett stipendium från Han Nefkens Foundation och 2007 fick hon Fundación Antonio Galas stipendium för unga konstnärer. 2021 utnämndes hon till en av de 25 bästa spanskspråkiga författarna under 35 år av tidskriften Granta.</p>
             <p>Hon har en examen i juridik och statsvetenskap med inriktning på internationella relationer och är dessutom verksam som dansare och koreograf på <a href="http://www.iniciativasexualfemenina.es">Iniciativa Sexual Femenina</a>, som exekutiv producent för punkbandet <a href="http://at-asko.bandcamp.com">At-Asko</a> och som arkivarie och spridare av gatupoesi på kollektivet BachiniBachini (Instagram: @bachini.bachini).</p>
@@ -255,7 +255,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
         <p>Jordi Gracia är litteraturkritiker, professor i spansk litteratur vid Barcelona universitetet och biträdande opinionschef för tidningen El País.            
             <span class="dots"></span>
         </p>
-        <div class="more" style="display: none;">
+        <div class="more">
             <hr class="separador2"/>
             <p>Jordi Gracia har skrivit flera böcker om Spaniens intellektuella och spansk litteraturhistoria under 1900-talet samt biografier om Cervantes och José Ortega y Gasset. Han har publicerat essäerna <em>Estado y cultura, La resistencia silenciosa</em> (Premio Anagrama de Ensayo 2004), <em>La vida rescatada de Dionisio Ridruejo, A la intemperie</em> y <em>Javier Pradera o el poder de la izquierda, Medio siglo de cultura democrática </em>och<em> El intelectual melancólico</em> y <em>Contra la izquierda. Para seguir siendo de izquierdas en el siglo XXI.</em></p>        
         </div>  
