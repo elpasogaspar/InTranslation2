@@ -307,15 +307,6 @@ section.textos {
   }
 }
 
-                              // Collapsibles
-                // readMore
-  .dots {}
-
-  .more {
-    display: none;
-    -webkit-transition: display .15s cubic-bezier(.33,.66,.66,1);
-    transition: display 1s ease-out;
-  }
   .myBtn {
     background-color: transparent;
     color:$grey-links;
@@ -483,12 +474,14 @@ section.textos {
 
 
                 // readMore
-.dots {}
-
+.dots {
+  transition: all 400ms ease-in;
+}
 .more {
-  display: none;
-  -webkit-transition: display .15s cubic-bezier(.33,.66,.66,1);
-  transition: display 1s ease-out;
+  height: 0;
+  transform: scaleY(0);    
+  transform-origin: top;
+  transition: all 300ms ease-in;
 }
 
 .myBtn {
