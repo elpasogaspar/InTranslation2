@@ -148,7 +148,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
                 <p>Música ambiental: A. Torgozolla.</p>
                 <p>Traducción consecutiva al sueco a cargo de Lena Öhman.</p>
                 <p>Entrada libre.</p>        
-                <div class="cartel"><img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" /></div>
+                <div class="cartel"><img class="fot" src="{{'/images/1_aliasTeatern_banner_ok_low.jpg' | relative_url }}" alt="ella" /></div>
             </div>
         </div><!--del content-collapse-->       
     </div><!--de la jornada 3-->
@@ -175,7 +175,8 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
                 <p>Intervienen, además:</p>
                 <p>Hans Sandquist, actor, leerá fragmentos de las obras y</p>
                 <p>Gaspar Cano, editor y periodista, exdirector del Instituto Cervantes de Estocolmo y de Berlín, que modera el encuentro.</p>
-                <p>Traducción consecutiva al sueco a cargo de Lena Öhman.</p>
+                <p>Traducción consecutiva al sueco a cargo de Lena Öhman.</p>     
+                <div class="cartel"><img class="fot" src="{{'/images/2_Kulturhuset_banner_low.jpg' | relative_url }}" alt="ella" /></div>
                 
             </div> 
 

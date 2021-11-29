@@ -123,7 +123,7 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     <div class="jornada" id="jornada-2">
         <div class="collapsible">
             <h2 class=""><span class="fecha">3 december</span>
-            <br /><span class="titulo-prog">Möte med tre prisbelönta spanska författare – Den spanska litteraturens natt</span>
+            <br /><span class="titulo-prog">Möte med tre prisbelönta spanska författare – Den spanska litteraturens kväll</span>
             <br /><span class="lugar">Plats: <em>alias</em>Teatern, Hälsingagatan 3, Stockholm</span>
             <br /><span class="horario">Tid: 18.00–19.30</span>
             </h2>
@@ -143,8 +143,8 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
                 <p>Moderator: Gaspar Cano, redaktör och tidigare chef för Instituto Cervantes i Stockholm och Berlin.</p>
                 <p>Ambient musik: A. Torgozolla.</p>
                 <p>Tolkning till svenska: Lena Öhman.</p>
-                <p><b>Gratis inträde</b></p>
-                <div class="cartel"><img class="fot" src="{{'/images/banner_natt.jpg' | relative_url }}" alt="ella" /></div>
+                <p>Gratis inträde.</p>
+                <div class="cartel"><img class="fot" src="{{'/images/1_aliasTeatern_banner_ok_low.jpg' | relative_url }}" alt="ella" /></div>
 
             </div>
         </div><!--del content-collapse-->       
@@ -169,9 +169,10 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
                 <p><b>Clara Usón</b> är en prisbelönt och internationellt erkänd författare. Hon presenterar sin roman <em>Ana</em> (<em>La hija del Este</em>), som handlar om Ratko Mladics dotter Ana, om nationalism och om kriget på Balkan, och som nyligen kommit ut på förlaget Ekström &amp; Garay (i översättning av Marika Gedin).</p>
                 <p><b>Cristina Morales</b> betraktas som en av Spaniens mest lovande unga författare. Hon presenterar sin uppmärksammade och prisbelönade roman <em>Lectura fácil</em> (Editorial Anagrama).</p>
                 <p>Med:</p>
-                <p>Hans Sandquist, skådespelare</p>
+                <p>Hans Sandquist, skådespelare.</p>
                 <p>Gaspar Cano, redaktör och journalist, tidigare chef för Instituto Cervantes i Stockholm och Berlin, kommer att vara moderator.</p>
                 <p>Tolkning till svenska: Lena Öhman.</p>           </div>    
+                <div class="cartel"><img class="fot" src="{{'/images/2_Kulturhuset_banner_low.jpg' | relative_url }}" alt="ella" /></div>
 
         </div><!--del content-collapse-->      
     </div><!--de la jornada-->
@@ -251,12 +252,12 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     <div class="foto-cont2"><img class="fot" src="{{'/images/Jordi_Gracia.jpg' | relative_url }}" alt="ella" /></div>
     <div class="nombre2"><h2>Jordi Gracia García</h2></div>
     <div class="text2 esp" lang="es">
-        <p>Litteraturkritiker, professor i spansk litteratur vid Barcelona universitetet och biträdande opinionschef för tidningen El País.            
+        <p>Jordi Gracia är litteraturkritiker, professor i spansk litteratur vid Barcelona universitetet och biträdande opinionschef för tidningen El País.            
             <span class="dots"></span>
         </p>
         <div class="more" style="display: none;">
             <hr class="separador2"/>
-            <p>Jordi García har skrivit flera böcker om Spaniens intellektuella och spansk litteraturhistoria under 1900-talet samt biografier om Cervantes och José Ortega y Gasset. Han har publicerat essäerna <em>Estado y cultura, La resistencia silenciosa</em> (Premio Anagrama de Ensayo 2004), <em>La vida rescatada de Dionisio Ridruejo, A la intemperie</em> y <em>Javier Pradera o el poder de la izquierda, Medio siglo de cultura democrática </em>och<em> El intelectual melancólico</em> y <em>Contra la izquierda. Para seguir siendo de izquierdas en el siglo XXI.</em></p>        
+            <p>Jordi Gracia har skrivit flera böcker om Spaniens intellektuella och spansk litteraturhistoria under 1900-talet samt biografier om Cervantes och José Ortega y Gasset. Han har publicerat essäerna <em>Estado y cultura, La resistencia silenciosa</em> (Premio Anagrama de Ensayo 2004), <em>La vida rescatada de Dionisio Ridruejo, A la intemperie</em> y <em>Javier Pradera o el poder de la izquierda, Medio siglo de cultura democrática </em>och<em> El intelectual melancólico</em> y <em>Contra la izquierda. Para seguir siendo de izquierdas en el siglo XXI.</em></p>        
         </div>  
         <button class="myBtn" onclick="readMore('jordi')" >Läs mer ...</button>  
     </div>
