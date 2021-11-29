@@ -3,7 +3,7 @@
 header_image: 'IT_Logo-2.svg'
 # header_caption: 'Spanish literature – Stockholm 2-4 december 2021'
 # fullwidth: true
-permalink: / 
+permalink: /se/presentacion
 language: es
 language-ref: presentacion
 description: Desde la perspectiva industrial de la literatura ponemos en valor la decisiva labor del traductor

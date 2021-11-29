@@ -1,24 +1,24 @@
 es:
     # - name: "Presentación"
-    #   url: "/"
+    #   url: "se/"
 
     - name: "Programa"
-      url: "#sec-1"
+      url: "se/presentacion#sec-1"
 
     - name: "Participantes"
-      url: "#sec-2"
+      url: "se/presentacion#sec-2"
 
     - name: "Textos"
-      url: "#sec-3"
+      url: "se/presentacion#sec-3"
 
     - name: "Sedes"
-      url: "#sec-4"
+      url: "se/presentacion#sec-4"
 
     - name: "Publicación"
-      url: "#sec-5"  
+      url: "se/presentacion#sec-5"  
 
     - name: "About"
-      url: "#sec-6" 
+      url: "se/presentacion#sec-6" 
 
   
 
@@ -27,25 +27,25 @@ es:
 
 se: 
     # - name: "Presentation"
-    #   url: "se/"
+    #   url: "/"
 
     - name: "Program"
-      url: "se/presentation#sec-1"
+      url: "#sec-1"
 
     - name: "Deltagare"
-      url: "se/presentation#sec-2"
+      url: "#sec-2"
 
     - name: "Texter"
-      url: "se/presentation#sec-3"
+      url: "#sec-3"
 
     - name: "Platser"
-      url: "se/presentation#sec-4"
+      url: "#sec-4"
 
     - name: "Publikationer"
-      url: "se/presentation#sec-5"        
+      url: "#sec-5"        
 
     - name: "Om oss"
-      url: "se/presentation#sec-6"  
+      url: "#sec-6"  
 
 
 
