@@ -1,15 +1,17 @@
 {% comment %}
 *
-*   This include gets injected into the layout just before the
-*   end of the HTML document.
+* This include gets injected into the layout just before the
+* end of the HTML document.
 *
 {% endcomment %}
 {% if site.google_analytics_tracking_id %}
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
   ga('create', '{{ site.google_analytics_tracking_id }}', 'auto');
   ga('set', 'anonymizeIp', true);
@@ -19,45 +21,47 @@
 {% endif %}
 
 
-                              <!-- JS Collapsible this.nextElementSibling -->
+<!-- JS Collapsible this.nextElementSibling -->
 <script>
   var coll = document.getElementsByClassName("collapsible");
   var i;
 
   for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-      this.classList.toggle("active");   
+    coll[i].addEventListener("click", function () {
+      this.classList.toggle("active");
       var content = this.nextElementSibling;
-      if (content.style.maxHeight){
+      if (content.style.maxHeight) {
         content.style.maxHeight = null;
       } else {
         content.style.maxHeight = content.scrollHeight + "px";
-      } 
+      }
     });
   }
 </script>
 
 
-                              <!-- readMore -->
+<!-- readMore -->
 
 
-                              
+
 <script>
-var lang = '{{ page.language }}';
+  var lang = '{{ page.language }}';
 
-function readMore(part) {
+  function readMore(part) {
     let dots = document.querySelector(`.card[data-part="${part}"] .dots`);
-    let moreText = document.querySelector(`.card[data-part="${part}"] .more`); 
+    let moreText = document.querySelector(`.card[data-part="${part}"] .more`);
     let btnText = document.querySelector(`.card[data-part="${part}"] .myBtn`);
 
-    if (dots.style.display == "none") {
-        dots.style.display = "inline";
-        btnText.textContent = lang == "es" ? "Leer más..." : "Läs mer ...";
-        moreText.style.display = "none";
+    if (dots.style.opacity == "0") {
+      dots.style.opacity = "1";
+      btnText.textContent = lang == "es" ? "Leer más..." : "Läs mer ...";
+      moreText.style.transform = "scaleY(0)";
+      moreText.style.height = "0";
     } else {
-        dots.style.display = "none";
-        btnText.textContent = lang == "es" ? "Leer menos" : "Läs mindre";
-        moreText.style.display = "inline";
+      dots.style.opacity = "0";
+      btnText.textContent = lang == "es" ? "Leer menos" : "Läs mindre";
+      moreText.style.transform = "scaleY(1)";
+      moreText.style.height = "auto";
     }
-}
+  }
 </script>

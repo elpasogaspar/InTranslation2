@@ -200,7 +200,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
             <span class="dots"></span>
         </p>  
         
-        <div class="more" style="display: none;">
+        <div class="more">
             <hr class="separador2"/>
             <p>Licenciada en Filología Románica y en Filosofía. Profesionalmente, ha sido Catedrática de Lengua Castellana y Literatura. Fue también Directora del Instituto Cervantes de Toulouse y Directora General del Libro y Fomento de la Lectura. En la actualidad reside en Toledo.</p>
             <p>Entre otros, ha recibido el Premio Iberoamericano de Poesía Pablo Neruda 2021, el Premio de las Letras de Asturias 2016, y el Premio Nacional de Poesía 2007 por su libro <em>Y todos estábamos vivos</em> (Tusquets, Barcelona, 2006, 2007). En <em>Esa polilla que delante de mí revolotea. Poesía reunida (1982-2008)</em> (Galaxia Gutenberg, Barcelona, 2008, 2016) se recoge su obra poética entre esas fechas. Posteriormente ha publicado <em>Lo solo del animal</em> (Tusquets, Barcelona, 2012) y, recientemente, <em>Confía en la gracia</em> (Tusquets, Barcelona, 2020) y <em>Dentro del animal la voz. Antología 1982-2012</em> (Editorial Cátedra, colección Letras Hispánicas, Madrid, 2020). Libros suyos han sido traducidos al francés, inglés, italiano, polaco y sueco; igualmente sus poemas han aparecido en alemán, portugués, rumano, griego, serbio, árabe y chino.</p>
@@ -217,7 +217,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <div class="nombre2"><h2>Clara Usón</h2></div>
     <div class="text2 esp" lang="es">
         <p>Premio Nacional de la crítica por <em>La hija del este</em>, que presentará en Estocolmo en su edición sueca. 
-            <span class="dots"></span>
+            <span class="dots">...</span>
         </p>
         <div class="more" >
             <hr class="separador2"/>
@@ -227,7 +227,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
             <p>Ha sido publicada en Italia por Sellerio (<em>La figlia</em>), con 6 reediciones hasta la fecha; en Holanda, por Signatuur (<em>Ana Mladic</em>), en Francia por Gallimard (<em>La fille de l’est</em>) y en Portugal por Teodolito (<em>A filla do leste</em>). También ha sido traducida al croata, al rumano y al árabe.</p>
             <p>En octubre de 2015 publicó la novela <em>Valor</em>, (Seix Barral), traducida al italiano, y el 5 de abril de 2018 ha publicado la novela <em>El asesino tímido</em>, (Seix Barral), por la que le ha sido concedido el premio literario Sor Juana Inés de la Cruz 2018; traducida al italiano, al portugués, al croata, al rumano y al polaco.</p>
         </div>
-        <button class="myBtn" onclick="readMore('clara')">Leer más...</button>
+        <button class="myBtn" onclick="readMore('clara')">Leer más</button>
     </div>
 </div>
 
@@ -239,14 +239,14 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <div class="nombre2"><h2>Cristina Morales</h2></div>
     <div class="text2 esp" lang="es">
         <p>Premio Nacional de Literatura 2019 por su obra <em>Lectura fácil</em>.
-            <span class="dots"></span>
+            <span class="dots">...</span>
         </p>
-        <div class="more" style="display: none;">
+        <div class="more" >
             <hr class="separador2"/>
             <p>Cristina Morales (Granada, 1985) es autora de las novelas <em>Lectura fácil</em> (Anagrama, Premio Nacional de Narrativa 2019 y Premio Herralde de Novela 2018), <em>Terroristas modernos</em> (Candaya, 2017), <em>Últimas tardes con Teresa de Jesús</em> (Lumen 2015, Anagrama 2020) y <em>Los combatientes</em> (Caballo de Troya 2013, Anagrama 2020), galardonada con el Premio INJUVE de Narrativa 2012; así como del libro de relatos <em>La merienda de las niñas</em> (Cuadernos del Vigía, 2008). Sus cuentos han aparecido en numerosas antologías y revistas literarias. Como dramaturga ha trabajado, entre otras, para Sol Picó, Sara Molina, el Teatro Nacional de Cataluña y el Teatro del Barrio. En 2021 le fue concedida la Beca de la Real Academia de España en Roma, en 2017 la Beca de Escritura Montserrat Roig, en 2015 la de la Fundación Han Nefkens y en 2007 la de la Fundación Antonio Gala para Jóvenes Creadores. En 2021 fue seleccionada por la revista Granta entre los 25 mejores escritores en español menores de 35 años.</p>
             <p>Licenciada en Derecho y en Ciencias Políticas y especialista en Relaciones Internacionales, es bailarina y coreógrafa de <a href="http://www.iniciativasexualfemenina.es/"><em>Iniciativa Sexual Femenina</em></a>, productora ejecutiva de la banda de punk <a href="https://www.facebook.com/pages/category/Musician-Band/At-asko-1152363591571935/"><em>At-Asko</em></a> y archivera y difusora de mugrelindas con el colectivo <a href="https://www.instagram.com/bachini.bachini/?hl=es"><em>BachiniBachini.</em></a></p>
         </div>
-        <button class="myBtn" onclick="readMore('cristina')">Leer más...</button>        
+        <button class="myBtn" onclick="readMore('cristina')">Leer más</button>        
     </div>
 </div>
 
@@ -257,13 +257,13 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <div class="nombre2"><h2>Jordi Gracia García</h2></div>
     <div class="text2 esp" lang="es">
         <p>Crítico literario, catedrático de literatura española Universidad de Barcelona y subdirector de opinión del periódico El País.
-            <span class="dots"></span>
+            <span class="dots">...</span>
         </p>
-        <div class="more" style="display: none;">
+        <div class="more" >
             <hr class="separador2"/>
             <p>Ha escrito varios libros sobre la historia intelectual y literaria de España en el siglo XX y las biografías de Cervantes y de José Ortega y Gasset. Ha publicado, entre otros, los ensayos<em> Estado y cultura, La resistencia silenciosa</em> (Premio Anagrama de Ensayo en 2004), <em>La vida rescatada de Dionisio Ridruejo, A la intemperie</em> y <em>Javier Pradera o el poder de la izquierda. Medio siglo de cultura democrática</em>.</p>        
         </div>  
-        <button class="myBtn" onclick="readMore('jordi')" >Leer más...</button>  
+        <button class="myBtn" onclick="readMore('jordi')" >Leer más</button>  
     </div>
 </div>
 
