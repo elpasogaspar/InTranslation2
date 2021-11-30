@@ -508,7 +508,7 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <p>In Translation <em>(Spanish literature – Stockholm 2-4 december 2021)</em>, es un proyecto desarrollado y codirigido por Gaspar Cano y Daniel Gustafsson.</p>
     <p>Gaspar Cano es filólogo y periodista <em>freelance</em>; exdirector y fundador del Instituto Cervantes de Estocolmo, dirigió el Instituto Cervantes de Berlín durante los años de 2007 al 2012.</p>
     <p>Daniel Gustafsson es director ejecutivo de Översättarcentrum, Estocolmo. Escritor y traductor, antiguo responsable de literatura del Svenska Institutet, instituto nacional de cultura de Suecia.</p>
-    <p>Este proyecto ha sido posible con el apoyo de Acción Cultural Española (AC/E) y del Översättarcentrum de Estocolmo.</p>
+    <p>Este proyecto ha sido posible con el apoyo de Acción Cultural Española (AC/E) –gracias al Programa para la Internacionalización de la Cultura Española (PICE)– y del Översättarcentrum de Estocolmo.</p>
     <p>Contacto: Gaspar Cano, <a mailto="gaspar.cano@elpaso.se">gaspar.cano@elpaso.se</a>, +46 729 386 500</p>
     <br />
     <h3>Organizado por</h3>
