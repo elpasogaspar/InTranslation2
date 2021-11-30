@@ -385,6 +385,25 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
         </div> 
     </div>
 
+    <div class="texto" id="texto-Ulf">
+        <div class="collapsible">
+            <h2 class="titulo">Att översätta förtätad prosa – exemplet Juan Benet
+            <br /><span class="autor">Ulf Eriksson</span>
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>
+        <div class="content-collapse">
+            <p>Jag har översatt poeter som Gloria Gervitz, Antonio Gamoneda och, nu tillsammans med Marika Gedin, Olvido García Valdés; men i det här sammanhanget skulle jag vilja erbjuda några korta överväganden beträffande ett översättningsprojekt med prosa som blev en smula speciellt, såtillvida som det handlar om en prosa med avsevärda poetiska kvaliteter.</p>
+            <p>Jag tror att det bland majoriteten av översättare i dag råder enighet om att översättningskonsten inte bör betraktas som en sekundär eller parasitär aktivitet, och inte heller som något &quot;nödvändigt ont&quot;, utan som en kreativ verksamhet med egenvärde. Under mitt nu fullbordade arbete med att skapa en svensk version av romanen <em>Volverás a Región</em> (<em>Du kommer åter till Región</em>), av Juan Benet (1927-1993) fick jag möjlighet att utröna i vilken bemärkelse översättandet skulle kunna utgöra en sådan kreativ syssla i egen rätt. Jag sällade mig då till en tradition gällande översättningspraxis som har sina moderna rötter i essän &quot;Översättarens uppgift&quot; av filosofen Walter Benjamin, en tradition som väl summeras i titeln på en essä av den svenske forskaren Lars Kleberg: &quot;Översättaren som skådespelare&quot;. Där kontrasterar Kleberg ett &quot;genomskinligt&quot; översättningsideal – förkastat av honom – mot ett ideal som &quot;vill göra språkets språklighet tydlig&quot; genom att låta källtextens stil och retorik påverka måltextens språkliga substans.</p>
+            <p>Som välkänt är, innebär Benets stilsträvan i hans stora roman ett flertal utmaningar.</p>
+            <p>Poeten och kritikern Pere Gimferrer sammanfattade i en recension (i tidskriften Papeles de Son Armadans, 1969) dessa utmaningars art: &quot;Vid ett första närmande kan boken överraska med sin svårighetsgrad. Man kan frukta att det inte råder någon brist på läsare som finner det påfrestande att övervinna detta initiala hinder. Stilen är komplex, utstuderad intill den avsiktliga förkonstlingen, rik på syntaktiska och lingvistiska exotismer. Den extrema, ibland helt egenartade adjektiveringen, periodens längd och komplexitet, den avsiktliga tillgjordheten hänvisar till ett välkänt släkte av författare: det handlar, med nödvändiga förbehåll, om Poes, Conrads, Faulkners och Malcolm Lowrys klimat...&quot;. Gimferrer konstaterar också att på handlingsplanet erbjuder texten ett slags olösbart pussel, ett berättande av respektingivande täthet som sluter sig kring sin egen hemlighet under det att det stora temat utarbetas och den berättade världens förfall och utplåning sätts i scen.</p>
+            <p>För att skapa en svenskspråkig stil med kapacitet att ta emot något av denna energi var det nödvändigt att bete sig som ett slags förrädare i förhållande till dagens i vårt land rådande stilideal. Det var nödvändigt att &quot;tänja&quot; syntaxen och i viss mån återknyta, givetvis utan att gå för långt, till latinskolornas retorik, övergiven sedan mer än ett sekel i vårt land, och att därvidlag dessutom låta mig inspireras av ett antal samtida författare som odlar en liknande stil: Julien Gracq, Claude Simon, Le Clézio, László Krasznahorkai, Cristoph Ransmayr, Juan José Saer, och även enstaka svenskar som Birgitta Trotzig eller Lars Gyllensten. Det var, för att summera, nödvändigt att etablera en stilistisk och retorisk förståelse <em>innan arbetet inleddes</em>, detta för att begripa, inte bara vad Benet egentligen sade, utan också vad han ville åstadkomma med sitt sätt att säga det. Att mer eller mindre i blindo kasta sig in i denna text hade varit en satsning dömd att misslyckas på grund av förhastade beslut att förenkla syntaxen, onödigtvis ändra ordföljden, göra syftningarna mer &quot;svenska&quot; osv. Det gällde tvärtom att i målspråket (åter)skapa en värld, en katastrof (framför andra av mindre omfattning det spanska inbördeskriget, vilket iscensätts i det imaginära landskap som kallas Región) och en röst, den orkestrala rösten hos Juan Benet som sade i en intervju: &quot;Glöm inte att skrivandet är ett sätt att säga att du inte förmår skapa musik.&quot; Det har varit ett äventyr och en njutning att åtminstone försöka närma sig detta på mitt eget språk.</p>
+        </div> 
+    </div>
+
+
     <div class="texto" id="texto-Alberto-Gascon">
         <div class="collapsible">
             <h2 class="titulo">Översättarnas arbete
