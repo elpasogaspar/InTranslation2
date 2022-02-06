@@ -497,7 +497,19 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <h1>Publicación</h1>
     <p>En esta sección se ofrecerán transcripciones, videos y audios de las distintas actividades celebradas.</p>
     <br /><br />
+
+    <hr style="border-bottom: 1px solid black" />
+    <p>Entrevista de Gaspar Cano a Cristina Morales
+        con motivo de la presentación de su obra
+     <em>Lectura fácil</em></p>
+    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674228077?h=976e8c01ec&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Entrevista a Cristina Morales, Lectura f&amp;aacute;cil"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+ 
+   
+    <br /><br />
+   
+    <hr style="border-bottom: 1px solid black" />
     <p>Ladda ner pressmeddelandet på svenska <a href="{{'/images/InTranslation_PR_SE.pdf' | relative_url }}" download="InTranslation_PressRelease" target="_blank"><u>här.</u> &#160;<i class="far fa-file-pdf"></i></a></p>
+
     <p>Descargar la nota de prensa en español <a href="{{'/images/InTranslation_PR_ES.pdf' | relative_url }}" download="InTranslation_PressRelease" target="_blank"><u>aquí.</u> &#160;<i class="far fa-file-pdf"></i></a>.</p>
 
 </section><!--publicacion-->
