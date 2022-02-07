@@ -492,20 +492,18 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
     <h1>Publikationer</h1>
     <p>Här kommer det (senare) att publiceras texter, videor och ljudfiler från de aktiviteter som presenteras av <em>In translation</em>.</p>
    <br /><br />
-   <hr class="separador"/>
+ 
 
-<hr style="border-bottom: 1px solid black" />
-   <p>Gaspar Cano intervjuar Cristina Morales
-    som presenterar sin roman 
+   <hr style="border: 0; border-bottom: 1px solid black; width: 50%" />
+   <p>Gaspar Cano intervjuar Cristina Morales <br />som presenterar sin roman 
     <em>Lectura fácil</em></p>
    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674228077?h=976e8c01ec&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Entrevista a Cristina Morales, Lectura f&amp;aacute;cil"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-  
 
-  
-   <hr style="border-bottom: 1px solid black" />
 
-  
+   <hr style="border: 0; border-bottom: 1px solid black; width: 50%" />
+
+   <br />
    
 
     <p>Ladda ner pressmeddelandet på svenska <a href="{{'/images/InTranslation_PR_SE.pdf' | relative_url }}" download="InTranslation_PressRelease" target="_blank"><u>här.</u> &#160;<i class="far fa-file-pdf"></i></a></p>
