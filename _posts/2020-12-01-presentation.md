@@ -494,16 +494,62 @@ description: Ur litteraturens industriella perspektiv lyfter vi fram översätt
    <br /><br />
  
 
-   <hr style="border: 0; border-bottom: 1px solid black; width: 50%" />
+
+    <div class="texto" id="fotos">
+        <div class="collapsible">
+            <h2>Bilder på aktiviteterna:
+                <!-- <br />s<span class="autor">Bilder på aktiviteterna:</span> -->
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>   
+
+        <div class="gallery content-collapse">
+            <figure class="gallery-element">
+                <img class="" src="{{'/images/album//IT_Feria_Estocolmo_2021.jpg' | relative_url }}"  alt="ella" />
+                <figcaption>Olvido García Valdés och Clara Usón i Kulturhuset/Stadsteaterns bibliotek under Litteraturmässan i Stockholm. Moderering av Gaspar Cano och konsekutiv översättning av Lena Öhman. Den 4 december 2021. </figcaption>
+            </figure>
+
+            <figure class="gallery-element">
+                <img class="" src="{{'/images/album/IT_aliasTEATER1.jpg' | relative_url }}"  alt="ella" />
+                <figcaption>Olvido García Valdés och Clara Usón under evenemanget som anordnades av Instituto Cervantes på aliasTEATERN (Stockholm) den 3 december 2021.</figcaption>
+            </figure>        
+            <figure class="gallery-element">
+                <img class="" src="{{'/images/album/IT_aliasTEATER2.jpg' | relative_url }}"  alt="ella" />
+                <figcaption>Skådespelaren Hans Sandquist läser utdrag ur verk av Clara Usón och Olvido García Valdés. Den 3 december 2021 på aliasTEATER, Stockholm.</figcaption>
+            </figure>   
+            <figure class="gallery-element">
+                <img class="" src="{{'/images/album/IT_SEMINARIO.jpg' | relative_url }}"  alt="ella" />
+                <figcaption>Moment av seminariet för spanska till svenska översättare som anordnades av Översättarcentrum på Författarförbundet den 2 december 2021 i Stockholm.</figcaption>
+            </figure>   
+        </div>
+    </div>    
+
+
+    <div class="texto" id="entrevista1">
+        <div class="collapsible">
+            <h2>Gaspar Cano intervjuar Cristina Morales 
+                <br />som presenterar sin roman <em>Lectura fácil</em>
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>   
+
+        <div class="gallery content-collapse">    
+            <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674228077?h=976e8c01ec&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Entrevista a Cristina Morales, Lectura f&amp;aacute;cil"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+        </div>
+    </div>
+
+
+  <br /><br />
+    <!--  <hr style="border: 0; border-bottom: 1px solid black; width: 50%" />
    <p>Gaspar Cano intervjuar Cristina Morales <br />som presenterar sin roman 
     <em>Lectura fácil</em></p>
-   <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674228077?h=976e8c01ec&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Entrevista a Cristina Morales, Lectura f&amp;aacute;cil"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
-
-   <hr style="border: 0; border-bottom: 1px solid black; width: 50%" />
-
-   <br />
+   <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674228077?h=976e8c01ec&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Entrevista a Cristina Morales, Lectura f&amp;aacute;cil"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
+   <!-- <hr style="border: 0; border-bottom: 1px solid black; width: 50%" /> -->
+  
    
 
     <p>Ladda ner pressmeddelandet på svenska <a href="{{'/images/InTranslation_PR_SE.pdf' | relative_url }}" download="InTranslation_PressRelease" target="_blank"><u>här.</u> &#160;<i class="far fa-file-pdf"></i></a></p>

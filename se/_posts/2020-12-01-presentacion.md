@@ -498,13 +498,63 @@ description: Desde la perspectiva industrial de la literatura ponemos en valor l
     <p>En esta sección se ofrecerán transcripciones, videos y audios de las distintas actividades celebradas.</p>
     <br /><br />
 
-    <hr style="border: 0; border-bottom: 1px solid black; width: 50%" />
+
+
+    <div class="texto" id="fotos">
+        <div class="collapsible">
+            <h2>Imágenes de las activdades celebradas:
+                <!-- <br />s<span class="autor">Bilder på aktiviteterna:</span> -->
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>   
+
+        <div class="gallery content-collapse">
+            <figure class="gallery-element">
+                <img class="" src="{{'/images/album//IT_Feria_Estocolmo_2021.jpg' | relative_url }}"  alt="ella" />
+                <figcaption>Olvido García Valdés y Clara Usón intervienen el 4 de diciembre de 2021 en la biblioteca de Kulturhuset/Stadsteatern durante en la Feria literaria de Estocolmo. Moderación de Gaspar Cano y traducción consecutiva a cargo de Lena Öhman.</figcaption>
+            </figure>
+
+            <figure class="gallery-element">
+                <img class="" src="{{'/images/album/IT_aliasTEATER1.jpg' | relative_url }}"  alt="ella" />
+                <figcaption>Olvido García Valdés y Clara Usón durante el acto organizado por el Instituto Cervantes en el aliasTEATERN de Estocolmo el 3 de diciembre de 2021.</figcaption>
+            </figure>        
+            <figure class="gallery-element">
+                <img class="" src="{{'/images/album/IT_aliasTEATER2.jpg' | relative_url }}"  alt="ella" />
+                <figcaption>El actor sueco Hans Sandquist lee fragmentos de las obras de Clara Usón y de Olvido García Valdés durante el acto organizado el 3 de diciembre de 2021 por el Instituto Cervantes en el aliasTEATERN de Estocolmo.</figcaption>
+            </figure>   
+            <figure class="gallery-element">
+                <img class="" src="{{'/images/album/IT_SEMINARIO.jpg' | relative_url }}"  alt="ella" />
+                <figcaption>Momento del seminario para profesionales de la traducción del español al sueco organizado por Översättarcentrum (asociación de traductores suecos) en Författarförbundet (asociación de escritores suecos) el 2 de diciembre de 2021 en Estocolmo.</figcaption>
+            </figure>   
+        </div>
+    </div>    
+
+
+    <div class="texto" id="entrevista1">
+        <div class="collapsible">
+            <h2>Entrevista de Gaspar Cano a Cristina Morales con motivo 
+                <br />de la presentación de su obra <em>Lectura fácil</em>
+            </h2>
+            <div class="flechita">
+                <img src="/images/Flecha-down.svg" />
+            </div>
+        </div>   
+
+        <div class="gallery content-collapse">    
+            <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674228077?h=976e8c01ec&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Entrevista a Cristina Morales, Lectura f&amp;aacute;cil"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+        </div>
+    </div>
+
+
+    <!-- <hr style="border: 0; border-bottom: 1px solid black; width: 50%" />
     <p>Entrevista de Gaspar Cano a Cristina Morales
         con motivo <br />de la presentación de su obra
      <em>Lectura fácil</em></p>
     <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674228077?h=976e8c01ec&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Entrevista a Cristina Morales, Lectura f&amp;aacute;cil"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-    <hr style="border: 0; border-bottom: 1px solid black; width: 50%" />
+    <hr style="border: 0; border-bottom: 1px solid black; width: 50%" /> -->
 
     <br />
     
