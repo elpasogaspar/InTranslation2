@@ -290,9 +290,9 @@ section.textos {
 }
 
 
-                          // Setion Publication
+                          // Section Publication
 
-.publicacion {
+.publicacion  {
   div.texto {
     border-bottom: 1px solid black;
     margin-top: 1em;
@@ -300,7 +300,7 @@ section.textos {
         h2 {margin-bottom: 0;}  
     }
   div[class^="texto"]:first-child {margin-top: 2em;}
-  
+
   h2 {     
     margin-bottom: 0em; 
     font-style: italic;
